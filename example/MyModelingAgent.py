@@ -5,6 +5,7 @@ from websocietysimulator.agent import SimulationAgent
 from websocietysimulator.llm import LLMBase, InfinigenceLLM
 from websocietysimulator.agent.modules.memory_modules import MemoryGenerative
 from websocietysimulator.agent.modules.reasoning_modules import ReasoningCOT
+from websocietysimulator.llm import ClaudeLLM
 
 class MySimulationAgent(SimulationAgent):
     """
@@ -119,17 +120,17 @@ class MySimulationAgent(SimulationAgent):
 
 if __name__ == "__main__":
     # Set the data
-    task_set = "amazon" # "goodreads" or "yelp"
-    simulator = Simulator(data_dir="your data dir", device="gpu", cache=True)
-    simulator.set_task_and_groundtruth(task_dir=f"./track1/{task_set}/tasks", groundtruth_dir=f"./track1/{task_set}/groundtruth")
+    task_set = "yelp" # "goodreads" or "yelp"
+    simulator = Simulator(data_dir="/Users/ckc/Desktop/UCLA/2025fall/245/AgentSocietyChallenge/data", device="gpu", cache=True)
+    simulator.set_task_and_groundtruth(task_dir=f"./example/track1/{task_set}/tasks", groundtruth_dir=f"./example/track1/{task_set}/groundtruth")
 
     # Set the agent and LLM
     simulator.set_agent(MySimulationAgent)
-    simulator.set_llm(InfinigenceLLM(api_key="your api key"))
+    simulator.set_llm(ClaudeLLM(api_key=""))
 
     # Run the simulation
     # If you don't set the number of tasks, the simulator will run all tasks.
-    outputs = simulator.run_simulation(number_of_tasks=None, enable_threading=True, max_workers=10)
+    outputs = simulator.run_simulation(number_of_tasks=10, enable_threading=True, max_workers=10)
     
     # Evaluate the agent
     evaluation_results = simulator.evaluate()       
