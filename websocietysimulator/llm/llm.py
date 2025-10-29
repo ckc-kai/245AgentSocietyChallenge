@@ -146,10 +146,21 @@ class OpenAILLM(LLMBase):
         return self.embedding_model 
 
 class ClaudeLLM(LLMBase):
-    def __init__(self, api_key:str, model = "claude-sonnet-4-20250514"):
+    def __init__(self, api_key:str, model = "claude-sonnet-4-20250514", openai_api_key: str = None):
+        """
+        Initialize Claude LLM
+
+        Args:
+            api_key: Anthropic API key for Claude
+            model: Claude model name
+            openai_api_key: Optional OpenAI API key for embeddings (required for memory modules)
+        """
         super().__init__(model)
         self.client = Anthropic(api_key=api_key)
-        self.get_embedding_model = None
+        if openai_api_key:
+            self.embedding_model = OpenAIEmbeddings(api_key=openai_api_key)
+        else:
+            self.embedding_model = None
 
     @retry(
         retry=retry_if_exception_type(Exception),
@@ -181,7 +192,7 @@ class ClaudeLLM(LLMBase):
                         messages=messages,
                         temperature=temperature,
                         max_tokens=max_tokens,
-                        stop_sequences=stop_strs if stop_strs else []
+                        stop_sequences=[s for s in stop_strs if s and s.strip()] if stop_strs else []
                     )
                     responses.append(response.content[0].text)
                 except Exception as e:
@@ -198,7 +209,7 @@ class ClaudeLLM(LLMBase):
                     messages=messages,
                     temperature=temperature,
                     max_tokens=max_tokens,
-                    stop_sequences=stop_strs if stop_strs else []
+                    stop_sequences=[s for s in stop_strs if s and s.strip()] if stop_strs else []
                 )
                 return response.content[0].text
             except Exception as e:

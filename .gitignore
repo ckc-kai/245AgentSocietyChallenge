@@ -17,3 +17,6 @@ __*/
 TODO
 db/
 data
+secrets.env
+compare_agents.py
+AGENT_COMPARISON.md
