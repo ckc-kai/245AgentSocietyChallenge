@@ -6,6 +6,7 @@ from websocietysimulator.agent.modules.memory_modules import MemoryGenerative
 from websocietysimulator.agent.modules.reasoning_modules import ReasoningCOT
 from websocietysimulator.llm import ClaudeLLM
 from websocietysimulator.llm.llm import LLMBase
+from datetime import datetime
 import os
 from dotenv import load_dotenv
 load_dotenv(dotenv_path="./secrets.env")
@@ -116,6 +117,11 @@ class MySimulationAgent(SimulationAgent):
             logger.info(f"Task {user_id}: LLM response: {llm_response}")
 
             result = self._parse_out(llm_response)
+            
+            with open(f'./results/generation_detail/reason_v1.txt', 'a') as f:
+                f.write(f'\n {datetime.now()}')
+                f.write(f'\n LLM Response: {json.dumps(result, indent=4)}')
+            
             return result
         except Exception as e:
             logger.error(f"Error during workflow execution: {e}")  
@@ -135,7 +141,7 @@ if __name__ == "__main__":
     print("Starting simulation with MySimulationAgent and ClaudeLLM...")
     # Set the data
     task_set = "yelp" # "goodreads" or "yelp" or "amazon"
-    simulator = Simulator(data_dir="/Users/ckc/Desktop/UCLA/2025fall/245/AgentSocietyChallenge/data/processed", device="gpu", cache=True)
+    simulator = Simulator(data_dir="/Users/ckc/Desktop/UCLA/2025fall/245/AgentSocietyChallenge/data/processed", device="auto", cache=True)
     simulator.set_task_and_groundtruth(task_dir=f"./example/track1/{task_set}/tasks", groundtruth_dir=f"./example/track1/{task_set}/groundtruth")
 
     # Set the agent and LLM
@@ -149,8 +155,10 @@ if __name__ == "__main__":
     
     # Evaluate the agent
     evaluation_results = simulator.evaluate()       
-    with open(f'./example/results/evaluation_results_track1_{task_set}.json', 'w') as f:
-        json.dump(evaluation_results, f, indent=4)
+    with open(f'./results/evaluation/evaluation_results_track1_{task_set}.json_model1', 'a') as f:
+        time = {"time": datetime.now().isoformat()}
+        f.write(json.dump(time, f, indent=4)+"\n")
+        f.write(json.dump(evaluation_results, f, indent=4) + '\n')
 
     # Get evaluation history
     evaluation_history = simulator.get_evaluation_history()
