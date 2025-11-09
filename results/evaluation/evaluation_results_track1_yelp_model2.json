@@ -1,0 +1,15 @@
+{
+    
+    "_coment": "2025-10-31 10:35:16.345898",
+    "type": "simulation",
+    "metrics": {
+        "preference_estimation": 0.86,
+        "review_generation": 0.8162575748488161,
+        "overall_quality": 0.8381287874244081
+    },
+    "data_info": {
+        "evaluated_count": 10,
+        "original_simulation_count": 10,
+        "original_ground_truth_count": 400
+    }
+}

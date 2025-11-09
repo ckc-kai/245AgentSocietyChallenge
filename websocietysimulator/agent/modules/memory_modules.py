@@ -37,6 +37,11 @@ class MemoryBase:
         raise NotImplementedError("This method should be implemented by subclasses.")
 
 class MemoryDILU(MemoryBase):
+    '''
+    Finds the single most similar past task;
+    Stores the task without processing.
+    '''
+
     def __init__(self, llm):
         super().__init__(memory_type='dilu', llm=llm)
 
@@ -77,6 +82,10 @@ class MemoryDILU(MemoryBase):
         self.scenario_memory.add_documents([memory_doc])
 
 class MemoryGenerative(MemoryBase):
+    '''
+    Top 3 similar memories usig LLM;
+    Stores the task without processing.
+    '''
     def __init__(self, llm):
         super().__init__(memory_type='generative', llm=llm)
 
@@ -135,6 +144,10 @@ Score: '''
         self.scenario_memory.add_documents([memory_doc])
 
 class MemoryTP(MemoryBase):
+    '''
+    Similar momory retrieval based on task planning;
+    Stores the task without processing.
+    '''
     def __init__(self, llm):
         super().__init__(memory_type='tp', llm=llm)
 
@@ -183,6 +196,11 @@ Plan:
         self.scenario_memory.add_documents([memory_doc])
 
 class MemoryVoyager(MemoryBase):
+    '''
+    Finds the most similar memory (k=1) and returns its trajectory
+
+    '''
+
     def __init__(self, llm):
         super().__init__(memory_type='voyager', llm=llm)
 

@@ -24,6 +24,7 @@ langchain-chroma = "^0.1.4"
 torch = "^2.5.1"
 lmdb = "^1.6.2"
 agentsociety = "^1.0.13"
+anthropic = "^0.40.0"
 
 [build-system]
 requires = ["poetry-core>=1.1.0", "poetry>=1.1.0,<1.9.0"]

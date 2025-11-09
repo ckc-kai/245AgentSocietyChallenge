@@ -1,0 +1,102 @@
+Yelp
+ 2025-10-31 10:34:40.903392
+ LLM Response: {
+    "stars": 5.0,
+    "review": "Just rented an RV from Cruise America for our family vacation and had such a great experience! The staff was super helpful walking us through everything and made the whole process easy. The motorhome was clean and ready to go - can't wait for our next adventure!"
+}
+ 2025-10-31 10:34:44.268994
+ LLM Response: {
+    "stars": 1.0,
+    "review": "TERRIBLE SERVICE!!!! I scheduled an appointment between 12-4pm and the technician never showed up. I waited all day and wasted my entire Saturday. When I called customer service they just gave me excuses and tried to reschedule for next week. Completely unreliable!"
+}
+ 2025-10-31 10:34:45.272352
+ LLM Response: {
+    "stars": 1.0,
+    "review": "Terrible haircut, stylist didn't listen to what I wanted. Overpriced for such poor service. Won't be back."
+}
+ 2025-10-31 10:34:45.698589
+ LLM Response: {
+    "stars": 5.0,
+    "review": "Perfect little frozen yogurt spot! So many flavors to choose from and the toppings bar was always well stocked. The staff was really nice and the prices were great for the portion size."
+}
+ 2025-10-31 10:34:45.767402
+ LLM Response: {
+    "stars": 1.0,
+    "review": "Stopped by this bakery hoping for some decent desserts but was disappointed by the whole experience. The place isn't wheelchair accessible which is a problem, and they don't even offer WiFi for customers. Their hours are inconsistent - closed on Mondays and limited weekend availability makes it hard to actually visit. The staff seemed disorganized and the service was slow. For a bakery that does catering, you'd expect better customer service and basic amenities."
+}
+ 2025-10-31 10:34:46.309212
+ LLM Response: {
+    "stars": 1.0,
+    "review": "Unprofessional and unreliable. Scheduled multiple appointments and they never showed up. When I finally reached someone, they were dismissive and offered no real solutions. Save yourself the headache and find another roofer."
+}
+ 2025-10-31 10:34:47.271275
+ LLM Response: {
+    "stars": 3.0,
+    "review": "Nice brewery atmosphere with decent beer selection and solid American fare. Food was good but not exceptional - typical brewpub quality. Prices seem reasonable for downtown Philly, much better value than some places. Service was fine, would come back for drinks."
+}
+ 2025-10-31 10:34:47.806492
+ LLM Response: {
+    "stars": 5.0,
+    "review": "Really enjoyed our visit to Bar Asia! The Asian fusion dishes were delicious and the drinks were well made. Service was attentive and friendly throughout our meal. Great spot for dinner with friends - we sat outside which was nice. Good value for the price and portions were generous."
+}
+ 2025-10-31 10:35:14.049069
+ LLM Response: {
+    "stars": 5.0,
+    "review": "What a gem I found when I needed a new eye doctor in the Westchase area! Family Eyecare really lives up to their stellar reputation - the staff was incredibly thorough during my exam and took the time to explain everything. I love that they're appointment-only because it means no waiting around, and the parking situation is so convenient with their lot right there. Definitely my go-to spot for all things vision-related now!"
+}
+ 2025-10-31 10:35:14.360622
+ LLM Response: {
+    "stars": 3.0,
+    "review": "This place served its purpose as a neighborhood bar and grill, nothing more, nothing less. The food was standard American fare - not terrible, but nothing to write home about either. The atmosphere was casual and the staff was friendly enough, though service could be slow during busy times. I can see why it eventually closed, as it never really found its identity beyond being just another generic sports bar."
+}
+ 
+ 2025-10-31 11:18:21.599998
+ LLM Response: {
+    "stars": 5.0,
+    "review": "Works perfectly for cleaning electronics. High quality and does exactly what it should. Great for circuit boards and components."
+}
+ 2025-10-31 11:18:21.864175
+ LLM Response: {
+    "stars": 4.0,
+    "review": "Authentic Gibson part that fits perfectly on my Les Paul. Easy install and the nickel finish matches well. Does exactly what it's supposed to do - no complaints about quality or fit."
+}
+ 2025-10-31 11:18:22.600104
+ LLM Response: {
+    "stars": 5.0,
+    "review": "Good precision tools for the price. They work well for measuring holes accurately. A bit basic but gets the job done for most applications."
+}
+ 2025-10-31 11:19:13.138298
+ LLM Response: {
+    "stars": 4.0,
+    "review": "Good quality harmonica with solid German construction. The plastic comb feels durable and the reed response is consistent across most holes. Had to work a few of the higher notes initially but they broke in nicely after some playing time."
+}
+ 2025-10-31 11:19:13.211300
+ LLM Response: {
+    "stars": 5.0,
+    "review": "Got this mouse for gaming and it works perfectly. Setup was easy and the buttons feel responsive. Good quality from Logitech as expected."
+}
+ 2025-10-31 11:19:14.072691
+ LLM Response: {
+    "stars": 4.0,
+    "review": "These solder seal connectors work well for basic automotive wiring projects. The color coding makes it easy to pick the right size, and the transparent sleeve lets you see what you're doing. Used them on my truck's stereo installation and they created solid waterproof connections"
+}
+ 2025-10-31 11:19:15.559056
+ LLM Response: {
+    "stars": 5.0,
+    "review": "We bought this for our Switch OLED and it's been great for longer gaming sessions. The ergonomic design really helps with hand comfort and the mappable buttons are super useful. My husband loves the vibration feature and it was easy to set up - just plug and play."
+}
+ 2025-10-31 11:19:15.925752
+ LLM Response: {
+    "stars": 5.0,
+    "review": "Great fighting game with beautiful hand-drawn animation. Love that you get both PS4 and Vita versions with one purchase. Smooth gameplay and the character variety keeps it interesting. Solid value for fighting game fans."
+}
+ 2025-10-31 11:19:21.948320
+ LLM Response: {
+    "stars": 5.0,
+    "review": "These gloves are fantastic! Great quality for the price and they fit perfectly. The nitrile material feels durable and provides excellent grip. Perfect for multiple uses around the house and work!"
+}
+ 2025-10-31 11:19:32.234309
+ LLM Response: {
+    "stars": 4.0,
+    "review": "The wireless connection works great with my PC and the mechanical feel is definitely noticeable compared to regular keyboards. The rainbow backlighting looks nice and the keys feel solid. Battery life has been good so far, though I wish the lighting effects were more customizable. Overall a decent wireless gaming keyboard for the price point."
+}

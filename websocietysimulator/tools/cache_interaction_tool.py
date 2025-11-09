@@ -21,9 +21,9 @@ class CacheInteractionTool:
         self.env_dir = os.path.join(data_dir, "lmdb_cache")
         os.makedirs(self.env_dir, exist_ok=True)
 
-        self.user_env = lmdb.open(os.path.join(self.env_dir, "users"), map_size=2 * 1024 * 1024 * 1024)
-        self.item_env = lmdb.open(os.path.join(self.env_dir, "items"), map_size=2 * 1024 * 1024 * 1024)
-        self.review_env = lmdb.open(os.path.join(self.env_dir, "reviews"), map_size=8 * 1024 * 1024 * 1024)
+        self.user_env = lmdb.open(os.path.join(self.env_dir, "users"), map_size=5 * 1024 * 1024 * 1024)     # 5GB
+        self.item_env = lmdb.open(os.path.join(self.env_dir, "items"), map_size=10 * 1024 * 1024 * 1024)    # 10GB
+        self.review_env = lmdb.open(os.path.join(self.env_dir, "reviews"), map_size=40 * 1024 * 1024 * 1024) # 40GB
 
         # Initialize the database if empty
         self._initialize_db()
