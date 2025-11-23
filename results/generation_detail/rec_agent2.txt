@@ -1,0 +1,2571 @@
+
+ 2025-11-23 07:02:17.642737
+ User: e5349f9232db517fdfb473641811ac06
+ Raw LLM Response: Step-by-step analysis:
+
+1. **User Profile & Preferences**
+   - The user gives only 5-star ratings, is very positive, and has reviewed 6 books.
+   - No explicit preferred categories, but strong signals from reviews:
+     - "Read almost all of Tomie's books to my children at various times. He is my favorite children's author."
+     - "Beautifully illustrated and cleverly written!"
+     - "Love this book!"
+     - "N/A - This man speaks to my soul!"
+   - Strong affinity for children's books, especially illustrated ones, and likely picture books or family-friendly literature.
+
+2. **Relevant Past Experiences**
+   - All memories are 5-star reviews, with at least one specifically mentioning children's books and illustration.
+   - Tomie dePaola is a famous children's author/illustrator, confirming the user enjoys children's illustrated books.
+
+3. **Candidate Items: Category/Attribute Match**
+   - Highest match: Children's picture books, illustrated books, or anthologies of children's literature.
+   - Secondary: Books with humor, illustration, or family themes.
+   - Lower: Adult fantasy, poetry, or books with mature themes.
+
+4. **Item Quality (Ratings, Review Count)**
+   - High average rating and higher review count are positive, but user preference match is more important.
+
+5. **Relevance to Past Experiences**
+   - Books similar to Tomie dePaola's style, or classic/illustrated children's books, are most relevant.
+
+6. **Location**
+   - No location provided, so this is not a factor.
+
+7. **Ranking the Items**
+   - **Top Tier (Strongest Match):**
+     - 741429: "The Illustrated Treasury of Children's Literature" (children's literature, high rating, fits user profile)
+     - 827260: "Amazing Airplanes" (picture book, illustrated, fits user profile)
+     - 646040: "We Eat Dinner in the Bathtub" (children's book, illustrated, humorous)
+     - 33359704: "I Want to Go First!" (children's picture book, interactive, illustrated)
+     - 13517756: "Детска енциклопедия" (children's encyclopedia, illustrated, fits profile)
+     - 12140102: "El Libro Lila de los Cuentos de Hadas" (fairy tales, children's literature)
+     - 29741418: "The Castle of Inside Out" (children's fantasy, illustrated)
+     - 6203342: "Orp and the Chop Suey Burgers" (children's book)
+     - 1998313: "Daring to Be Abigail" (children's/YA)
+     - 1292972: "The Sign of the Beaver" (children's/YA classic)
+
+   - **Middle Tier (Some Match):**
+     - 17999159: "Hyperbole and a Half" (illustrated, humor, not strictly children's but accessible)
+     - 9951085: "The Armed Garden and Other Stories" (graphic novel, illustrated, but more adult themes)
+     - 26226676: "Mystery Society" (graphic novel, more adult)
+     - 2880751: "Arts & Sciences" (no description, but rating is decent)
+     - 7987574: "Tom Swift and His War Tank" (children's adventure, but older style)
+     - 27398274: "Sonnets from the Singlish Upsize Edition" (poetry, humor, but not children's)
+     - 5945516: "The Complete Poems of Sappho" (classic poetry, not children's)
+     - 275624: "Ad ora incerta" (poetry, not children's)
+     - 63477: "Pictures of the Gone World" (poetry, not children's)
+
+   - **Lower Tier (Weakest Match):**
+     - 534180: "God Save the Queen" (adult fantasy, dark themes, not a match for user)
+   
+8. **Final Ranking**
+   - Within each tier, order by item quality (rating, review count), and then by relevance to user profile.
+
+Final recommended order:
+
+['741429', '827260', '646040', '33359704', '13517756', '12140102', '29741418', '6203342', '1998313', '1292972', '17999159', '9951085', '26226676', '2880751', '7987574', '27398274', '5945516', '275624', '63477', '534180']
+ Parsed Top 5 Recommendations: ['741429', '827260', '646040', '33359704', '13517756']
+ Full Ranking: [
+  "741429",
+  "827260",
+  "646040",
+  "33359704",
+  "13517756",
+  "12140102",
+  "29741418",
+  "6203342",
+  "1998313",
+  "1292972",
+  "17999159",
+  "9951085",
+  "26226676",
+  "2880751",
+  "7987574",
+  "27398274",
+  "5945516",
+  "275624",
+  "63477",
+  "534180"
+]
+
+ 2025-11-23 07:02:48.034428
+ User: 7a71c9350d45bca0d9f0a5dbc38ae991
+ Raw LLM Response: Step-by-step analysis:
+
+1. **User Profile & Preferences**
+   - Only 1 review, rated 0 stars (possibly a "did not rate" or "unrated" on Goodreads).
+   - The review text: "This has a brilliant first few paragraphs. I always use it to show children how to start writing a s..."
+   - This suggests the user is either an educator or someone interested in children's literature, writing instruction, or books with strong openings for teaching purposes.
+   - No explicit preferred categories, but the only review is about using a book to teach children writing.
+
+2. **User Type**
+   - "Critical and discerning" with a 0.0 average rating (but only one review, so this is not conclusive).
+   - The review is positive about the opening paragraphs, suggesting the user values strong writing, especially beginnings.
+
+3. **Relevant Past Experiences**
+   - The only review is for a book with a "brilliant first few paragraphs" used to teach children writing.
+   - This implies a preference for books with strong writing, possibly children's or instructional books, or books useful for teaching.
+
+4. **Candidate Items**
+   - All are books, but genres and target audiences vary: poetry, children's books, comics, manga, literary fiction, etc.
+   - Some are clearly children's books or have educational/teaching potential.
+
+5. **Ranking Factors**
+   - **Category/attribute match:** Prioritize books that are children's literature, writing instruction, or have strong literary merit/openings.
+   - **Item quality:** Consider average rating and number of ratings.
+   - **Relevance to past experience:** Books that can be used to teach children, have strong openings, or are notable for writing style.
+   - **Location:** Not provided, so not considered.
+
+6. **Item-by-item assessment for top matches:**
+   - "The Arrival" (23399671): Highly acclaimed, wordless picture book, often used in classrooms for creative writing prompts and teaching narrative structure. Strong match.
+   - "The Houdini Box" (806923): Children's book, magical realism, award-winning, likely to have a strong opening and appeal for teaching.
+   - "The Aesir Kids" (19167482): Children's fantasy, Norse mythology, could be engaging for teaching, but less directly about writing.
+   - "Ballerina Swan" (17472553): Children's book, but only 1 rating, so less quality data.
+   - "There Was an Old Lady Who Swallowed a Rose!" (13591674): Popular children's book, but more for entertainment than writing instruction.
+   - "Prisoners of the Sun (Tintin, #14)" (96428): Classic comic, strong narrative, widely used in education.
+   - "Showcase Presents: Teen Titans, Vol. 1" (707902), "Ms. Marvel, Vol. 1: Nada Normal" (30688636), "X-Statix, Volume 2" (1052310): Comics, less likely to be used for teaching writing, but could be used for visual storytelling.
+   - "All We Can Hold: Poems of Motherhood" (30052657), "Madman at Kilifi" (18701585), "Maikro: Haiku and Microfiction" (15763752): Poetry collections, may appeal to someone interested in strong writing, but not specifically for children.
+   - "The Hotel Cat" (764304): Children's book, classic, could be used for teaching.
+   - "Alice-Miranda at School" (11968098): Children's book, but little info.
+   - "Merry Christmas, Davy!" (7502273): Children's book, but more seasonal/holiday themed.
+   - "Tales for the Midnight Hour" (15325294): Children's horror, could be used for teaching suspense.
+   - "Beelzebub, Vol. 21" (18070090), "Given 1" (25707426), "Манюня" (35705399), "قصائد الخطوة السابعة" (9537683): Manga/foreign language books, less likely to be used for teaching writing in English-language settings.
+
+7. **Final Ranking Logic**
+   - Top: "The Arrival" (teaching, strong narrative, literary merit), "The Houdini Box" (children's, award-winning), "The Aesir Kids" (children's, mythology), "Prisoners of the Sun" (classic, strong narrative), "The Hotel Cat" (children's, classic), "Tales for the Midnight Hour" (children's, suspense), "Ballerina Swan" (children's, but low ratings), "There Was an Old Lady Who Swallowed a Rose!" (children's, popular), "Alice-Miranda at School" (children's), "Merry Christmas, Davy!" (children's).
+   - Middle: Poetry collections and comics with literary merit.
+   - Bottom: Manga/foreign language books, less relevant for teaching writing in English.
+
+Final ranked list:
+
+['23399671', '806923', '19167482', '96428', '764304', '15325294', '17472553', '13591674', '11968098', '7502273', '30052657', '18701585', '15763752', '30688636', '707902', '1052310', '35705399', '18070090', '25707426', '9537683']
+ Parsed Top 5 Recommendations: ['23399671', '806923', '19167482', '96428', '764304']
+ Full Ranking: [
+  "23399671",
+  "806923",
+  "19167482",
+  "96428",
+  "764304",
+  "15325294",
+  "17472553",
+  "13591674",
+  "11968098",
+  "7502273",
+  "30052657",
+  "18701585",
+  "15763752",
+  "30688636",
+  "707902",
+  "1052310",
+  "35705399",
+  "18070090",
+  "25707426",
+  "9537683"
+]
+
+ 2025-11-23 07:03:15.935623
+ User: 567e537193d7f9c39e5ad620ac66e1cf
+ Raw LLM Response: Step-by-step analysis:
+
+1. **User Profile & Preferences**
+   - Only 2 reviews: 1 star (for a Kate DiCamillo children's book), 5 stars (for a book described as "Nhung mau truyen nho dan xen nhung vo tinh gan ket chat che voi nhau tao nen cau chuyen day cam dong..." – roughly: "Short stories intertwined, unintentionally closely linked, creating an emotionally moving story").
+   - No clear preferred category, but the 5-star review suggests a strong preference for emotionally resonant, interconnected short stories, possibly literary or adult fiction.
+   - 1-star review for a popular children's author (Kate DiCamillo) suggests dislike for mainstream children's books.
+   - Average rating is 3.0, but with only two reviews, the 5-star is more telling for positive preference.
+
+2. **Category/Attribute Match**
+   - Avoid recommending mainstream children's books or books similar to Kate DiCamillo.
+   - Favor books with interconnected stories, emotional depth, or literary qualities.
+   - Avoid books that are overtly for children or are simple adventure/fantasy for kids.
+
+3. **Item Quality**
+   - Consider average rating and ratings count, but only as a secondary factor to preference match.
+
+4. **Relevance to Past Experiences**
+   - Strong positive for interconnected, emotional stories.
+   - Strong negative for mainstream children's literature.
+
+5. **Location**
+   - No location provided.
+
+6. **Item-by-item assessment (grouped by likely fit):**
+
+**Best Fit (Interconnected stories, literary, emotional, or adult themes):**
+- 10884487 ("Barcelona TM"): Compilation of short stories, literary, experimental, adult themes.
+- 29104125 ("The Seven Transparent Days"): Spiritual, meditative, poetic, interconnected reflections.
+- 22246553 ("Match"): Described as love story, social parody, lyrical, original – possibly literary.
+- 53495 ("Chasing Redbird"): YA, but deals with grief, secrets, emotional journey (not mainstream children's).
+- 13538765 ("The Clockwork Sky"): Steampunk, adventure, but with themes of mystery, missing children, and emotional undertones.
+- 3349739 ("Red Angel, Volume 01"): Vampire story, possibly more mature themes, mystery, memory, identity.
+- 25850885 ("Lady Mechanika: The Tablet of Destinies #3"): Steampunk, adventure, mystery, possibly more mature.
+
+**Neutral/Moderate Fit (Not obviously for children, some adventure/fantasy, or comics):**
+- 6314690 ("The Flash Presents: Mercury Falling"): Superhero, but with themes of mentorship, loss.
+- 7846463 ("Star Wars: Legacy, Volume 9: Monster"): Sci-fi, adventure, but with themes of failure, secrets, decisions.
+- 33138586 ("Rick and Morty: Lil' Poopy Superstar Vol. 1"): Adult humor, comic, not for children.
+- 17457677 ("Beewitched"): Children's book, but with a unique, magical premise.
+- 847164 ("Gus and Button"): Creative illustrations, adventure, but still children's.
+- 478615 ("Keeping House"): Children's, but about responsibility, not adventure.
+- 2083707 ("101 Favorite Stories from the Bible"): Children's, but with moral/spiritual themes.
+
+**Poor Fit (Mainstream children's, simple adventure, or books similar to Kate DiCamillo):**
+- 7157840 ("Curious George The Perfect Carrot"): Mainstream children's.
+- 1705675 ("Imagine Me A Pirate"): Children's adventure.
+- 8137055 ("Swim! Swim!"): Children's, friendship theme.
+- 7843232 ("Voyage of the Dawn Treader MTI CD"): Classic children's fantasy.
+- 32618420 ("Minecraft: Exploded Builds: Medieval Fortress"): Minecraft, likely for children.
+- 4554771 ("Childe Harold's Pilgrimage and Other Romantic Poems"): Poetry, but very low rating and no reviews.
+
+**Now, order within groups by item quality (rating, count), then by fit:**
+
+**Top Tier:**
+1. 10884487 ("Barcelona TM") – Literary, short stories, experimental, fits 5-star review.
+2. 29104125 ("The Seven Transparent Days") – Spiritual, poetic, interconnected, fits 5-star review.
+3. 22246553 ("Match") – Literary, lyrical, adult themes.
+4. 53495 ("Chasing Redbird") – Emotional, journey, high ratings count.
+5. 13538765 ("The Clockwork Sky") – Steampunk, emotional undertones, moderate rating.
+6. 3349739 ("Red Angel, Volume 01") – Mystery, memory, identity, moderate rating.
+7. 25850885 ("Lady Mechanika: The Tablet of Destinies #3") – Steampunk, adventure, high rating.
+
+**Middle Tier:**
+8. 6314690 ("The Flash Presents: Mercury Falling") – Superhero, mentorship, moderate rating.
+9. 7846463 ("Star Wars: Legacy, Volume 9: Monster") – Sci-fi, secrets, moderate rating.
+10. 33138586 ("Rick and Morty: Lil' Poopy Superstar Vol. 1") – Adult comic, moderate rating.
+11. 17457677 ("Beewitched") – Unique children's, moderate rating.
+12. 847164 ("Gus and Button") – Creative, moderate rating.
+13. 478615 ("Keeping House") – Responsibility, moderate rating.
+14. 2083707 ("101 Favorite Stories from the Bible") – Spiritual, moderate rating.
+
+**Bottom Tier:**
+15. 7157840 ("Curious George The Perfect Carrot") – Mainstream children's.
+16. 1705675 ("Imagine Me A Pirate") – Children's adventure.
+17. 8137055 ("Swim! Swim!") – Children's, friendship.
+18. 7843232 ("Voyage of the Dawn Treader MTI CD") – Classic children's fantasy.
+19. 32618420 ("Minecraft: Exploded Builds: Medieval Fortress") – Minecraft, children's.
+20. 4554771 ("Childe Harold's Pilgrimage and Other Romantic Poems") – Poetry, but very low rating and no reviews.
+
+**Final ranked list:**
+
+['10884487', '29104125', '22246553', '53495', '13538765', '3349739', '25850885', '6314690', '7846463', '33138586', '17457677', '847164', '478615', '2083707', '7157840', '1705675', '8137055', '7843232', '32618420', '4554771']
+ Parsed Top 5 Recommendations: ['10884487', '29104125', '22246553', '53495', '13538765']
+ Full Ranking: [
+  "10884487",
+  "29104125",
+  "22246553",
+  "53495",
+  "13538765",
+  "3349739",
+  "25850885",
+  "6314690",
+  "7846463",
+  "33138586",
+  "17457677",
+  "847164",
+  "478615",
+  "2083707",
+  "7157840",
+  "1705675",
+  "8137055",
+  "7843232",
+  "32618420",
+  "4554771"
+]
+
+ 2025-11-23 07:03:38.907402
+ User: aa6f6595eeef112d7ac0ad6fb91585dc
+ Raw LLM Response: Step-by-step analysis:
+
+1. **User Profile and Preferences:**
+   - Generally positive, generous rater (avg 4.3, most common 5).
+   - Enjoys middle-grade fantasy, stories with humor, heart, and community/family themes.
+   - Likes whimsical, gentle fun at science/science fiction.
+   - Dislikes books that are "readable, but not very interesting."
+   - No explicit preferred categories, but strong signals for middle-grade/children's, fantasy, humor, and warmth.
+
+2. **Relevant Past Experiences:**
+   - 5-star reviews for middle-grade fantasy with humor, stories about girls/families/communities, and whimsical verse.
+   - 3-star for colorful obituaries (nonfiction), but less enthusiasm.
+   - 2-star for a "peculiar" book that was readable but not interesting (possibly older/classic or experimental).
+
+3. **Candidate Items Analysis:**
+   - **Top matches:** Middle-grade/children's, fantasy, humor, warmth, community, animals, adventure.
+   - **Lower matches:** Adult superhero comics (unless whimsical), poetry (unless whimsical), books with low engagement or poor ratings, or those lacking warmth/humor.
+
+4. **Item-by-item assessment:**
+   - **573690 (More Shtuff - Mutts III):** Comic strip, animals, humor, warmth, high rating, fits user's love for whimsy and heart.
+   - **232111 (Ramona the Brave):** Classic middle-grade, humor, girl protagonist, family/community, fits user profile.
+   - **2663511 (Cry of the Wolf):** Middle-grade fantasy, magical animals, adventure, fits user profile.
+   - **560626 (The Sword in the Stone):** Middle-grade retelling, fantasy, humor, classic, fits user profile.
+   - **12859159 (What Does It Mean To Be Safe?):** Children's book, warmth, community, safety, fits user profile.
+   - **20566972 (Sleeping Beauty: The Ultimate Collection):** Fairy tales, classic, some whimsy, but less unique than above.
+   - **18721078 (The Purple Girl):** Middle-grade, fantasy, discrimination, adventure, fits user profile.
+   - **19411251 (Cloudy, Partly Bony - One Piece):** Manga, adventure, humor, fits user profile (if open to manga).
+   - **36340884 (Secret Seven Fireworks):** Children's mystery/adventure, fits user profile.
+   - **20687290 (Extreme Weather):** Nonfiction, but high rating, may appeal if user likes science presented engagingly.
+   - **21911244 (Broodje rat):** Unknown content, but good rating, possibly middle-grade/children's.
+   - **11527081 (It's Raining, It's Pouring):** Children's, humor, warmth, but only 1 rating.
+   - **29481444 (Hansel Y Gretel):** Classic fairy tale, but only 1 rating.
+   - **10987994 (Gotham City Sirens):** Superhero, but focus on female characters, possible fit if user likes comics.
+   - **6164174 (Superman: New Krypton):** Superhero, action, less warmth/humor, but could appeal if user likes comics.
+   - **20610059 (Witchcraft Works):** Manga, fantasy, but more action/romance, less warmth.
+   - **7016263 (Selected Poems):** Poetry, but no info on style; user's preference is for whimsical verse.
+   - **4051786 (Le Playboy):** No description, low ratings count.
+   - **706129 (Heart of Mine):** No description, low rating.
+   - **15794740 (Green Arrow, Volume 2):** Superhero, low rating, less likely to appeal.
+
+5. **Ranking:**
+   - Top: Items that are middle-grade/children's, fantasy, humor, warmth, animals, adventure, community.
+   - Middle: Manga, superhero comics with some humor or female focus, nonfiction with high ratings.
+   - Bottom: Items with no description, low ratings, or low quality.
+
+Final ranking:
+
+['573690', '232111', '2663511', '560626', '12859159', '20566972', '18721078', '19411251', '36340884', '20687290', '21911244', '11527081', '29481444', '10987994', '6164174', '20610059', '7016263', '4051786', '706129', '15794740']
+ Parsed Top 5 Recommendations: ['573690', '232111', '2663511', '560626', '12859159']
+ Full Ranking: [
+  "573690",
+  "232111",
+  "2663511",
+  "560626",
+  "12859159",
+  "20566972",
+  "18721078",
+  "19411251",
+  "36340884",
+  "20687290",
+  "21911244",
+  "11527081",
+  "29481444",
+  "10987994",
+  "6164174",
+  "20610059",
+  "7016263",
+  "4051786",
+  "706129",
+  "15794740"
+]
+
+ 2025-11-23 07:04:09.343390
+ User: eb0da1acbc42ecffa50413f8b1f92b51
+ Raw LLM Response: Step-by-step analysis:
+
+1. **User Profile & Preferences:**
+   - Moderate, balanced rater (avg 3.7, std 1.22).
+   - No strong genre/category preference detected, but clear enjoyment of witty, funny, sarcastic stories, and a fondness for children’s books and manga.
+   - Loves Peter Pan stories and children’s literature, even as an adult.
+   - Enjoys manga and graphic novels with humor and wit.
+
+2. **Relevant Past Experiences:**
+   - 5 stars for a manga described as witty, funny, sarcastic, with a good story.
+   - 5 stars for a Peter Pan-related book.
+   - 4 stars for a children’s book, enjoyed as an adult.
+   - 3 stars for another children’s book, appreciated for its simplicity and ease.
+
+3. **Category/Attribute Matching:**
+   - Strongest signals: manga, graphic novels, witty/funny/sarcastic tone, children’s books (especially those enjoyable for adults), fantasy/adventure.
+   - Items matching these attributes should be prioritized.
+
+4. **Item Quality:**
+   - Consider average rating and ratings count, but only after preference match.
+
+5. **Relevance to Past Experiences:**
+   - Manga/graphic novels with humor, children’s books with wit or fantasy, or stories with a Peter Pan-like sense of adventure.
+
+6. **Location:**
+   - No location provided, so skip this factor.
+
+**Now, evaluate each candidate:**
+
+- **Manga/Graphic Novels/Comics:**
+  - 9557199: Tactics Vol. 1 (manga, but no description)
+  - 25117724: Sword Art Online Progressive, Vol. 2 (manga, fantasy, adventure)
+  - 191216: Lone Wolf and Cub, Vol. 3 (classic manga, adventure, high quality)
+  - 29404379: Batwoman, Bd. 1 (superhero comic)
+  - 25849499: Ms. Marvel (superhero comic, coming-of-age)
+  - 18527502: Cleopatra in Space (graphic novel, funny, action, for all ages)
+  - 25966870: Alias (superhero comic, witty)
+  - 18525840: JLA (superhero comic)
+  - 23276311: Grands Froids (French sci-fi comic)
+  - 7847664: La Cité Saturne (French comic)
+  - 10793276: Jeremiah Vol. 10 Delta (comic, no description)
+
+- **Children’s Books/Fantasy:**
+  - 394667: Shimmeree (children’s book, fantasy, about differences)
+  - 820861: In the Night Kitchen (classic, fantasy, for all ages, playful)
+  - 20028855: Three Tales From Nurse Matilda (classic, witty, children’s, inspiration for Nanny McPhee)
+  - 17903267: Tell Me How You Say Good Night (children’s, language learning, puppies)
+  - 13185136: My Crazy Pet Frog (children’s, fun)
+  - 4000471: That Magnetic Dog (children’s, funny)
+  - 729297: Follow Those Feet! (Dora, children’s, simple)
+
+- **Other:**
+  - 22047138: Sorrow Arrow (poetry, witty, weird, but not children’s or manga)
+  - 997949: Pale Fire (literary, witty, dark, but not children’s or manga)
+
+**Ranking logic:**
+- Top: Manga/graphic novels with humor/adventure, children’s books with wit/fantasy, especially those enjoyable for adults.
+- Middle: Other comics, children’s books, or witty/quirky works.
+- Lower: Items with little relevance to user’s signals or with very low ratings count.
+
+**Final ranking:**
+
+1. **191216**: Lone Wolf and Cub, Vol. 3 – Classic manga, adventure, high quality, fits user’s manga/fantasy/adventure preference.
+2. **25117724**: Sword Art Online Progressive, Vol. 2 – Manga, fantasy, adventure, fits user’s manga and adventure signals.
+3. **18527502**: Cleopatra in Space – Graphic novel, funny, action, all ages, strong match for user’s enjoyment of witty, adventurous children’s stories.
+4. **9557199**: Tactics Vol. 1 – Manga, fits user’s manga preference, but no description to confirm tone.
+5. **25849499**: Ms. Marvel – Superhero comic, coming-of-age, witty, high quality, fits graphic novel/comic interest.
+6. **29404379**: Batwoman, Bd. 1 – Superhero comic, high quality, fits graphic novel/comic interest.
+7. **25966870**: Alias – Superhero comic, witty, fits user’s enjoyment of humor and comics.
+8. **820861**: In the Night Kitchen – Classic children’s fantasy, playful, imaginative, fits user’s enjoyment of children’s books as an adult.
+9. **20028855**: Three Tales From Nurse Matilda – Classic, witty, children’s, fits user’s enjoyment of witty children’s books.
+10. **394667**: Shimmeree – Children’s fantasy, about differences, fits user’s enjoyment of children’s books.
+11. **4000471**: That Magnetic Dog – Children’s, funny, fits user’s enjoyment of fun children’s books.
+12. **13185136**: My Crazy Pet Frog – Children’s, fun, fits user’s enjoyment of children’s books.
+13. **17903267**: Tell Me How You Say Good Night – Children’s, language learning, less wit/adventure, but still fits children’s book interest.
+14. **18525840**: JLA – Superhero comic, less personal fit, but still within comics/graphic novels.
+15. **23276311**: Grands Froids – French sci-fi comic, less direct fit, but still a comic.
+16. **10793276**: Jeremiah Vol. 10 Delta – Comic, but no description to confirm fit.
+17. **7847664**: La Cité Saturne – French comic, little info, less direct fit.
+18. **22047138**: Sorrow Arrow – Poetry, witty, but not children’s/manga/comic.
+19. **997949**: Pale Fire – Literary, witty, but not children’s/manga/comic, and very low ratings count.
+20. **729297**: Follow Those Feet! – Very simple Dora book, likely too young/simple for user’s tastes.
+
+**Final answer:**
+
+['191216', '25117724', '18527502', '9557199', '25849499', '29404379', '25966870', '820861', '20028855', '394667', '4000471', '13185136', '17903267', '18525840', '23276311', '10793276', '7847664', '22047138', '997949', '729297']
+ Parsed Top 5 Recommendations: ['191216', '25117724', '18527502', '9557199', '25849499']
+ Full Ranking: [
+  "191216",
+  "25117724",
+  "18527502",
+  "9557199",
+  "25849499",
+  "29404379",
+  "25966870",
+  "820861",
+  "20028855",
+  "394667",
+  "4000471",
+  "13185136",
+  "17903267",
+  "18525840",
+  "23276311",
+  "10793276",
+  "7847664",
+  "22047138",
+  "997949",
+  "729297"
+]
+
+ 2025-11-23 07:04:29.542403
+ User: 32f024dfdf0799c4e930acae8e73d7ce
+ Raw LLM Response: Step-by-step analysis:
+
+1. **User Profile & Preferences**
+   - Only one review, rated 0 stars, but the review text is "good book" (positive).
+   - Average rating: 0.0, but this is likely due to system default or user not using the rating system as intended.
+   - No clear preferred categories or genres.
+   - User is "critical and discerning" but left a positive review.
+   - No location or language preference is provided.
+
+2. **Relevant Past Experiences**
+   - Only one review, category "Unknown", 0 stars, but positive text.
+   - No genre, author, or category clues.
+
+3. **Candidate Items**
+   - All items are books, but genres vary: comics, poetry, children's, language learning, etc.
+   - Some items have higher average ratings and/or more reviews, which can be used as a proxy for quality.
+   - No clear genre or category to match, so item quality and broad appeal become more important.
+
+4. **Ranking Factors Application**
+   - Since there is no clear genre/category preference, prioritize item quality (average rating, review count).
+   - Give some weight to items with broad appeal or that are generally well-received.
+   - Avoid items with very low review counts unless their ratings are exceptionally high.
+   - No location data, so ignore proximity.
+
+5. **Ranking Approach**
+   - Rank items with high average ratings and substantial review counts higher.
+   - Give some preference to items with positive, general appeal (e.g., "Saga #31", "Against Which", "Malvados").
+   - Children's books and language learning books may be less relevant unless the user is interested in those, but with no strong signals, they are ranked by quality.
+   - Items with very low review counts and/or low ratings are ranked lower.
+
+6. **Final Ranking**
+   - Top: High rating, high review count, broad appeal.
+   - Middle: Moderate rating/review count, or niche appeal.
+   - Bottom: Low rating, very low review count, or little information.
+
+Final ranked list:
+
+['28165652', '890871', '5457224', '34825305', '2340137', '30226303', '13414820', '27415708', '1346193', '4493938', '449594', '1952290', '1971579', '18594446', '2327439', '1071343', '1964117', '1198370', '646908', '32580520']
+ Parsed Top 5 Recommendations: ['28165652', '890871', '5457224', '34825305', '2340137']
+ Full Ranking: [
+  "28165652",
+  "890871",
+  "5457224",
+  "34825305",
+  "2340137",
+  "30226303",
+  "13414820",
+  "27415708",
+  "1346193",
+  "4493938",
+  "449594",
+  "1952290",
+  "1971579",
+  "18594446",
+  "2327439",
+  "1071343",
+  "1964117",
+  "1198370",
+  "646908",
+  "32580520"
+]
+
+ 2025-11-23 07:04:51.132407
+ User: e69de0319b6e6f0549e154471139660d
+ Raw LLM Response: Step-by-step analysis:
+
+1. **User Profile & Preferences**:
+   - Only one review: "Read as a child, incredibly heart breaking story."
+   - 5-star rating, very positive, but only one data point.
+   - No explicit preferred categories, but the review suggests a strong emotional impact, possibly from a children's or middle-grade book with a sad or touching theme.
+   - No location information.
+
+2. **Relevant Past Experience**:
+   - The only review is for an unknown category, but the phrase "Read as a child" and "heart breaking story" suggest the user values emotionally impactful children's or middle-grade books.
+
+3. **Candidate Items**:
+   - Many are comics/graphic novels (Angel, Spider-Man, X-Men, Tank Girl, Ex Machina).
+   - Several are children's books or middle-grade (Ponies at the Point, New Junior Cook Book, The Littlest Dinosaur, I Love You Already!, Wiggle Waggle Fun, Magic Tree House, Monster dalam Mitos, Quackers).
+   - Some are poetry or prose (Love Letters to the World).
+   - Some are in French or Indonesian (Le grimoire des dieux, Monster dalam Mitos).
+
+4. **Category/Attribute Match**:
+   - Highest match: Children's/middle-grade books with emotional or animal themes.
+   - Secondary: Books with themes of loss, adventure, or strong emotional content.
+   - Comics/graphic novels are less likely unless they have strong emotional/childhood themes.
+
+5. **Item Quality**:
+   - Consider average rating and ratings count.
+   - Higher average rating and more ratings are better, but not if the book is a poor match.
+
+6. **Relevance to Past Experience**:
+   - Books that evoke childhood, are emotionally impactful, or involve animals/adventure are most relevant.
+
+7. **Ranking**:
+
+   - **Top Tier (Best match: children's/middle-grade, emotional/animal themes):**
+     - 746694: Ponies at the Point (Animal Ark) – Animal adventure, childhood, emotional potential.
+     - 18893880: A Perfect Time for Pandas (Magic Tree House) – Middle-grade, adventure, animals, possible emotional content (earthquake, rescue).
+     - 25810019: Quackers – Children's book, identity, animals, emotional/heartwarming.
+     - 25817276: I Love You Already! – Picture book, friendship, emotional/heartwarming.
+     - 1385735: Wiggle Waggle Fun – Stories/rhymes for young children.
+     - 8116311: The Littlest Dinosaur and the Naughty Rock – Children's book, emotional/behavioral themes.
+     - 1616005: New Junior Cook Book – Childhood nostalgia, but not emotional/heartbreaking.
+     - 12865293: Monster dalam Mitos – Children's book about myths/monsters, but in Indonesian (language barrier?).
+     - 3262254: The Children of Charlecote – Title suggests children, but no description.
+
+   - **Middle Tier (Comics/graphic novels, some emotional/adventure themes):**
+     - 17899561: Spider-Man: Big Time – Adventure, but not emotional/childhood.
+     - 23389503: Edge of Spider-Verse #5 – Comic, adventure.
+     - 25066798: All-New X-Men – Comic, adventure.
+     - 2314379: Tank Girl: Apocalypse – Comic, adventure.
+     - 7352122: Yowamushi Pedal – Manga, sports, possible coming-of-age.
+     - 8666601: Ex Machina – Comic, more adult themes.
+
+   - **Lower Tier (Less relevant, poetry, adult themes, language barrier, low ratings):**
+     - 31339423: Love Letters to the World – Poetry, emotional, but not childhood.
+     - 2570137: Le grimoire des dieux – French, fantasy, adventure.
+     - 1107062: Florence Nightingale – Biography, not childhood/emotional.
+     - 977829: Barnum!: In Secret Service – Adult themes, not childhood/emotional.
+
+8. **Final Ranking**:
+   - Prioritize children's/middle-grade books with emotional/animal themes.
+   - Then comics/graphic novels with adventure/coming-of-age.
+   - Then poetry/other, then adult/less relevant.
+
+['746694', '18893880', '25810019', '25817276', '1385735', '8116311', '1616005', '12865293', '3262254', '17899561', '23389503', '25066798', '2314379', '7352122', '8666601', '31339423', '2570137', '1107062', '977829', '11885797']
+ Parsed Top 5 Recommendations: ['746694', '18893880', '25810019', '25817276', '1385735']
+ Full Ranking: [
+  "746694",
+  "18893880",
+  "25810019",
+  "25817276",
+  "1385735",
+  "8116311",
+  "1616005",
+  "12865293",
+  "3262254",
+  "17899561",
+  "23389503",
+  "25066798",
+  "2314379",
+  "7352122",
+  "8666601",
+  "31339423",
+  "2570137",
+  "1107062",
+  "977829",
+  "11885797"
+]
+
+ 2025-11-23 07:05:23.395288
+ User: aef5b6544380d0bab53c68f77ff93a32
+ Raw LLM Response: Step-by-step analysis:
+
+1. **User Profile & Preferences:**
+   - Only 1 review, 4 stars, positive, inspired to "figure things out with my parents."
+   - No explicit category preference, but strong signal: family relationships, inspiration, possibly YA or children's books, or books with family/parent themes.
+   - User is generous and positive, likely to enjoy uplifting, relationship-focused, or emotionally resonant stories.
+
+2. **Relevant Past Experience:**
+   - The only review is for a book that inspired the user to work on their relationship with their parents.
+   - This suggests books about family, self-discovery, or personal growth may be most relevant.
+
+3. **Candidate Items:**
+   - Scan for books with themes of family, relationships, inspiration, or self-discovery.
+   - Consider item quality: higher average rating and more reviews are a plus, but not at the expense of relevance.
+   - No location data, so skip that factor.
+
+4. **Item-by-Item Relevance:**
+   - **3011964 - A Very Merry Christmas (Geronimo Stilton, #35):** Family, holiday, adventure, positive, high ratings and many reviews. Strong fit.
+   - **3057435 - Brown Bear, Brown Bear, What Do You See?:** Classic, family-friendly, positive, high ratings, but more for very young children.
+   - **1412852 - The Princess and the Goblin:** Classic, family, adventure, self-discovery, positive reviews.
+   - **1350249 - The Lion King:** Family, loss, growth, classic, very high ratings and reviews. Strong fit.
+   - **27239329 - Miss pain d'épices:** Coming-of-age, friendship, self-acceptance, family/school themes. Good fit.
+   - **2534399 - Alicia's Happy Day:** Family, community, positive, but very few reviews.
+   - **13588155 - Rabbit's Snow Dance:** Fable, community, learning, positive, moderate reviews.
+   - **3333906 - Cardcaptor Sakura, Vol. 9:** Family, friendship, magic, self-discovery, high average rating.
+   - **25909164 - Orange #2:** Time travel, regret, friendship, family, high rating, moderate reviews.
+   - **6309687 - To After That:** Experimental, poetry, less clear family connection.
+   - **850308 - The Secret of Rancho del Sol:** Family, adventure, searching for family jewels, moderate fit.
+   - **24796243 - Wild And Tame Animals:** Nonfiction, animals, less relevant.
+   - **16255267 - Child of Tomorrow and Other Stories:** Sci-fi, comics, less family focus.
+   - **9012216 - Marvel Masterworks: Atlas Era Tales to Astonish, Vol. 3:** Comics, history, less family focus.
+   - **18597796 - Aïeïa van Aldaal:** Sci-fi/fantasy, survival, less clear family connection.
+   - **10895528 - Roșu vertical:** No description, can't determine relevance.
+   - **19546565 - Los perros románticos:** No description, can't determine relevance.
+   - **26852752 - Khany's geheim:** Sci-fi, adventure, less family focus.
+   - **7005663 - Dinosaur Teeth:** Nonfiction, animals, not relevant.
+   - **13518935 - Wildcat Spirit:** No description, can't determine relevance.
+
+5. **Ranking Logic:**
+   - Top: Books with strong family/relationship/self-discovery themes and high quality.
+   - Middle: Books with some relevance or high quality but less direct match.
+   - Bottom: Books with little/no relevance, no description, or very low review count.
+
+**Final Ranking:**
+
+['3011964', '1350249', '1412852', '25909164', '27239329', '3057435', '3333906', '13588155', '850308', '2534399', '6309687', '16255267', '24796243', '9012216', '18597796', '26852752', '10895528', '19546565', '7005663', '13518935']
+ Parsed Top 5 Recommendations: ['3011964', '1350249', '1412852', '25909164', '27239329']
+ Full Ranking: [
+  "3011964",
+  "1350249",
+  "1412852",
+  "25909164",
+  "27239329",
+  "3057435",
+  "3333906",
+  "13588155",
+  "850308",
+  "2534399",
+  "6309687",
+  "16255267",
+  "24796243",
+  "9012216",
+  "18597796",
+  "26852752",
+  "10895528",
+  "19546565",
+  "7005663",
+  "13518935"
+]
+
+ 2025-11-23 07:05:46.376586
+ User: 0748fbef70fb1a44115371d9fc6291cb
+ Raw LLM Response: Step-by-step analysis:
+
+1. **User Profile & Preferences:**
+   - Only 1 review: 5 stars, very positive, generous rater.
+   - The only review is for a graphic novel, and the user mentions it was their first graphic novel and that it "did not disappoint" and praised the artwork.
+   - No explicit preferred categories, but strong signal: enjoyed a graphic novel, likely open to more graphic novels or visually-driven books.
+
+2. **Category/Attribute Match:**
+   - The only clear preference is for graphic novels/comics or books with strong visual elements.
+   - Among the candidates, we need to prioritize graphic novels, comics, or books with illustrations/artwork.
+
+3. **Item Quality (Ratings, Review Count):**
+   - Higher average ratings and more ratings are better, but for a new reader, accessibility and similarity to their first positive experience are more important.
+
+4. **Relevance to Past Experience:**
+   - Books similar to graphic novels, comics, or highly illustrated works are most relevant.
+   - Next, books for younger readers or with strong visual/illustrative components.
+
+5. **Location Proximity:**
+   - No location data provided, so this factor is not considered.
+
+6. **Candidate Item Analysis:**
+   - "Batman: The Long Halloween #4" (22291247): Comic/graphic novel, highly relevant, good rating.
+   - "Bleach Vol. 34: King of the Hill" (9394583): Manga/graphic novel, highly relevant, good rating.
+   - "The Incal Vol. 2: The Luminous Incal" (24762203): Graphic novel, highly relevant, good rating.
+   - "Persephone the Phony (Goddess Girls, #2)" (7199829): Illustrated, middle-grade, mythology, some visual elements.
+   - "Where Is the Green Sheep?" (6387644): Children's picture book, strong visual component.
+   - "Mr Stink" (17118668): Illustrated by Quentin Blake, humorous children's novel.
+   - "A Merry-Mouse Christmas ABC" (6020093): Picture book, visual.
+   - "Santa Retires" (14361585): Picture book, visual.
+   - "A Very Handy Holiday" (5761453): Early reader, illustrated.
+   - "OLIVIA and the Kite Party" (13260137): Early reader, illustrated.
+   - "I Almost Died. Again." (27209111): Middle-grade, illustrated.
+   - "Baseball" (8303292): Eyewitness nonfiction, lots of pictures.
+   - "Constant State of Leaping" (22309724), "Moving to the Clear" (3779446), "Selected Poems" (13604635), "The Wild Iris" (1707992): Poetry, less visual.
+   - "Sybil Ludington's Midnight Ride" (296661): Historical, some illustrations.
+   - "Léto" (28237667): No description, unknown.
+   - "Your Baby Week by Week" (1886940): Parenting guide, not relevant.
+   - "Running Scared" (16702180): Middle-grade, not visual.
+
+7. **Ranking Logic:**
+   - Top: Graphic novels/comics/manga.
+   - Next: Highly illustrated children's books or middle-grade with strong visual elements.
+   - Then: Other illustrated books.
+   - Last: Poetry, parenting, and text-heavy books.
+
+**Final Ranking:**
+
+['22291247', '9394583', '24762203', '7199829', '6387644', '17118668', '6020093', '14361585', '5761453', '13260137', '27209111', '8303292', '22309724', '3779446', '13604635', '1707992', '296661', '28237667', '16702180', '1886940']
+ Parsed Top 5 Recommendations: ['22291247', '9394583', '24762203', '7199829', '6387644']
+ Full Ranking: [
+  "22291247",
+  "9394583",
+  "24762203",
+  "7199829",
+  "6387644",
+  "17118668",
+  "6020093",
+  "14361585",
+  "5761453",
+  "13260137",
+  "27209111",
+  "8303292",
+  "22309724",
+  "3779446",
+  "13604635",
+  "1707992",
+  "296661",
+  "28237667",
+  "16702180",
+  "1886940"
+]
+
+ 2025-11-23 07:06:31.138376
+ User: 8d898944314e2ea4ac0e797afa701a0f
+ Raw LLM Response: Step-by-step analysis:
+
+1. **User Profile & Preferences**
+   - The user has only 2 reviews, both 5 stars, both highly positive.
+   - Both reviews mention the importance of the story, accessibility for younger readers, and one specifically praises the use of the graphic novel form to document an important historical story.
+   - No explicit preferred categories, but clear signals: likes important historical stories, accessible language, and graphic novels for younger readers.
+
+2. **Extracted Preference Signals**
+   - Strong appreciation for graphic novels, especially those that document important historical events.
+   - Enjoys books that are accessible to younger readers.
+   - Values stories with significant messages or educational value.
+
+3. **Candidate Items Analysis**
+   - **Graphic novels/historical/educational/accessible books for younger readers** are likely to be the best match.
+   - Books with high average ratings and more reviews are preferred, but user preference match is the top priority.
+
+4. **Item-by-item Matching**
+   - **2998756 Berlin, Vol. 2: City of Smoke**: Historical graphic novel, fits the user's preference for important stories in graphic novel form. High ratings and review count.
+   - **1561214 Story Of Rosa Parks**: Important historical story, accessible language, for younger readers.
+   - **9733970 Мост към Терабития (Bridge to Terabithia)**: Classic, emotional, accessible to younger readers, deals with important themes.
+   - **20759403 Book of Dragons**: For younger readers, but more fantasy than historical/important.
+   - **3334398 Pianomania**: For young readers, about perseverance and imagination.
+   - **2166998 It's Hard to Be Five**: For young readers, about self-control and growing up.
+   - **26883576 Story of the Little Mole...**: For young readers, but not an important historical story.
+   - **885539 The Little Black Truck**: For young readers, but not historical/important.
+   - **17163108 300 Jokes for Kids**: For young readers, but not educational or important.
+   - **18917463 Vampire Knight, Vol. 9**: Graphic novel, but fantasy/vampire, not historical/important.
+   - **6086314 The League of Extraordinary Gentlemen: Century: 1910**: Graphic novel, but more fantasy/adventure than historical/important.
+   - **20447684 The Incredible Hulk 2**: Graphic novel, but superhero/fantasy.
+   - **3708239 The Memory Box**: Deals with Alzheimer's, intergenerational story, educational, but only 1 rating.
+   - **8166046 Spring and All**: Poetry, not a match for user signals.
+   - **217356 The Colors of Desire: Poems**: Poetry, not a match.
+   - **6494334 جیم دگمه**: Not enough info, language barrier.
+   - **6074805 Harry Hungry!**: For young readers, but not educational/important.
+   - **2064778 Peter's Destiny: The Battle for Narnia**: Fantasy, not historical/important.
+   - **10638326 Des Tondeuses Et Des Hommes**: Not enough info, language barrier.
+   - **422960 Enemy Unseen**: No description, can't assess.
+
+5. **Ranking Logic**
+   - Top: Items that are graphic novels or important historical/educational stories for young readers.
+   - Middle: Books for young readers, but not educational/historical.
+   - Lower: Fantasy, poetry, or items with insufficient info or language barriers.
+
+6. **Final Ranking**
+   - 2998756 (Berlin, Vol. 2: City of Smoke): Best match for graphic novel + history.
+   - 1561214 (Story Of Rosa Parks): Important historical story, accessible.
+   - 9733970 (Bridge to Terabithia): Important themes, accessible.
+   - 20759403 (Book of Dragons): For young readers, high quality.
+   - 3334398 (Pianomania): For young readers, perseverance.
+   - 2166998 (It's Hard to Be Five): For young readers, educational.
+   - 26883576 (Story of the Little Mole...): For young readers.
+   - 885539 (The Little Black Truck): For young readers.
+   - 17163108 (300 Jokes for Kids): For young readers, fun.
+   - 18917463 (Vampire Knight, Vol. 9): Graphic novel, but fantasy.
+   - 6086314 (League of Extraordinary Gentlemen): Graphic novel, but fantasy.
+   - 20447684 (The Incredible Hulk 2): Graphic novel, superhero.
+   - 3708239 (The Memory Box): Educational, but low ratings.
+   - 8166046 (Spring and All): Poetry.
+   - 217356 (The Colors of Desire: Poems): Poetry.
+   - 6494334 (جیم دگمه): Language barrier.
+   - 6074805 (Harry Hungry!): For young readers, but not educational/important.
+   - 2064778 (Peter's Destiny: The Battle for Narnia): Fantasy.
+   - 10638326 (Des Tondeuses Et Des Hommes): Language barrier.
+   - 422960 (Enemy Unseen): No description.
+
+['2998756', '1561214', '9733970', '20759403', '3334398', '2166998', '26883576', '885539', '17163108', '18917463', '6086314', '20447684', '3708239', '8166046', '217356', '6494334', '6074805', '2064778', '10638326', '422960']
+ Parsed Top 5 Recommendations: ['2998756', '1561214', '9733970', '20759403', '3334398']
+ Full Ranking: [
+  "2998756",
+  "1561214",
+  "9733970",
+  "20759403",
+  "3334398",
+  "2166998",
+  "26883576",
+  "885539",
+  "17163108",
+  "18917463",
+  "6086314",
+  "20447684",
+  "3708239",
+  "8166046",
+  "217356",
+  "6494334",
+  "6074805",
+  "2064778",
+  "10638326",
+  "422960"
+]
+
+ 2025-11-23 07:07:42.958409
+ User: ztgVL0NPadoUwCO9MWeUUQ
+ Raw LLM Response: Step-by-step analysis:
+
+1. **User Preference Profile**:
+   - Josh is generally positive, gives high ratings, and is generous.
+   - Preferred categories: Beer, Wine & Spirits, Food, Pizza, Bars, Restaurants, Pubs, Nightlife, Automotive, Auto Parts & Supplies, Auto Customization, Chinese, American (Traditional), Breakfast & Brunch, Automotive, Auto Detailing, Car Wash, Oil Change Stations.
+   - From past reviews, also likes "odds and ends" shopping before outdoor/backcountry trips, and values good service and value.
+
+2. **Category/Attribute Match**:
+   - Highest match: Automotive, Beer/Wine/Spirits, Food, Grocery, Discount/Value stores, Home & Garden (to some extent), Sporting Goods (if related to outdoor/backcountry).
+   - Lower match: Fashion, Women's/Men's Clothing, Department Stores, Eyewear, Telecommunications, Arts & Crafts (unless for "odds and ends"), Electronics.
+
+3. **Item Quality**:
+   - Prioritize items with higher star ratings and reasonable review counts.
+
+4. **Relevance to Past Experiences**:
+   - Likes stores for "odds and ends" before outdoor trips (could map to discount/value, grocery, or sporting goods).
+   - Likes automotive-related businesses.
+   - Dislikes medical/urgent care (not relevant here).
+
+5. **Location**:
+   - No explicit distances given, so all items are treated equally unless otherwise specified.
+
+6. **Item-by-Item Assessment**:
+   - **RevZilla Motorsports**: Shopping, Motorcycle Dealers, Sporting Goods, Hobby Shops, Automotive. High match (Automotive, Sporting Goods), high rating (4.5), fits "odds and ends"/outdoor gear, and automotive preference.
+   - **ALDI**: Grocery, Beer, Wine & Spirits, Food, Discount Store. High match (Grocery, Beer/Wine/Spirits, Discount), good rating (4.0).
+   - **ShopRite - Snyder Plaza**: Grocery, Shopping, Food. High match (Grocery, Food), good rating (4.0).
+   - **Mattress Firm Snyder**: Home & Garden, Mattresses, Shopping. Moderate match (Home & Garden), high rating (4.5).
+   - **Dollar Tree Store**: Discount Store, Shopping. High match (Discount, "odds and ends"), moderate rating (3.5).
+   - **Goodwill Fashions**: Shopping, Fashion, Used, Vintage & Consignment. Moderate match (Discount/value), moderate rating (3.5).
+   - **Target**: Department Stores, Furniture, Food, Grocery, Shopping. Moderate match (Grocery, Food, Shopping), average rating (3.0).
+   - **Pier 1**: Home & Garden, Home Decor, Shopping. Moderate match (Home & Garden), average rating (3.0).
+   - **Jomar - Swanson**: Discount Store, Arts & Crafts, Shopping, Home Decor. Moderate match (Discount, Shopping), moderate rating (3.5).
+   - **A C Moore Arts and Crafts**: Arts & Crafts, Shopping. Low-moderate match (possible "odds and ends"), average rating (3.0).
+   - **Show & Tel**: Books, Music, Nightlife, Shopping, Adult Entertainment. Low match.
+   - **Joyce Leslie**: Fashion, Women's Clothing, Shopping. Low match.
+   - **Raymour & Flanigan**: Home Decor, Furniture, Shopping. Moderate match (Home & Garden), low rating (2.5).
+   - **Best Buy**: Electronics, Shopping. Low match, low rating (2.5).
+   - **Lowe's Home Improvement**: Hardware, Home & Garden, Shopping. Moderate match (Home & Garden), low rating (2.5).
+   - **Ross Dress for Less**: Discount Store, Shopping, Fashion. Moderate match (Discount), low rating (2.5).
+   - **AT&T Store**: Mobile Phones, Shopping. Low match, low rating (2.5).
+   - **Target Optical**: Eyewear, Shopping. Low match, moderate rating (4.0).
+   - **Old Navy**: Clothing, Shopping. Low match, low rating (2.0).
+   - **Walmart Supercenter**: Discount Store, Grocery, Shopping. High match (Discount, Grocery), but very low rating (1.5).
+
+7. **Final Ranking Logic**:
+   - Top: RevZilla, ALDI, ShopRite, Dollar Tree, Mattress Firm (for quality), Goodwill, Target, Pier 1, Jomar, A C Moore.
+   - Middle: Show & Tel, Joyce Leslie, Raymour, Best Buy, Lowe's, Ross, AT&T, Target Optical.
+   - Bottom: Old Navy, Walmart (very low ratings).
+
+Final ranking:
+
+['OjFr_sk32NOhYSvA_Ucd5Q', 'o2oD8bGW3oMaaTeSOqi-Kg', 'IaelRCI4Ah5oxiHuBnFC7w', '0d7nPS5dv42stQqdZbh08g', 'FbY5HjT_nCqfB8PiXX-fcQ', 'BzDbphyIfHWZUoaQQdAUYw', 'ClIkpkKO-Es8MHlsfDOKMQ', 'qF1NTfE0yfbTc1kb2mX1FA', 'oFu61fiwKh6W_zgGjATfyw', 'PdBwl7tlFhOBR3p4kMd9Hw', 'g-cQ3TeR7lcY_TObcDkw6w', 'uFs6biPJw2FlVY3taR4QNQ', 'pRYs_U3tiTisUazOzDgLaA', '9kfDDNapNWKF5B41X27HkA', 'WNFxt2TyMDEuNNNZ9Z9zRQ', 'OQqBFuA5tcxdHog8YgMRcQ', '4hmaKbOARJsP_8UfRssQJg', 'BrO4rhvgGU2vXx4cvVJIpg', 'QOUqT4PuH2Xm-ky0R87JNg', 'ZVrOGpZe5usRbdxxtmxHoQ']
+ Parsed Top 5 Recommendations: ['OjFr_sk32NOhYSvA_Ucd5Q', 'o2oD8bGW3oMaaTeSOqi-Kg', 'IaelRCI4Ah5oxiHuBnFC7w', '0d7nPS5dv42stQqdZbh08g', 'FbY5HjT_nCqfB8PiXX-fcQ']
+ Full Ranking: [
+  "OjFr_sk32NOhYSvA_Ucd5Q",
+  "o2oD8bGW3oMaaTeSOqi-Kg",
+  "IaelRCI4Ah5oxiHuBnFC7w",
+  "0d7nPS5dv42stQqdZbh08g",
+  "FbY5HjT_nCqfB8PiXX-fcQ",
+  "BzDbphyIfHWZUoaQQdAUYw",
+  "ClIkpkKO-Es8MHlsfDOKMQ",
+  "qF1NTfE0yfbTc1kb2mX1FA",
+  "oFu61fiwKh6W_zgGjATfyw",
+  "PdBwl7tlFhOBR3p4kMd9Hw",
+  "g-cQ3TeR7lcY_TObcDkw6w",
+  "uFs6biPJw2FlVY3taR4QNQ",
+  "pRYs_U3tiTisUazOzDgLaA",
+  "9kfDDNapNWKF5B41X27HkA",
+  "WNFxt2TyMDEuNNNZ9Z9zRQ",
+  "OQqBFuA5tcxdHog8YgMRcQ",
+  "4hmaKbOARJsP_8UfRssQJg",
+  "BrO4rhvgGU2vXx4cvVJIpg",
+  "QOUqT4PuH2Xm-ky0R87JNg",
+  "ZVrOGpZe5usRbdxxtmxHoQ"
+]
+
+ 2025-11-23 07:08:08.103820
+ User: iPtc25TDKdsQqRb6IOMtmw
+ Raw LLM Response: Step-by-step analysis:
+
+1. **User Preferences & Past Experiences**:
+   - Elizabeth is a balanced, moderate reviewer with a slight tendency toward higher ratings (avg 3.81, most common 5.0).
+   - Preferred categories: American (New), Southern, Diners, Cocktail Bars, Food Delivery, Nightlife, Breakfast & Brunch, Indian, Greek, Mediterranean, Salad, Polish, Coffee & Tea, Cafes, Event Planning & Services, Caterers, Flowers & Gifts, Home Decor, Jewelry, Arts & Crafts, Gift Shops, Women's Clothing, Fashion, Used/Vintage/Consignment, Books, Music, Toy Stores, Pet Stores.
+   - Positive signals for: clean, organized, friendly, simple but excellent food, good service, flowers/gifts, comfy/relaxed environments.
+   - Negative signal: places that are inflexible or have poor service.
+
+2. **Category/Attribute Match**:
+   - Highest match: Items with "Flowers & Gifts", "Gift Shops", "Home Decor", "Jewelry", "Women's Clothing", "Fashion", "Used, Vintage & Consignment", "Event Planning & Services", "Books", "Music", "Toy Stores", "Arts & Crafts".
+   - Moderate match: "Pet Stores", "Sporting Goods", "Accessories", "Lingerie", "Bridal", "Home & Garden".
+   - Weak match: "Vape Shops", "Tobacco Shops", "Head Shops", "Furniture Stores".
+
+3. **Item Quality**:
+   - Prioritize items with 4.5+ stars and >10 reviews, but also consider 5.0 stars with fewer reviews if category match is strong.
+
+4. **Relevance to Past Experiences**:
+   - Elizabeth has reviewed and liked flower shops, gift shops, and places with good service and atmosphere.
+   - She has also reviewed coffee/pastry shops, event/gift-related businesses.
+
+5. **Location**:
+   - No explicit addresses, but assume all are within reasonable proximity unless otherwise stated.
+
+6. **Ranking**:
+
+**Top Tier (Best category match + high quality + past experience relevance):**
+- xKHMrTJDB5IInNjnkl3mQg ("The Little Apple"): 5.0 stars, 33 reviews, Gift Shops, Cards & Stationery, Home Decor, Flowers & Gifts, Jewelry, Event Planning & Services, strong match to preferences and past positive flower/gift shop experience.
+- J5KCZj4soXXiMceLe-FJvw ("Latitudes and Longitudes"): 4.5 stars, 17 reviews, Gift Shops, Arts & Crafts, Jewelry, Cards & Stationery, Event Planning & Services, Toy Stores, strong match.
+- 78j1ox-fsLGrnBRzn3y4_Q ("MILLAY"): 5.0 stars, 7 reviews, Home Decor, Women's Clothing, Used/Vintage/Consignment, Fashion, strong match.
+- CUmXZEwtHja-3bZ7T2atEg ("Bendi"): 4.5 stars, 23 reviews, Jewelry, Watches, Shopping, strong match.
+- 8P_tlWPmPHVFWXREQGienA ("The Attic - Manayunk"): 4.0 stars, 46 reviews, Thrift/Consignment, Women's Clothing, Jewelry, strong match, high review count.
+- t7QIg4zhnzPnt5nzrXrkWA ("Main Street Music"): 4.5 stars, 45 reviews, Music, Books, strong match to "Books, Mags, Music & Video".
+- 4wnILSUsxXtvgynbkn0cxw ("Spectrum Scientifics"): 4.5 stars, 7 reviews, Toy Stores, Shopping, moderate match.
+- reY1jB3RJ5FZiK1Nx6szYA ("Johnny Destructo's Hero Complex"): 5.0 stars, 17 reviews, Books, Comics, Accessories, moderate match.
+- D5zG92TEkRLN_bseRIQiuA ("Cocusocial"): 4.0 stars, 5 reviews, Arts & Crafts, Cooking Classes, moderate match.
+- qjivA_eSsUd73NuPY8_PRg ("Liberty and Lace Bridal"): 4.5 stars, 12 reviews, Women's Clothing, Bridal, moderate match.
+
+**Middle Tier (Good match, slightly less relevant or lower quality):**
+- 6b8l-OvCaKx-EssvHkx7Gw ("Philadelphia Runner"): 4.5 stars, 24 reviews, Sporting Goods, Fashion, moderate match.
+- pwIgwyZEBGcJr8k__nxabw ("Bryn Mawr Running Company"): 5.0 stars, 8 reviews, Sporting Goods, Fashion, moderate match.
+- j485zQQvqv2tTIqvRTPwMg ("Expect Lace"): 5.0 stars, 11 reviews, Lingerie, Fashion, moderate match.
+- cNbFLxDe-wAsIboUCbtCdQ ("Greene Street"): 3.0 stars, 31 reviews, Used/Vintage/Consignment, Women's Clothing, moderate match but lower rating.
+- wATz5hBUiCzJpEil-TIVdw ("Tag Denim"): 3.5 stars, 11 reviews, Women's Clothing, Fashion, moderate match.
+- kvoNwEVdAzPse9ujGKeYNw ("Furniture Lifestyle"): 4.0 stars, 6 reviews, Home & Garden, moderate match.
+- iDBNClapO1L5ybWbbrMQTQ ("Top Tails"): 4.5 stars, 40 reviews, Pet Stores, moderate match.
+
+**Lower Tier (Weak match or low quality):**
+- ipEZD75r51w-ZAcb4YxiBg ("Chrissy's Flowers"): 2.5 stars, 10 reviews, Flowers & Gifts, but low rating.
+- sNY87E6Vj6neoMfHy_1iIA ("Ashe B and Co"): 2.0 stars, 10 reviews, Accessories, Bridal, low rating.
+- WgmaxBbCRAlq06_bPLUcSA ("Vape & Artisan Glass Gallery"): 3.5 stars, 5 reviews, Vape/Head Shop, weak match.
+
+**Final Ranking:**
+
+['xKHMrTJDB5IInNjnkl3mQg', 'J5KCZj4soXXiMceLe-FJvw', '78j1ox-fsLGrnBRzn3y4_Q', 'CUmXZEwtHja-3bZ7T2atEg', '8P_tlWPmPHVFWXREQGienA', 't7QIg4zhnzPnt5nzrXrkWA', '4wnILSUsxXtvgynbkn0cxw', 'reY1jB3RJ5FZiK1Nx6szYA', 'D5zG92TEkRLN_bseRIQiuA', 'qjivA_eSsUd73NuPY8_PRg', '6b8l-OvCaKx-EssvHkx7Gw', 'pwIgwyZEBGcJr8k__nxabw', 'j485zQQvqv2tTIqvRTPwMg', 'cNbFLxDe-wAsIboUCbtCdQ', 'wATz5hBUiCzJpEil-TIVdw', 'kvoNwEVdAzPse9ujGKeYNw', 'iDBNClapO1L5ybWbbrMQTQ', 'ipEZD75r51w-ZAcb4YxiBg', 'sNY87E6Vj6neoMfHy_1iIA', 'WgmaxBbCRAlq06_bPLUcSA']
+ Parsed Top 5 Recommendations: ['xKHMrTJDB5IInNjnkl3mQg', 'J5KCZj4soXXiMceLe-FJvw', '78j1ox-fsLGrnBRzn3y4_Q', 'CUmXZEwtHja-3bZ7T2atEg', '8P_tlWPmPHVFWXREQGienA']
+ Full Ranking: [
+  "xKHMrTJDB5IInNjnkl3mQg",
+  "J5KCZj4soXXiMceLe-FJvw",
+  "78j1ox-fsLGrnBRzn3y4_Q",
+  "CUmXZEwtHja-3bZ7T2atEg",
+  "8P_tlWPmPHVFWXREQGienA",
+  "t7QIg4zhnzPnt5nzrXrkWA",
+  "4wnILSUsxXtvgynbkn0cxw",
+  "reY1jB3RJ5FZiK1Nx6szYA",
+  "D5zG92TEkRLN_bseRIQiuA",
+  "qjivA_eSsUd73NuPY8_PRg",
+  "6b8l-OvCaKx-EssvHkx7Gw",
+  "pwIgwyZEBGcJr8k__nxabw",
+  "j485zQQvqv2tTIqvRTPwMg",
+  "cNbFLxDe-wAsIboUCbtCdQ",
+  "wATz5hBUiCzJpEil-TIVdw",
+  "kvoNwEVdAzPse9ujGKeYNw",
+  "iDBNClapO1L5ybWbbrMQTQ",
+  "ipEZD75r51w-ZAcb4YxiBg",
+  "sNY87E6Vj6neoMfHy_1iIA",
+  "WgmaxBbCRAlq06_bPLUcSA"
+]
+
+ 2025-11-23 07:08:36.783163
+ User: 0boZBe0RhNO_L8qnUo0huA
+ Raw LLM Response: Step-by-step analysis:
+
+1. **User Profile & Preferences**
+   - Maggie is a moderate, balanced reviewer with consistent 3-star ratings.
+   - Her only review is for "Condom Kingdom" (Shopping, Adult), with a neutral 3-star review mentioning fun/novelty but negative staff interaction.
+   - Preferred categories: Shopping, Adult.
+   - She values the experience but is sensitive to staff behavior.
+   - No strong positive or negative bias, so moderate/neutral items are likely to be well received.
+
+2. **Category/Attribute Match**
+   - All candidate items are in the Shopping category, but subcategories matter.
+   - Items with novelty, fun, or adult/quirky elements (e.g., vape shops, head shops) are closest to her only reviewed business.
+   - General shopping (grocery, department stores, furniture, electronics) is less directly matched but still relevant.
+
+3. **Item Quality (Ratings & Review Count)**
+   - Maggie tends to rate neutrally, so items with 3.0–3.5 stars and moderate review counts are likely to match her expectations.
+   - Very low-rated items (<2.0) or very high-rated items (>4.0) may not align with her moderate tendencies.
+
+4. **Relevance to Past Experiences**
+   - Her only review is for a novelty/adult store, so similar stores (vape shops, head shops, quirky shops) are most relevant.
+   - General shopping is secondary.
+
+5. **Location**
+   - No specific city or recognizable coordinates, so location cannot be used to differentiate.
+
+6. **Ranking Logic**
+   - Top: Vape shops, head shops, or stores with novelty/fun/adult elements and moderate ratings.
+   - Next: General shopping stores with moderate ratings and review counts.
+   - Lower: Stores with poor ratings, low relevance, or negative experiences.
+   - Last: Items with very low ratings or poor fit to her preferences.
+
+**Ranking the Items:**
+
+**Top Tier (Best Match: Shopping + Novelty/Adult/Quirky, 3.0+ stars)**
+- ZZTJCY44LuvYqfafnUq1Nw (Vapor Hut, 4.5 stars, vape shop, shopping)
+- GJmyROrNu3KrhnHNNRbVrw (Holy Smokes, 3.0 stars, vape/head shop, shopping)
+- MRErvQSIzIGOg_28-PMNDA (Gamestop, 3.5 stars, shopping, fun/novelty)
+- 92LMum1uJoTi8l7p9rM_-w (Victor Optical, 3.5 stars, shopping)
+- kfXNLyYtJF-34umaqxu7HQ (Famous Footwear, 3.5 stars, shopping)
+- L4TYFwhUHYoDmkUKfUUqCg (Giant Food Store, 3.5 stars, shopping/grocery)
+
+**Middle Tier (General Shopping, 3.0–3.5 stars)**
+- N-MVwAcmsQDZCxbZjZhPDA (Best Buy, 3.0 stars, shopping/electronics)
+- ZAycDVJeQ1QwGVTLROCKlA (Lidl, 3.0 stars, shopping/grocery)
+- TjF6WOklsFFuqNZ5yk1Cyw (Mattress Firm Red Lion Plaza, 4.0 stars, shopping/furniture)
+- T2PFxmNFPoEBBr-prV9aMg (Michaels, 2.5 stars, shopping/arts & crafts)
+- HRwwyvm2RiMdaTWOwzhpTg (BJ's Wholesale Club, 2.5 stars, shopping/grocery)
+- djtU6hvMyFN7emAJu9FvhQ (Walmart, 2.5 stars, shopping/department store)
+- tND-bS0sECbWI8GVMFT_MA (Modern Vac & Sew Centers, 2.5 stars, shopping/discount)
+
+**Lower Tier (General Shopping, 2.0–2.5 stars, less relevant subcategories)**
+- XkWLvNeJWIQqNp2oX4XzKw (Best Buy Furniture, 2.0 stars, shopping/furniture)
+- 6bzJ7Hc84lv5rEVEDaashQ (Lowe's Home Improvement, 2.0 stars, shopping/home)
+- 9VRg8Ho9SoZWKPmjfrpVmw (Forman Mills, 2.0 stars, shopping/fashion)
+- AuLdRDaloS-jY5s5yGJADA (Ashley HomeStores, 2.0 stars, shopping/furniture)
+
+**Bottom Tier (Very Low Ratings or Poor Fit)**
+- yNv_RImPRQNf9qC8thA_0Q (American Signature Furniture, 1.5 stars, shopping/furniture)
+- t-9LJ6-J1yCiSmY8OygLSA (HH Gregg, 1.5 stars, shopping/electronics)
+- dR54APnpymYQofIAUx7aWA (Verizon Authorized Retailer - Victra, 1.0 star, shopping/electronics)
+
+**Final Ranked List:**
+
+['ZZTJCY44LuvYqfafnUq1Nw', 'GJmyROrNu3KrhnHNNRbVrw', 'MRErvQSIzIGOg_28-PMNDA', '92LMum1uJoTi8l7p9rM_-w', 'kfXNLyYtJF-34umaqxu7HQ', 'L4TYFwhUHYoDmkUKfUUqCg', 'N-MVwAcmsQDZCxbZjZhPDA', 'ZAycDVJeQ1QwGVTLROCKlA', 'TjF6WOklsFFuqNZ5yk1Cyw', 'T2PFxmNFPoEBBr-prV9aMg', 'HRwwyvm2RiMdaTWOwzhpTg', 'djtU6hvMyFN7emAJu9FvhQ', 'tND-bS0sECbWI8GVMFT_MA', 'XkWLvNeJWIQqNp2oX4XzKw', '6bzJ7Hc84lv5rEVEDaashQ', '9VRg8Ho9SoZWKPmjfrpVmw', 'AuLdRDaloS-jY5s5yGJADA', 'yNv_RImPRQNf9qC8thA_0Q', 't-9LJ6-J1yCiSmY8OygLSA', 'dR54APnpymYQofIAUx7aWA']
+ Parsed Top 5 Recommendations: ['ZZTJCY44LuvYqfafnUq1Nw', 'GJmyROrNu3KrhnHNNRbVrw', 'MRErvQSIzIGOg_28-PMNDA', '92LMum1uJoTi8l7p9rM_-w', 'kfXNLyYtJF-34umaqxu7HQ']
+ Full Ranking: [
+  "ZZTJCY44LuvYqfafnUq1Nw",
+  "GJmyROrNu3KrhnHNNRbVrw",
+  "MRErvQSIzIGOg_28-PMNDA",
+  "92LMum1uJoTi8l7p9rM_-w",
+  "kfXNLyYtJF-34umaqxu7HQ",
+  "L4TYFwhUHYoDmkUKfUUqCg",
+  "N-MVwAcmsQDZCxbZjZhPDA",
+  "ZAycDVJeQ1QwGVTLROCKlA",
+  "TjF6WOklsFFuqNZ5yk1Cyw",
+  "T2PFxmNFPoEBBr-prV9aMg",
+  "HRwwyvm2RiMdaTWOwzhpTg",
+  "djtU6hvMyFN7emAJu9FvhQ",
+  "tND-bS0sECbWI8GVMFT_MA",
+  "XkWLvNeJWIQqNp2oX4XzKw",
+  "6bzJ7Hc84lv5rEVEDaashQ",
+  "9VRg8Ho9SoZWKPmjfrpVmw",
+  "AuLdRDaloS-jY5s5yGJADA",
+  "yNv_RImPRQNf9qC8thA_0Q",
+  "t-9LJ6-J1yCiSmY8OygLSA",
+  "dR54APnpymYQofIAUx7aWA"
+]
+
+ 2025-11-23 07:09:13.636248
+ User: b1xvXhvnHNUBsmyEO5lacQ
+ Raw LLM Response: Step-by-step analysis:
+
+1. **User Preference Profile**:
+   - Brooke is a positive, generous reviewer (avg 4.89 stars, std 0.47).
+   - Preferred categories: Specialty Food, Indian, Vegetarian, Seafood, Restaurants, Burgers, Wraps, Desserts, Buffets, Vegan, Food, Shoe Stores, Shopping, Fashion, Sporting Goods, Mexican, Latin American.
+   - Past reviews show strong interest in specialty food (vegan/vegetarian), Mexican, Indian, and running shoes (sporting goods/shoe stores).
+
+2. **Critical Category/Attribute Matching**:
+   - Highest match: Items in Specialty Food, Food, Vegan, Vegetarian, Shoe Stores, Sporting Goods, Fashion, Shopping.
+   - Secondary: Home Decor, Furniture, Discount Stores, Department Stores, Pet Stores, Toy Stores, Photography, Eyewear.
+
+3. **Item Quality (Ratings/Review Count)**:
+   - User prefers high-quality experiences (most reviews are 5 stars).
+   - Items with 4.0+ stars and at least a few reviews are favored.
+
+4. **Relevance to Past Experiences**:
+   - Running Center review: Shoe Stores, Sporting Goods.
+   - Saffron Indian Cuisine: Specialty Food, Vegan/Vegetarian.
+   - Vuelo Mexican Grill: Mexican, Food.
+
+5. **Location**:
+   - No explicit distance data for candidate items, so this factor is neutral.
+
+6. **Item-by-Item Preference Scoring**:
+   - **Top matches**: Items in Specialty Food, Food, Sporting Goods, Shoe Stores, Fashion, Shopping, Vegan/Vegetarian-friendly.
+   - **High-rated**: 4.0+ stars, moderate review count.
+   - **Relevant to past reviews**: Sporting Goods, Food, Fashion.
+
+**Item-by-item notes**:
+- y5SdcwfKF8JgYwGFb_SfiQ (Oregon Market): Specialty Food, Seafood, Food, 3.5 stars, 36 reviews. Good category match.
+- x1p-knHTbmDIuhnbkuYT5g (Nuts To You): Specialty Food, Food, 4.0 stars, 6 reviews. Strong match.
+- IaelRCI4Ah5oxiHuBnFC7w (ShopRite): Grocery, Food, Shopping, 4.0 stars, 52 reviews. Good match.
+- OjFr_sk32NOhYSvA_Ucd5Q (RevZilla Motorsports): Sporting Goods, Shopping, 4.5 stars, 27 reviews. Strong match to running/sporting goods interest.
+- rK-F9iJA3023_puvYBzw5A (Five Below): Discount Store, Shopping, 4.0 stars, 6 reviews. General shopping, high rating.
+- xfmkEGiIERBaBMLhw-dTCg (Walmart Vision & Glasses): Shopping, 4.5 stars, 6 reviews. General shopping, high rating.
+- pDqI2SmxP2IukZ-vhnmgtQ (Swiger Photography): Shopping, 4.5 stars, 8 reviews. General shopping, high rating.
+- NSDhtsrXY78oZ8B3MkaxnQ (Mattress Firm): Shopping, 4.5 stars, 6 reviews. General shopping, high rating.
+- BzDbphyIfHWZUoaQQdAUYw (Goodwill Fashions): Fashion, Shopping, 3.5 stars, 21 reviews. Fashion is a preferred category.
+- oFu61fiwKh6W_zgGjATfyw (Jomar - Swanson): Discount Store, Shopping, Fashion, 3.5 stars, 27 reviews. Fashion/Shopping.
+- gjcAXxw5YuLo6Hs6mFwWVA (Marshalls): Fashion, Shopping, 3.0 stars, 17 reviews. Fashion/Shopping.
+- OQqBFuA5tcxdHog8YgMRcQ (Ross Dress for Less): Fashion, Shopping, 2.5 stars, 7 reviews. Fashion/Shopping, but low rating.
+- MeptjglT9R6k0PyQRq5-nA (Toys R Us): Shopping, 3.0 stars, 7 reviews. General shopping.
+- qF1NTfE0yfbTc1kb2mX1FA (Pier 1): Shopping, Home Decor, 3.0 stars, 12 reviews. General shopping.
+- uYIZQTeTTMERbwEW9DDZGA (Sleepy's): Shopping, 3.5 stars, 10 reviews. General shopping.
+- pRYs_U3tiTisUazOzDgLaA (Raymour & Flanigan): Shopping, 2.5 stars, 62 reviews. General shopping, low rating.
+- 2hvDcM769GC5t6zrkn4A3w (Pathmark): Shopping, 3.0 stars, 12 reviews. General shopping.
+- K-S_YhtoGffXF9f3azGY2A (Rite Aid): Shopping, 2.5 stars, 7 reviews. General shopping, low rating.
+- QcxuKH9V6iacdi_nfRCE6w (Sprint Store): Shopping, 2.5 stars, 7 reviews. General shopping, low rating.
+- r4D7_LX3JowSbx4QUpoaNg (Monster Pets): Shopping, 2.5 stars, 78 reviews. Pet stores not a preferred category.
+
+**Final Ranking** (most to least recommended):
+
+['y5SdcwfKF8JgYwGFb_SfiQ', 'x1p-knHTbmDIuhnbkuYT5g', 'IaelRCI4Ah5oxiHuBnFC7w', 'OjFr_sk32NOhYSvA_Ucd5Q', 'rK-F9iJA3023_puvYBzw5A', 'xfmkEGiIERBaBMLhw-dTCg', 'pDqI2SmxP2IukZ-vhnmgtQ', 'NSDhtsrXY78oZ8B3MkaxnQ', 'BzDbphyIfHWZUoaQQdAUYw', 'oFu61fiwKh6W_zgGjATfyw', 'gjcAXxw5YuLo6Hs6mFwWVA', 'OQqBFuA5tcxdHog8YgMRcQ', 'MeptjglT9R6k0PyQRq5-nA', 'qF1NTfE0yfbTc1kb2mX1FA', 'uYIZQTeTTMERbwEW9DDZGA', 'pRYs_U3tiTisUazOzDgLaA', '2hvDcM769GC5t6zrkn4A3w', 'K-S_YhtoGffXF9f3azGY2A', 'QcxuKH9V6iacdi_nfRCE6w', 'r4D7_LX3JowSbx4QUpoaNg']
+ Parsed Top 5 Recommendations: ['y5SdcwfKF8JgYwGFb_SfiQ', 'x1p-knHTbmDIuhnbkuYT5g', 'IaelRCI4Ah5oxiHuBnFC7w', 'OjFr_sk32NOhYSvA_Ucd5Q', 'rK-F9iJA3023_puvYBzw5A']
+ Full Ranking: [
+  "y5SdcwfKF8JgYwGFb_SfiQ",
+  "x1p-knHTbmDIuhnbkuYT5g",
+  "IaelRCI4Ah5oxiHuBnFC7w",
+  "OjFr_sk32NOhYSvA_Ucd5Q",
+  "rK-F9iJA3023_puvYBzw5A",
+  "xfmkEGiIERBaBMLhw-dTCg",
+  "pDqI2SmxP2IukZ-vhnmgtQ",
+  "NSDhtsrXY78oZ8B3MkaxnQ",
+  "BzDbphyIfHWZUoaQQdAUYw",
+  "oFu61fiwKh6W_zgGjATfyw",
+  "gjcAXxw5YuLo6Hs6mFwWVA",
+  "OQqBFuA5tcxdHog8YgMRcQ",
+  "MeptjglT9R6k0PyQRq5-nA",
+  "qF1NTfE0yfbTc1kb2mX1FA",
+  "uYIZQTeTTMERbwEW9DDZGA",
+  "pRYs_U3tiTisUazOzDgLaA",
+  "2hvDcM769GC5t6zrkn4A3w",
+  "K-S_YhtoGffXF9f3azGY2A",
+  "QcxuKH9V6iacdi_nfRCE6w",
+  "r4D7_LX3JowSbx4QUpoaNg"
+]
+
+ 2025-11-23 07:09:44.956365
+ User: 9gf5tl6p-wJ1qXicRavk8w
+ Raw LLM Response: Step-by-step analysis:
+
+1. **User Preferences and Past Experience:**
+   - User Huong has only one review, but it is highly positive (5.0 stars) for "Chubby Cattle," a restaurant known for Asian hot pot, Japanese, Chinese, and conveyor belt sushi.
+   - Preferred categories: Restaurants, Bars, Seafood, Japanese, Hot Pot, Nightlife, Chinese, Conveyor Belt Sushi, Mongolian, Asian Fusion.
+   - User is very positive and likely to enjoy Asian cuisine, especially Japanese, Chinese, and seafood.
+
+2. **Category/Attribute Match:**
+   - Highest match: Japanese, Sushi, Seafood, Chinese, Asian Fusion, Hot Pot.
+   - Secondary match: Restaurants in general, Bars, Nightlife.
+   - Lower match: Fast food, American, Bakeries, Coffee & Tea, etc.
+
+3. **Item Quality (Ratings, Review Count):**
+   - Higher star ratings and more reviews are better, but must be balanced with category match.
+
+4. **Relevance to Past Experience:**
+   - Items similar to Chubby Cattle (Asian, Japanese, Chinese, Seafood, Hot Pot, Sushi) are prioritized.
+
+5. **Location Proximity:**
+   - No explicit distance data for items, so this factor is not differentiating.
+
+**Item-by-item evaluation:**
+
+- **T72tpiOTqLPOwuXTgDWxnQ (Daiki Hibachi and Sushi):**
+  - Japanese, Sushi Bars. 4.0 stars, 69 reviews. Strong match to user preference and past experience.
+- **_i8q9EXNcIMyxXynHDs1rQ (Shake Seafoods):**
+  - Seafood, Cajun/Creole. 4.0 stars, 6 reviews. Good match (Seafood), but less reviews.
+- **y9XVl5058TPjHcO6O2HBaA (Shee Yuan Chinese):**
+  - Chinese. 3.5 stars, 21 reviews. Good category match.
+- **iTvq1gPf62A-z1Axu8elvw (Casablanca Moroccan Restaurant):**
+  - Moroccan. 3.5 stars, 16 reviews. Not a direct match, but still a restaurant.
+- **Bmh7d4yVxpgLPQ8KLcy_4Q (Mediterra Grill):**
+  - Mediterranean, American (New). 3.5 stars, 36 reviews. Not a direct match.
+- **bACIZGdHRFfNtrufH0wMbQ (New York Bagel Bakery):**
+  - Bagels, Bakeries. 4.5 stars, 82 reviews. High quality, but not a preferred category.
+- **DLasGNHo7wicO4XlEy5QyA (Bills Market):**
+  - Grocery. 4.0 stars, 10 reviews. Not a restaurant.
+- **9TRGordD4MbOR2mglgcvpA (New Queen Chinese):**
+  - Chinese. 3.0 stars, 13 reviews. Category match, but lower rating.
+- **04o5yH6y_49RkLuEaiW5mg (Debreaux's):**
+  - Seafood, Soul Food. 3.0 stars, 50 reviews. Partial match (Seafood).
+- **5BCGpD7VzyhqyMH6TND3sw (Stacy's Pizza):**
+  - Pizza, Seafood. 2.0 stars, 20 reviews. Partial match (Seafood), but low rating.
+- **DSG_T9HfKqdWxzwMf3DS0A (Rice and Things):**
+  - Diners. 2.5 stars, 32 reviews. Not a match.
+- **rh3c8tgPyPXD4vj7nC0TuQ (Schlotzsky's):**
+  - Delis, Sandwiches. 3.0 stars, 9 reviews. Not a match.
+- **GAhzoZq315gjxCUeVNQTGA (Best Cake Kosher Bakery):**
+  - Bakeries, Desserts. 3.5 stars, 13 reviews. Not a match.
+- **q3NsTN4umVlCpOmYpIKkyA (Baskin-Robbins City Line):**
+  - Ice Cream. 2.5 stars, 11 reviews. Not a match.
+- **nFKATkd_j1iwFK9r6s0duQ (Applebee's Grill + Bar):**
+  - American, Bars. 2.0 stars, 71 reviews. Bars is a secondary match, but low rating.
+- **YQ-BmAQ57pg4U3zTO9v8jw (Popeyes Louisiana Kitchen):**
+  - Fast Food. 2.0 stars, 29 reviews. Not a match.
+- **xg2BYY0tswiEDz2HvTRq2w (McDonald's):**
+  - Fast Food. 1.0 star, 25 reviews. Not a match.
+- **-sRtgVuwRz7JJQaHiLV9zw (Dunkin'):**
+  - Coffee & Tea, Donuts. 2.0 stars, 10 reviews. Not a match.
+- **InawP3IfShNTJjSeLMDmGg (Wendy's):**
+  - Fast Food. 1.5 stars, 34 reviews. Not a match.
+- **XXWxdyq2QfKF4wpdDZUcxA (Wingstop):**
+  - Chicken Wings. 2.0 stars, 33 reviews. Not a match.
+
+**Final Ranking:**
+1. Daiki Hibachi and Sushi (Japanese/Sushi, strong match)
+2. Shake Seafoods (Seafood, good match)
+3. Shee Yuan Chinese (Chinese, good match)
+4. New Queen Chinese (Chinese, category match, lower rating)
+5. Debreaux's (Seafood, partial match)
+6. Casablanca Moroccan Restaurant (Restaurant, not a direct match but decent quality)
+7. Mediterra Grill (Restaurant, not a direct match)
+8. New York Bagel Bakery (High quality, but not a preferred category)
+9. Bills Market (Grocery, not a restaurant)
+10. Stacy's Pizza (Seafood, but low rating)
+11. Rice and Things (Not a match, low rating)
+12. Schlotzsky's (Not a match)
+13. Best Cake Kosher Bakery (Not a match)
+14. Baskin-Robbins City Line (Not a match)
+15. Applebee's Grill + Bar (Bars is a secondary match, but low rating)
+16. Popeyes Louisiana Kitchen (Not a match)
+17. McDonald's (Not a match, lowest rating)
+18. Dunkin' (Not a match)
+19. Wendy's (Not a match)
+20. Wingstop (Not a match)
+
+**Python list (final answer):**
+['T72tpiOTqLPOwuXTgDWxnQ', '_i8q9EXNcIMyxXynHDs1rQ', 'y9XVl5058TPjHcO6O2HBaA', '9TRGordD4MbOR2mglgcvpA', '04o5yH6y_49RkLuEaiW5mg', 'iTvq1gPf62A-z1Axu8elvw', 'Bmh7d4yVxpgLPQ8KLcy_4Q', 'bACIZGdHRFfNtrufH0wMbQ', 'DLasGNHo7wicO4XlEy5QyA', '5BCGpD7VzyhqyMH6TND3sw', 'DSG_T9HfKqdWxzwMf3DS0A', 'rh3c8tgPyPXD4vj7nC0TuQ', 'GAhzoZq315gjxCUeVNQTGA', 'q3NsTN4umVlCpOmYpIKkyA', 'nFKATkd_j1iwFK9r6s0duQ', 'YQ-BmAQ57pg4U3zTO9v8jw', 'xg2BYY0tswiEDz2HvTRq2w', '-sRtgVuwRz7JJQaHiLV9zw', 'InawP3IfShNTJjSeLMDmGg', 'XXWxdyq2QfKF4wpdDZUcxA']
+ Parsed Top 5 Recommendations: ['T72tpiOTqLPOwuXTgDWxnQ', '_i8q9EXNcIMyxXynHDs1rQ', 'y9XVl5058TPjHcO6O2HBaA', '9TRGordD4MbOR2mglgcvpA', '04o5yH6y_49RkLuEaiW5mg']
+ Full Ranking: [
+  "T72tpiOTqLPOwuXTgDWxnQ",
+  "_i8q9EXNcIMyxXynHDs1rQ",
+  "y9XVl5058TPjHcO6O2HBaA",
+  "9TRGordD4MbOR2mglgcvpA",
+  "04o5yH6y_49RkLuEaiW5mg",
+  "iTvq1gPf62A-z1Axu8elvw",
+  "Bmh7d4yVxpgLPQ8KLcy_4Q",
+  "bACIZGdHRFfNtrufH0wMbQ",
+  "DLasGNHo7wicO4XlEy5QyA",
+  "5BCGpD7VzyhqyMH6TND3sw",
+  "DSG_T9HfKqdWxzwMf3DS0A",
+  "rh3c8tgPyPXD4vj7nC0TuQ",
+  "GAhzoZq315gjxCUeVNQTGA",
+  "q3NsTN4umVlCpOmYpIKkyA",
+  "nFKATkd_j1iwFK9r6s0duQ",
+  "YQ-BmAQ57pg4U3zTO9v8jw",
+  "xg2BYY0tswiEDz2HvTRq2w",
+  "-sRtgVuwRz7JJQaHiLV9zw",
+  "InawP3IfShNTJjSeLMDmGg",
+  "XXWxdyq2QfKF4wpdDZUcxA"
+]
+
+ 2025-11-23 07:10:03.398906
+ User: oHvON83dyMDSCy-pNfUvrQ
+ Raw LLM Response: Step-by-step analysis:
+
+1. **User Profile & Preferences**
+   - Sonia is a highly positive reviewer (all 5-star reviews, average 5.0).
+   - She prefers categories: Food (especially Specialty Food, Cheese Shops, Grocery), Comfort Food, Latin American, Sandwiches, Cuban, Burgers, Brunch, Pizza, Diners, Bars/Nightlife.
+   - She has positively reviewed Lowe's Home Improvement (Shopping/Hardware), but most reviews are food-focused, especially places with great service and food, and Cuban sandwiches.
+
+2. **Candidate Category**
+   - All candidates are in "Shopping," but many are food-related (Specialty Food, Cheese Shops, Grocery, etc.), which matches Sonia's preferences best.
+   - Non-food shopping (Fashion, Jewelry, Bridal, Camera, Sporting Goods, Knitting Supplies) is less relevant to her core interests.
+
+3. **Item Quality**
+   - Prioritize higher star ratings, but only after category match.
+   - Review count is secondary (higher is better for reliability).
+
+4. **Relevance to Past Experiences**
+   - Strongest signals: Food-related shopping, especially cheese, specialty foods, groceries, and places with great service.
+   - Cuban/Latin American food is a plus, but not directly present in these options.
+
+5. **Location**
+   - All items seem to be in the same general area (Chestnut Hill, PA), so proximity differences are likely minimal.
+
+**Ranking Process:**
+
+**A. Top Tier: Food-Related Shopping (Specialty Food, Cheese Shops, Grocery)**
+- Fv6EIYsJaUCqyvvAr6kLew ("Evergreen Cheese Chestnut Hill"): 4.5 stars, 11 reviews, Cheese Shops, Specialty Food, Grocery, Food. Strong match.
+- rhpvLGLQ0QEnyhvXkYSEOw ("Ten Thousand Villages"): 5.0 stars, 7 reviews, Home & Garden, Shopping, Gift Shops. Not food, but high quality and gift/home focus.
+- 67QoVuGSTw5vQP9xs93LuQ ("A Taste Of Olive"): 4.5 stars, 6 reviews, Specialty Food, Food, Herbs & Spices.
+- KJe08nAYey85uYQrOW3TiQ ("The Spice Rack"): 4.5 stars, 10 reviews, Specialty Food, Grocery, Food, Herbs & Spices.
+- p-XV3iBrPTeYsTkYOuJILA ("Jonathan Best Speciality Foods & Cheese"): 4.0 stars, 7 reviews, Cheese Shops, Specialty Food, Food.
+- IEcLzwD9o5hj3N5aKzD-ZQ ("Weavers Way Co-op"): 4.0 stars, 50 reviews, Grocery, CSA, Farmers Market, Food.
+- Im4IDA9RXycirW_EZqAj5Q ("The Fresh Market"): 3.5 stars, 38 reviews, Grocery, Specialty Food, Food.
+- kkSYxSQD3xKKKSafETpMRw ("The Chestnut Hill Cheese Shop"): 4.0 stars, 29 reviews, Cheese Shops, Specialty Food, Food.
+- jZS1SgxHnw9NxRNVRNgqwg ("Top of the Hill Market"): 3.0 stars, 15 reviews, Meat Shops, Fruits & Veggies, Seafood Markets, Juice Bars, Specialty Food, Food.
+- aCfGcj4H7rrRhBvRzNmdow ("Kitchen Kapers"): 3.0 stars, 7 reviews, Specialty Food, Kitchen, Food, Home & Garden.
+
+**B. Second Tier: Home Decor, Gift Shops, Home & Garden**
+- rhpvLGLQ0QEnyhvXkYSEOw ("Ten Thousand Villages"): Already considered above.
+- bHzjGwIksxxVhV1y2v5f7A ("Noble Goods"): 4.0 stars, 6 reviews, Home & Garden, Home Decor, Shopping.
+- XhoODVSS1ri5Mr6yUB7hWw ("Artisans On the Avenue"): 4.5 stars, 6 reviews, Home Decor, Home & Garden, Shopping.
+
+**C. Third Tier: Fashion, Accessories, Jewelry, Bridal**
+- zDAPljNKUka4vGyKFR-KkQ ("Style By Blain"): 5.0 stars, 5 reviews, Shoe Stores, Shopping, Fashion.
+- wZbk5vEGyxtGxLUJ09j-8g ("Style Camp"): 4.5 stars, 5 reviews, Jewelry, Women's Clothing, Fashion, Shopping.
+- ntjq50D4FoVLjIm9fqT4Vw ("Kimberly James Bridal"): 4.5 stars, 9 reviews, Bridal, Accessories, Fashion.
+- SfrCpke2fi6nynKPms2jZA ("Threadwell"): 4.0 stars, 6 reviews, Jewelry, Fashion, Gift Shops, Shopping.
+- w9yjK_llCIvSPkEsx9qJrA ("Mango"): 3.5 stars, 25 reviews, Women's Clothing, Fashion, Shopping.
+
+**D. Fourth Tier: Other Shopping**
+- 9S8rfgVp6vA2pUZZUvoBoA ("Chestnut Hill Sports"): 4.0 stars, 8 reviews, Sporting Goods, Men's Clothing, Fashion.
+- Bhz9yYEpREoiBH8qrPfC4Q ("Chestnut Hill Camera Shop"): 3.5 stars, 10 reviews, Photography Stores, Electronics, Shopping.
+- Dke3pFr3lAyj-K4rzdxjLQ ("The Knit With"): 2.5 stars, 5 reviews, Knitting Supplies, Shopping.
+
+**Final Ranking:**
+- Prioritize food-related shopping, then home/gift, then fashion, then other.
+- Within each tier, sort by star rating, then review count.
+
+['Fv6EIYsJaUCqyvvAr6kLew', 'KJe08nAYey85uYQrOW3TiQ', '67QoVuGSTw5vQP9xs93LuQ', 'p-XV3iBrPTeYsTkYOuJILA', 'IEcLzwD9o5hj3N5aKzD-ZQ', 'kkSYxSQD3xKKKSafETpMRw', 'Im4IDA9RXycirW_EZqAj5Q', 'jZS1SgxHnw9NxRNVRNgqwg', 'aCfGcj4H7rrRhBvRzNmdow', 'rhpvLGLQ0QEnyhvXkYSEOw', 'XhoODVSS1ri5Mr6yUB7hWw', 'bHzjGwIksxxVhV1y2v5f7A', 'wZbk5vEGyxtGxLUJ09j-8g', 'zDAPljNKUka4vGyKFR-KkQ', 'ntjq50D4FoVLjIm9fqT4Vw', 'SfrCpke2fi6nynKPms2jZA', 'w9yjK_llCIvSPkEsx9qJrA', '9S8rfgVp6vA2pUZZUvoBoA', 'Bhz9yYEpREoiBH8qrPfC4Q', 'Dke3pFr3lAyj-K4rzdxjLQ']
+ Parsed Top 5 Recommendations: ['Fv6EIYsJaUCqyvvAr6kLew', 'KJe08nAYey85uYQrOW3TiQ', '67QoVuGSTw5vQP9xs93LuQ', 'p-XV3iBrPTeYsTkYOuJILA', 'IEcLzwD9o5hj3N5aKzD-ZQ']
+ Full Ranking: [
+  "Fv6EIYsJaUCqyvvAr6kLew",
+  "KJe08nAYey85uYQrOW3TiQ",
+  "67QoVuGSTw5vQP9xs93LuQ",
+  "p-XV3iBrPTeYsTkYOuJILA",
+  "IEcLzwD9o5hj3N5aKzD-ZQ",
+  "kkSYxSQD3xKKKSafETpMRw",
+  "Im4IDA9RXycirW_EZqAj5Q",
+  "jZS1SgxHnw9NxRNVRNgqwg",
+  "aCfGcj4H7rrRhBvRzNmdow",
+  "rhpvLGLQ0QEnyhvXkYSEOw",
+  "XhoODVSS1ri5Mr6yUB7hWw",
+  "bHzjGwIksxxVhV1y2v5f7A",
+  "wZbk5vEGyxtGxLUJ09j-8g",
+  "zDAPljNKUka4vGyKFR-KkQ",
+  "ntjq50D4FoVLjIm9fqT4Vw",
+  "SfrCpke2fi6nynKPms2jZA",
+  "w9yjK_llCIvSPkEsx9qJrA",
+  "9S8rfgVp6vA2pUZZUvoBoA",
+  "Bhz9yYEpREoiBH8qrPfC4Q",
+  "Dke3pFr3lAyj-K4rzdxjLQ"
+]
+
+ 2025-11-23 07:10:26.389558
+ User: JwHS6O7zX52jvSmGTPaPZg
+ Raw LLM Response: Step-by-step analysis:
+
+1. **User Preference Profile**:
+   - Alyson is a very positive reviewer (mostly 5.0 stars).
+   - Preferred categories: Food, Breakfast & Brunch, Cafes, Coffee & Tea, American (Traditional), Shopping, Customized Merchandise, Jewelry, Pubs, Nightlife, Wine Bars, Cocktail Bars, Brasseries, French, Home & Garden, Landscaping, Nurseries & Gardening.
+   - Strong signals for Shopping, Home & Garden, Nurseries & Gardening, Food, and unique/positive shopping experiences (e.g., Urban Jungle - plants).
+
+2. **Relevant Past Experiences**:
+   - 5-star review for Urban Jungle (plants/greenhouse, Home & Garden, Nurseries & Gardening).
+   - 5-star reviews for food, brunch, burgers, and positive atmosphere.
+   - Enjoys unique, high-quality, and pleasant shopping/food experiences.
+
+3. **Candidate Category: Shopping**:
+   - All items are in Shopping, but subcategories matter (e.g., Home & Garden, Nurseries & Gardening, Food, Discount Store, Fashion, Home Decor, etc.).
+
+4. **Ranking Factors**:
+   - **Category/Attribute Match**: Prioritize Home & Garden, Nurseries & Gardening, Food, unique shopping, and positive experiences.
+   - **Item Quality**: Higher star ratings and reasonable review counts.
+   - **Relevance to Past Experiences**: Plant stores, Home & Garden, unique/pleasant shopping.
+   - **Location**: Not enough info to differentiate, so will not weigh heavily.
+
+5. **Item-by-Item Assessment**:
+   - **Rzx2E5XgTeGU7FEbUZ-bGg (IKEA)**: Shopping, Home & Garden, Furniture, Nurseries & Gardening, Home Decor. Large review count, 3.0 stars. Strong category match (Home & Garden, Nurseries & Gardening).
+   - **WNFxt2TyMDEuNNNZ9Z9zRQ (Lowe's Home Improvement)**: Home & Garden, Nurseries & Gardening, Home Decor, Appliances. 2.5 stars, 77 reviews. Strong category match, but lower rating.
+   - **o2oD8bGW3oMaaTeSOqi-Kg (ALDI)**: Grocery, Organic Stores, Food, Fruits & Veggies, Shopping, Discount Store. 4.0 stars, 38 reviews. Good match for Food, Shopping, Discount, and positive value.
+   - **IaelRCI4Ah5oxiHuBnFC7w (ShopRite - Snyder Plaza)**: Grocery, Shopping, Food. 4.0 stars, 52 reviews. Good match for Food, Shopping.
+   - **x1p-knHTbmDIuhnbkuYT5g (Nuts To You)**: Food, Candy Stores, Specialty Food, Fruits & Veggies. 4.0 stars, 6 reviews. Good match for Food, Shopping.
+   - **NSDhtsrXY78oZ8B3MkaxnQ (Mattress Firm Front Street)**: Home Decor, Furniture Stores, Shopping, Home & Garden. 4.5 stars, 6 reviews. Good match for Home & Garden, Shopping.
+   - **uYIZQTeTTMERbwEW9DDZGA (Sleepy's)**: Shopping, Furniture Stores, Mattresses, Home & Garden, Home Decor. 3.5 stars, 10 reviews. Good match for Home & Garden, Shopping.
+   - **Ouz6NevgUHn-rGXbcw7DOQ (American Thrift)**: Fashion, Home & Garden, Used, Vintage & Consignment, Shopping. 3.5 stars, 24 reviews. Good match for Home & Garden, Shopping, unique/vintage.
+   - **BzDbphyIfHWZUoaQQdAUYw (Goodwill Fashions)**: Shopping, Fashion, Used, Vintage & Consignment, Home & Garden. 3.5 stars, 21 reviews. Good match for Shopping, unique/vintage.
+   - **oFu61fiwKh6W_zgGjATfyw (Jomar - Swanson)**: Discount Store, Arts & Crafts, Shopping, Home Decor, Fabric Stores, Home & Garden. 3.5 stars, 27 reviews. Good match for Home & Garden, Shopping, unique/arts.
+   - **xfmkEGiIERBaBMLhw-dTCg (Walmart Vision & Glasses)**: Eyewear & Opticians, Shopping. 4.5 stars, 6 reviews. Not a strong category match, but high rating.
+   - **E4PV_GU0Rdn0Jx7s6aICug (Rudi's Formal Wear)**: Shopping, Clothing Rental, Formal Wear, Fashion. 4.5 stars, 12 reviews. Not a strong match, but high rating.
+   - **OjFr_sk32NOhYSvA_Ucd5Q (RevZilla Motorsports)**: Shopping, Motorcycle Dealers, Sporting Goods, Hobby Shops. 4.5 stars, 27 reviews. Not a strong match, but high rating.
+   - **2hvDcM769GC5t6zrkn4A3w (Pathmark)**: Shopping Centers, Shopping. 3.0 stars, 12 reviews. General shopping, average rating.
+   - **OQqBFuA5tcxdHog8YgMRcQ (Ross Dress for Less)**: Fashion, Department Stores, Discount Store, Home Decor, Home & Garden. 2.5 stars, 7 reviews. Some category match, low rating.
+   - **OBHh5Nm8lw52psIAXGOGYg (Gamestop)**: Shopping, Toy Stores. 2.5 stars, 8 reviews. Not a strong match.
+   - **r4D7_LX3JowSbx4QUpoaNg (Monster Pets)**: Pets, Shopping, Pet Stores. 2.5 stars, 78 reviews. Not a strong match.
+   - **K-S_YhtoGffXF9f3azGY2A (Rite Aid)**: Convenience Stores, Shopping, Food, Drugstores. 2.5 stars, 7 reviews. Not a strong match.
+   - **RvOJFT-Kk2ynqa0-yY51hA (Liberty Smokes)**: Shopping, Tobacco Shops. 2.0 stars, 6 reviews. Not a match.
+   - **Cp5vp6LVGudRE6WXwVwEaA (Ez Tech)**: IT Services & Computer Repair, Shopping, Electronics Repair. 2.5 stars, 5 reviews. Not a match.
+
+6. **Final Ranking**:
+   - Top: Items with Home & Garden, Nurseries & Gardening, Food, unique/vintage Shopping, and high ratings.
+   - Middle: General Shopping, Fashion, Discount, with moderate ratings.
+   - Bottom: Poor category match and/or low ratings.
+
+Final answer:
+
+['Rzx2E5XgTeGU7FEbUZ-bGg', 'o2oD8bGW3oMaaTeSOqi-Kg', 'IaelRCI4Ah5oxiHuBnFC7w', 'x1p-knHTbmDIuhnbkuYT5g', 'NSDhtsrXY78oZ8B3MkaxnQ', 'oFu61fiwKh6W_zgGjATfyw', 'Ouz6NevgUHn-rGXbcw7DOQ', 'BzDbphyIfHWZUoaQQdAUYw', 'uYIZQTeTTMERbwEW9DDZGA', 'WNFxt2TyMDEuNNNZ9Z9zRQ', 'xfmkEGiIERBaBMLhw-dTCg', 'E4PV_GU0Rdn0Jx7s6aICug', 'OjFr_sk32NOhYSvA_Ucd5Q', '2hvDcM769GC5t6zrkn4A3w', 'OQqBFuA5tcxdHog8YgMRcQ', 'OBHh5Nm8lw52psIAXGOGYg', 'r4D7_LX3JowSbx4QUpoaNg', 'K-S_YhtoGffXF9f3azGY2A', 'RvOJFT-Kk2ynqa0-yY51hA', 'Cp5vp6LVGudRE6WXwVwEaA']
+ Parsed Top 5 Recommendations: ['Rzx2E5XgTeGU7FEbUZ-bGg', 'o2oD8bGW3oMaaTeSOqi-Kg', 'IaelRCI4Ah5oxiHuBnFC7w', 'x1p-knHTbmDIuhnbkuYT5g', 'NSDhtsrXY78oZ8B3MkaxnQ']
+ Full Ranking: [
+  "Rzx2E5XgTeGU7FEbUZ-bGg",
+  "o2oD8bGW3oMaaTeSOqi-Kg",
+  "IaelRCI4Ah5oxiHuBnFC7w",
+  "x1p-knHTbmDIuhnbkuYT5g",
+  "NSDhtsrXY78oZ8B3MkaxnQ",
+  "oFu61fiwKh6W_zgGjATfyw",
+  "Ouz6NevgUHn-rGXbcw7DOQ",
+  "BzDbphyIfHWZUoaQQdAUYw",
+  "uYIZQTeTTMERbwEW9DDZGA",
+  "WNFxt2TyMDEuNNNZ9Z9zRQ",
+  "xfmkEGiIERBaBMLhw-dTCg",
+  "E4PV_GU0Rdn0Jx7s6aICug",
+  "OjFr_sk32NOhYSvA_Ucd5Q",
+  "2hvDcM769GC5t6zrkn4A3w",
+  "OQqBFuA5tcxdHog8YgMRcQ",
+  "OBHh5Nm8lw52psIAXGOGYg",
+  "r4D7_LX3JowSbx4QUpoaNg",
+  "K-S_YhtoGffXF9f3azGY2A",
+  "RvOJFT-Kk2ynqa0-yY51hA",
+  "Cp5vp6LVGudRE6WXwVwEaA"
+]
+
+ 2025-11-23 07:10:52.998062
+ User: psQMmdULPmUIfoPQ1_zxUQ
+ Raw LLM Response: Step-by-step analysis:
+
+1. **User Profile & Preferences**
+   - Amber is a positive, consistent reviewer (avg 4.04 stars, std 0.00).
+   - Preferred categories: Nightlife, Sandwiches, American (New), Restaurants, Bars, Local Flavor.
+   - Past review: Sassafras Bar (4.0 stars) for a reunion dinner with friends, enjoyed food and cocktails.
+   - Likes: group-friendly, dinner, cocktails, American/New American, bars with food, "special" or "classy" ambiance.
+
+2. **Ranking Factors**
+   - **Category/Attribute Match**: Prioritize items with Nightlife, Bars, American (New), Restaurants, group-friendly, dinner, cocktails/full bar, happy hour, casual/classy/intimate ambiance.
+   - **Item Quality**: Higher ratings and more reviews are better, but not at the expense of preference match.
+   - **Relevance to Past Experience**: Dinner with friends, cocktails, special ambiance.
+   - **Location**: Not enough info to differentiate, so not a primary factor.
+
+3. **Item-by-Item Evaluation (Top Candidates)**
+   - **Mfyqn9bYNL7jVsXjXH_ymg (Tavern On the Hill)**: 4.0 stars, 140 reviews, American (New), Bars, Nightlife, dinner, full bar, happy hour, intimate/classy, reservations, good for a special dinner.
+   - **BtxUZn4d7yxsHwdlRq1dkw (Mount Airy Tap Room)**: 4.5 stars, 51 reviews, Bars, Nightlife, American (New), Sandwiches, group-friendly, happy hour, full bar, classy, dinner.
+   - **Am5wWa0v13NZRsJ-g9f9cQ (Chestnut Hill Brewing Company)**: 4.5 stars, 108 reviews, Bars, Nightlife, American (New), group-friendly, casual, dinner, happy hour, beer/wine only.
+   - **QQGyPctWtd9WOZnMKUChUQ (McMenamin's Tavern)**: 4.0 stars, 224 reviews, Bars, Nightlife, American (New), group-friendly, casual, dinner, happy hour, full bar.
+   - **PxEiXqMAzzvp8GFlb5EoLg (Grain Exchange)**: 3.5 stars, 239 reviews, Bars, Nightlife, American (New), group-friendly, dinner, happy hour, casual/hipster.
+   - **OFzOce5dfz1BgayT33KtjA (7165 Restaurant and Bar)**: 4.0 stars, 10 reviews, Bars, Nightlife, American (New), group-friendly, dinner, full bar, happy hour.
+   - **AVCsL26Asb5vsPnACWvkqg (Parker Pub)**: 4.0 stars, 11 reviews, Bars, Nightlife, Pubs, group-friendly, full bar, happy hour.
+   - **799eRxVni0-aZ_W628moDQ (Coyle's Cafe)**: 4.0 stars, 12 reviews, Bars, Nightlife, Dive Bars, group-friendly, full bar, happy hour.
+   - **7HcaaocVkMj3g7OiIVWy6g (Delmar Bar & Lounge)**: 4.5 stars, 8 reviews, Bars, Nightlife, Dive Bars, group-friendly, full bar.
+   - **5UN1B7XqZohGuULLNlWL1A (Paris Bistro and Jazz Cafe)**: 3.5 stars, 274 reviews, Bars, Nightlife, group-friendly, full bar, live music, dinner, classy.
+   - **jM-oH5U5zcnfpmcbsgMVHQ (Chestnut Grill and Sidewalk Cafe)**: 3.5 stars, 173 reviews, Bars, Nightlife, American (New), group-friendly, dinner, full bar, happy hour.
+   - **3dtxHKM3RbVyjzTfbcGq2A (Murphy's Tavern)**: 3.5 stars, 19 reviews, Bars, Nightlife, group-friendly, full bar, happy hour.
+   - **5qVt5XufPXTztxneUzUriw (Tavern on Ridge)**: 3.5 stars, 57 reviews, Bars, Nightlife, American (New), group-friendly, full bar, happy hour, live music.
+   - **gIdsoqeal31OEuBXhAaPPw (Cornerstone Inn)**: 3.5 stars, 10 reviews, Bars, Nightlife, American (New), group-friendly, full bar, happy hour.
+   - **NKYguP2dJdd6ng5UxxLVHg (3rd Base Bar and Grill)**: 4.0 stars, 5 reviews, Bars, Nightlife, group-friendly, full bar, happy hour, dancing.
+   - **Y0Z13K5KquO0OT3TEuLmVQ (Crab House 5706)**: 3.0 stars, 24 reviews, Bars, Nightlife, full bar, group-friendly.
+   - **uGBDL0PeAmUjxjZRtR_hUA (Towey's Tavern)**: 3.5 stars, 11 reviews, Bars, Nightlife, group-friendly, full bar.
+   - **V32bG99x8JRbwfBiqRDD4Q (Barry John Commodore Club)**: 4.0 stars, 5 reviews, Nightlife.
+   - **ltaDKBb6_PMAOAXthRFKLA (Alma Mater)**: 2.0 stars, 26 reviews, Bars, Nightlife, American (New), group-friendly, full bar, happy hour.
+   - **Qq4bJfagVGJ3Z7BDbkiXuA (Adrian's Sports Bar And Grill)**: 2.0 stars, 5 reviews, Bars, Nightlife, group-friendly, full bar, happy hour.
+
+4. **Final Ranking Logic**
+   - Top: Items with strong match to Amber's preferences (American (New), Bars, Nightlife, group-friendly, dinner, full bar, happy hour, classy/intimate/casual), high ratings, and good review count.
+   - Middle: Good match but lower ratings, fewer reviews, or missing some attributes.
+   - Bottom: Poor ratings, weak category match, or missing key attributes.
+
+5. **Final List**
+
+['Mfyqn9bYNL7jVsXjXH_ymg', 'BtxUZn4d7yxsHwdlRq1dkw', 'Am5wWa0v13NZRsJ-g9f9cQ', 'QQGyPctWtd9WOZnMKUChUQ', 'PxEiXqMAzzvp8GFlb5EoLg', 'OFzOce5dfz1BgayT33KtjA', 'AVCsL26Asb5vsPnACWvkqg', '799eRxVni0-aZ_W628moDQ', '7HcaaocVkMj3g7OiIVWy6g', '5UN1B7XqZohGuULLNlWL1A', 'jM-oH5U5zcnfpmcbsgMVHQ', '3dtxHKM3RbVyjzTfbcGq2A', '5qVt5XufPXTztxneUzUriw', 'gIdsoqeal31OEuBXhAaPPw', 'NKYguP2dJdd6ng5UxxLVHg', 'Y0Z13K5KquO0OT3TEuLmVQ', 'uGBDL0PeAmUjxjZRtR_hUA', 'V32bG99x8JRbwfBiqRDD4Q', 'ltaDKBb6_PMAOAXthRFKLA', 'Qq4bJfagVGJ3Z7BDbkiXuA']
+ Parsed Top 5 Recommendations: ['Mfyqn9bYNL7jVsXjXH_ymg', 'BtxUZn4d7yxsHwdlRq1dkw', 'Am5wWa0v13NZRsJ-g9f9cQ', 'QQGyPctWtd9WOZnMKUChUQ', 'PxEiXqMAzzvp8GFlb5EoLg']
+ Full Ranking: [
+  "Mfyqn9bYNL7jVsXjXH_ymg",
+  "BtxUZn4d7yxsHwdlRq1dkw",
+  "Am5wWa0v13NZRsJ-g9f9cQ",
+  "QQGyPctWtd9WOZnMKUChUQ",
+  "PxEiXqMAzzvp8GFlb5EoLg",
+  "OFzOce5dfz1BgayT33KtjA",
+  "AVCsL26Asb5vsPnACWvkqg",
+  "799eRxVni0-aZ_W628moDQ",
+  "7HcaaocVkMj3g7OiIVWy6g",
+  "5UN1B7XqZohGuULLNlWL1A",
+  "jM-oH5U5zcnfpmcbsgMVHQ",
+  "3dtxHKM3RbVyjzTfbcGq2A",
+  "5qVt5XufPXTztxneUzUriw",
+  "gIdsoqeal31OEuBXhAaPPw",
+  "NKYguP2dJdd6ng5UxxLVHg",
+  "Y0Z13K5KquO0OT3TEuLmVQ",
+  "uGBDL0PeAmUjxjZRtR_hUA",
+  "V32bG99x8JRbwfBiqRDD4Q",
+  "ltaDKBb6_PMAOAXthRFKLA",
+  "Qq4bJfagVGJ3Z7BDbkiXuA"
+]
+
+ 2025-11-23 07:11:15.195952
+ User: M5AVDAM7SzW6II6iDp4LEg
+ Raw LLM Response: Step-by-step analysis:
+
+1. **User Profile & Preferences**
+   - Evgenia is a critical reviewer (avg stars ~2.4, most common 1.0), with a history of negative reviews, especially for waxing and hygiene issues.
+   - She has a strong preference for Beauty & Spas, Nail Salons, Waxing, Hair Removal, Skin Care, and related categories.
+   - She has given a 5-star review for a waxing service (Zizette), indicating that high-quality waxing is a key interest, but is very picky about quality and technique.
+   - She dislikes poor hygiene and non-standard products in waxing.
+   - She is open to other beauty services (nails, skin care, spas), but waxing/hair removal is a strong signal.
+
+2. **Ranking Factor 1: Category/Attribute Match**
+   - Highest match: Nail Salons, Waxing, Hair Removal, Skin Care, Day Spas.
+   - Moderate match: Hair Salons, Makeup Artists, Massage, Barbers.
+   - Low match: Tattoo, Piercing, Pilates, Weight Loss, etc.
+
+3. **Ranking Factor 2: Item Quality**
+   - High star ratings (4.5-5.0) and decent review counts are preferred, but must be in relevant categories.
+   - Low ratings (<3.0) are penalized unless no better options exist.
+
+4. **Ranking Factor 3: Past Experience Relevance**
+   - Strong negative bias against waxing services that use strange products or have poor hygiene.
+   - Positive bias for waxing services that are professional and thorough.
+   - Nail salons and spas with waxing/hair removal are prioritized.
+
+5. **Ranking Factor 4: Location**
+   - No explicit location data for items, so this is not a differentiator.
+
+6. **Item-by-item Evaluation**
+   - **Top Tier (Best match, high quality):**
+     - I9CwI9oIr0L67KLS8UC0UA (CURE de Repos): 4.5 stars, waxing, hair removal, skin care, spa.
+     - 94s_AwUQmy41Dp3fslgdjA (Culture Hair Studio): 4.5 stars, waxing, hair removal, skin care, beauty.
+     - LB19zg7guFOqO1KatskCUg (Millennium Nails and Spa): 3.5 stars, waxing, hair removal, nail salon, spa.
+     - 1lUfhypIZhfP8UmZBh6bxg (Spa Elysium &Fringe Salon): 4.0 stars, nail salon, skin care, day spa.
+     - I5ueHDysyhKzHkE5Nw4Rew (Diamond Spa): 4.0 stars, day spa, nail salon.
+     - JXHEyz6h5xl5Xd2ZpmXceQ (Sacred Paradise Spa): 4.0 stars, nail salon, skin care, spa.
+   - **Second Tier (Good match, high quality):**
+     - -K80PQ45I5AeYWSCcEcy6g (Vivid Salon): 4.5 stars, hair salon, beauty.
+     - ViO6ziYwKwdVTNrFZz0gDQ (Follicles Hair Salon): 4.5 stars, skin care, beauty.
+     - GX0REnnZMhsxlu3gSb-mAw (Posh Hair Artistry): 5.0 stars, hair salon, beauty.
+     - XQ4Cfzi1TXqoJ6RSkpr-Ow (Norio of Tokyo Hair Salon): 4.5 stars, hair salon, beauty.
+     - DFZnh7ApQMk0nYvwTlRUxw (Cheekadee Makeup Artists): 4.5 stars, beauty, makeup.
+   - **Third Tier (Category match, moderate quality):**
+     - YWfOxkw6ZqMOsVm3hsv2ig (New Happy Nails): 3.0 stars, nail salon.
+     - vWERGBrcoWgRBzWdd_yWWQ (A & A Nail Salon): 2.5 stars, nail salon.
+     - _F0tnw3UMFPmSYJHhGaGRw (T Happy Nails): 3.0 stars, nail salon.
+     - zBfhupE2j25W26pnmWgMmQ (The Broad Nail Salon): 2.0 stars, nail salon.
+     - ufNUHAZSC1Nq85H92vHfNA (House of nails salon and spa): 2.0 stars, waxing, hair removal, nail salon.
+     - 5Cj7hVtnGhaEIKYKQpQ_4w (New Image Dominican Hair Salon): 2.5 stars, hair salon.
+   - **Fourth Tier (Low match or low quality):**
+     - zbu2BgZJMCScHtyFnyy6YQ (Red's Creative Cuts): 5.0 stars, barbers.
+     - SSBsKbKd0VAIupsjDGmmRQ (The Duke Barber Co.): 3.5 stars, barbers.
+     - RY0ojWzOlDOjEjiAOsSMVQ (Kadillac Tattoo): 3.5 stars, tattoo, piercing.
+
+7. **Special Considerations**
+   - Avoid items with <3.0 stars unless category match is very strong and no better options exist.
+   - Prioritize waxing/hair removal + nail salons + spas with high ratings.
+   - Avoid barbers/tattoo shops unless no other options.
+
+**Final Ranking:**
+
+['I9CwI9oIr0L67KLS8UC0UA', '94s_AwUQmy41Dp3fslgdjA', 'LB19zg7guFOqO1KatskCUg', '1lUfhypIZhfP8UmZBh6bxg', 'I5ueHDysyhKzHkE5Nw4Rew', 'JXHEyz6h5xl5Xd2ZpmXceQ', '-K80PQ45I5AeYWSCcEcy6g', 'ViO6ziYwKwdVTNrFZz0gDQ', 'GX0REnnZMhsxlu3gSb-mAw', 'XQ4Cfzi1TXqoJ6RSkpr-Ow', 'DFZnh7ApQMk0nYvwTlRUxw', 'YWfOxkw6ZqMOsVm3hsv2ig', 'vWERGBrcoWgRBzWdd_yWWQ', '_F0tnw3UMFPmSYJHhGaGRw', 'zBfhupE2j25W26pnmWgMmQ', 'ufNUHAZSC1Nq85H92vHfNA', '5Cj7hVtnGhaEIKYKQpQ_4w', 'zbu2BgZJMCScHtyFnyy6YQ', 'SSBsKbKd0VAIupsjDGmmRQ', 'RY0ojWzOlDOjEjiAOsSMVQ']
+ Parsed Top 5 Recommendations: ['I9CwI9oIr0L67KLS8UC0UA', '94s_AwUQmy41Dp3fslgdjA', 'LB19zg7guFOqO1KatskCUg', '1lUfhypIZhfP8UmZBh6bxg', 'I5ueHDysyhKzHkE5Nw4Rew']
+ Full Ranking: [
+  "I9CwI9oIr0L67KLS8UC0UA",
+  "94s_AwUQmy41Dp3fslgdjA",
+  "LB19zg7guFOqO1KatskCUg",
+  "1lUfhypIZhfP8UmZBh6bxg",
+  "I5ueHDysyhKzHkE5Nw4Rew",
+  "JXHEyz6h5xl5Xd2ZpmXceQ",
+  "-K80PQ45I5AeYWSCcEcy6g",
+  "ViO6ziYwKwdVTNrFZz0gDQ",
+  "GX0REnnZMhsxlu3gSb-mAw",
+  "XQ4Cfzi1TXqoJ6RSkpr-Ow",
+  "DFZnh7ApQMk0nYvwTlRUxw",
+  "YWfOxkw6ZqMOsVm3hsv2ig",
+  "vWERGBrcoWgRBzWdd_yWWQ",
+  "_F0tnw3UMFPmSYJHhGaGRw",
+  "zBfhupE2j25W26pnmWgMmQ",
+  "ufNUHAZSC1Nq85H92vHfNA",
+  "5Cj7hVtnGhaEIKYKQpQ_4w",
+  "zbu2BgZJMCScHtyFnyy6YQ",
+  "SSBsKbKd0VAIupsjDGmmRQ",
+  "RY0ojWzOlDOjEjiAOsSMVQ"
+]
+
+ 2025-11-23 07:13:19.447774
+ User: bLUq5Yt9ILWHtNY6o2O8jA
+ Raw LLM Response: Step-by-step analysis:
+
+**1. Category/Attribute Match with User Preferences**
+- User prefers: Nail Salons, Beauty & Spas, Southern, Restaurants, Seafood, Salad, American (New), Italian, Health & Medical, Waxing, Hair Removal, Skin Care.
+- For Beverages & Bars, the closest matches are those with strong food programs (especially seafood, American, Italian), casual/quality bar-restaurant hybrids, and those with positive group/ambience attributes.
+- Seafood and American (New/Traditional) are strong matches.
+
+**2. Item Quality (Ratings, Review Count)**
+- Higher stars and more reviews are better, but user is generous, so 4.0+ is ideal.
+- Avoid items with <3.0 unless other factors are strong.
+
+**3. Relevance to User's Past Experiences**
+- Likes: Great food, good service, especially seafood and Indian.
+- Dislikes: Poor service, long waits, cold food.
+- Neutral/mixed on bars: Has given 3.0 for "quick drink" and 5.0 for "delicious food and great service" at a bar/restaurant.
+
+**4. Location Proximity**
+- No explicit distances, so all are treated equally unless otherwise specified.
+
+**Detailed Item-by-Item Analysis:**
+
+**Top Tier (Best Matches)**
+- 0Dw9eqJsbfuVKsgAoc9NZg (Wild Crab Cajun Seafood & Bar): Seafood, Bars, high rating, matches user’s love of seafood, group friendly, casual, BYOB, caters, good service signals.
+- yP1IBeS0hPYqSTB5bzxxZA (Tio Pepe Restaurant & Bar): Seafood, Iberian, Bars, high rating, group friendly, happy hour, classy/casual, matches user’s food/bar hybrid preference.
+- Axb4x-c2nooyq5Rm4VUP7w (The Grey Lodge Pub): Pubs, Bars, high review count, good for groups, happy hour, casual, matches American/food/bar hybrid.
+- gjALduh0HJg-xMHMm0Uz0Q (Chickie's & Pete's): Seafood, American, Bars, high review count, good for groups, casual, matches food/bar hybrid and seafood.
+- iOBs_J9oVIwVKsmfBHBs6w (Pub36): Irish Pub, Bars, food, good for groups, happy hour, good reviews, matches food/bar hybrid.
+- ZCfhzELrF9yahqQIJH3DSw (Coach's Bar & Grill): American, Bars, good for groups, casual, high rating, matches food/bar hybrid.
+- NcN7HHJONu9xoWfgGPqITA (Tailhook): Sports Bars, Dive Bars, high rating, good for groups, happy hour, matches casual bar with food.
+
+**Second Tier (Good Matches)**
+- rOZbHxErnT_BRanPVYWJ_Q (McNally's Tavern - Mayfair): American, Pubs, Bars, perfect rating but low review count, group friendly.
+- TeiGh076CLVLrB-9tQguNQ (Lyrics Lounge): Bars, Lounges, high rating, group friendly, but less food focus.
+- wOp0SwGeUFP3MTKXDwSmjQ (Bamboo Bar): Bars, high rating, group friendly, but less food focus.
+- n4alafw1npRmVXzfBLUGPQ (Nick's Roast Beef): American, Bars, high review count, food focus, but only 3.0 stars.
+- 1ynfWYtAWbbMJs3NnRNXtQ (Curran's Irish Inn): Pubs, Bars, food, group friendly, but only 3.0 stars.
+
+**Third Tier (Neutral/Lower Matches)**
+- JUVtr9lqM1dCaiLPFPCeBw (Daydreams Gentlemen's Club): Bars, Adult Entertainment, group friendly, but not a food/bar hybrid.
+- shuAjSIsKG6Zg8blW2fmPw (Club Risqué): Adult Entertainment, group friendly, not a food/bar hybrid.
+- DgDd0A3nI-mMi35jZIlyxg (The Parish Pub): Sports Bars, Bars, only 2.5 stars.
+- wAIZDurYmEeSR9vQxge89w (Owen's Cafe): Bars, only 3.0 stars, food, but not standout.
+- 7J81xJFlMM244_f05k2egw (Hammerheads Bar & Grille): Dive Bars, American, only 2.5 stars.
+- TVoTCkZukwXQx8n8kARIMA (Spiked Sports Lounge and Grill): Bars, only 2.0 stars, not group friendly.
+- e7PUSXlcOfel8c7sPIA28w (Sheffield Tavern): Bars, only 2.0 stars.
+- tCX_WQZSUgfzL5eXjTqmbA (Casper's Place): Bars, only 1.0 star.
+
+**Final Ranking (most to least recommended):**
+['0Dw9eqJsbfuVKsgAoc9NZg', 'yP1IBeS0hPYqSTB5bzxxZA', 'Axb4x-c2nooyq5Rm4VUP7w', 'gjALduh0HJg-xMHMm0Uz0Q', 'iOBs_J9oVIwVKsmfBHBs6w', 'ZCfhzELrF9yahqQIJH3DSw', 'NcN7HHJONu9xoWfgGPqITA', 'rOZbHxErnT_BRanPVYWJ_Q', 'TeiGh076CLVLrB-9tQguNQ', 'wOp0SwGeUFP3MTKXDwSmjQ', 'n4alafw1npRmVXzfBLUGPQ', '1ynfWYtAWbbMJs3NnRNXtQ', 'JUVtr9lqM1dCaiLPFPCeBw', 'shuAjSIsKG6Zg8blW2fmPw', 'DgDd0A3nI-mMi35jZIlyxg', 'wAIZDurYmEeSR9vQxge89w', '7J81xJFlMM244_f05k2egw', 'TVoTCkZukwXQx8n8kARIMA', 'e7PUSXlcOfel8c7sPIA28w', 'tCX_WQZSUgfzL5eXjTqmbA']
+ Parsed Top 5 Recommendations: ['0Dw9eqJsbfuVKsgAoc9NZg', 'yP1IBeS0hPYqSTB5bzxxZA', 'Axb4x-c2nooyq5Rm4VUP7w', 'gjALduh0HJg-xMHMm0Uz0Q', 'iOBs_J9oVIwVKsmfBHBs6w']
+ Full Ranking: [
+  "0Dw9eqJsbfuVKsgAoc9NZg",
+  "yP1IBeS0hPYqSTB5bzxxZA",
+  "Axb4x-c2nooyq5Rm4VUP7w",
+  "gjALduh0HJg-xMHMm0Uz0Q",
+  "iOBs_J9oVIwVKsmfBHBs6w",
+  "ZCfhzELrF9yahqQIJH3DSw",
+  "NcN7HHJONu9xoWfgGPqITA",
+  "rOZbHxErnT_BRanPVYWJ_Q",
+  "TeiGh076CLVLrB-9tQguNQ",
+  "wOp0SwGeUFP3MTKXDwSmjQ",
+  "n4alafw1npRmVXzfBLUGPQ",
+  "1ynfWYtAWbbMJs3NnRNXtQ",
+  "JUVtr9lqM1dCaiLPFPCeBw",
+  "shuAjSIsKG6Zg8blW2fmPw",
+  "DgDd0A3nI-mMi35jZIlyxg",
+  "wAIZDurYmEeSR9vQxge89w",
+  "7J81xJFlMM244_f05k2egw",
+  "TVoTCkZukwXQx8n8kARIMA",
+  "e7PUSXlcOfel8c7sPIA28w",
+  "tCX_WQZSUgfzL5eXjTqmbA"
+]
+
+ 2025-11-23 07:14:37.783268
+ User: AFM4E4IMV26YLY5ZOFXQAJ3XW7DA
+ Raw LLM Response: Step-by-step analysis:
+
+1. **User Profile & Preferences**
+   - Highly positive, generous rater (avg 4.7, most 5.0)
+   - Preferred categories: Musical Instruments, Instrument Accessories, Guitar & Bass Accessories, Picks & Pick Holders, Picks
+   - Past reviews are enthusiastic about quality and delivery, especially for musical/guitar-related items.
+
+2. **Critical Ranking Factors**
+   - **Category/attribute match**: Musical Instruments and related accessories are top priority.
+   - **Item quality**: High ratings and review count are important, but only after category match.
+   - **Relevance to past experiences**: User likes guitar/instrument accessories, especially quality and quick delivery.
+   - **Location**: Not provided, so not considered.
+
+3. **Item-by-item Category Match**
+   - **Direct match (Musical Instruments, Instrument Accessories, Guitar & Bass Accessories):**
+     - B07ZK4KTNX: Strymon Iridium Amp and IR Cab Simulator Pedal (Musical Instruments, Guitar Effects)
+     - B005SGBIC0: Fender Standard Series Squier Stratocaster Tremolo Assembly (Musical Instruments, Instrument Accessories, Guitar & Bass Accessories, Electric Guitar Parts)
+     - B07XLVGRMY: Sennheiser Headphones (Musical Instruments, Studio Recording Equipment)
+   - **Partial/related match (Music/Audio Accessories):**
+     - None directly in picks/pick holders, but above are closest.
+   - **Other categories (Video Games, Industrial & Scientific, etc.):**
+     - Not a match to user’s core preferences.
+
+4. **Item Quality (within top matches)**
+   - B005SGBIC0: 4.7 (28 reviews) – strong match, high rating, relevant accessory.
+   - B07ZK4KTNX: 4.5 (127 reviews) – very relevant, high quality, premium pedal.
+   - B07XLVGRMY: 4.1 (50 reviews) – relevant, but lower rating.
+
+5. **Other Items (Secondary)**
+   - Video Games: User has no history of reviewing games, so these are lower priority.
+   - Industrial & Scientific: No evidence of interest.
+   - Within these, sort by rating and review count.
+
+6. **Final Ranking**
+   - **Top 3:** Musical Instruments/Accessories, sorted by rating and relevance.
+   - **Next:** Other Musical Instruments (headphones).
+   - **Then:** Highest-rated items in other categories, sorted by rating and review count.
+   - **Video Games:** High-quality, popular games next.
+   - **Industrial/Scientific:** Sorted by rating and review count.
+   - **Least relevant:** Items with lowest category match and/or lowest quality.
+
+**Final Ranked List:**
+
+['B005SGBIC0', 'B07ZK4KTNX', 'B07XLVGRMY', 'B07G9WK8GS', 'B07NLJ1BJL', 'B017W1780O', 'B00009VE6D', 'B076K27L1P', 'B09CPM2NJJ', 'B09G64PCZ8', 'B0BS95YW4V', 'B0BT86Y919', 'B07TBRFQWQ', 'B0722W1718', 'B082DCXP96', 'B00CFNS3V8', 'B074FY82LW', 'B002MROR7G', 'B00006F7S8', 'B002KQJNO6']
+ Parsed Top 5 Recommendations: ['B005SGBIC0', 'B07ZK4KTNX', 'B07XLVGRMY', 'B07G9WK8GS', 'B07NLJ1BJL']
+ Full Ranking: [
+  "B005SGBIC0",
+  "B07ZK4KTNX",
+  "B07XLVGRMY",
+  "B07G9WK8GS",
+  "B07NLJ1BJL",
+  "B017W1780O",
+  "B00009VE6D",
+  "B076K27L1P",
+  "B09CPM2NJJ",
+  "B09G64PCZ8",
+  "B0BS95YW4V",
+  "B0BT86Y919",
+  "B07TBRFQWQ",
+  "B0722W1718",
+  "B082DCXP96",
+  "B00CFNS3V8",
+  "B074FY82LW",
+  "B002MROR7G",
+  "B00006F7S8",
+  "B002KQJNO6"
+]
+
+ 2025-11-23 07:14:59.008344
+ User: AFYH37SYS2HKXCIB5CQKZIFAZPRA
+ Raw LLM Response: Step-by-step analysis:
+
+1. **User Preferences & Past Reviews:**
+   - Strong positive bias (avg rating 4.3, most common 5.0).
+   - Preferred categories: Video Games, PC, Industrial & Scientific, Janitorial & Sanitation Supplies, Waste Receptacles & Liners.
+   - Past 5-star reviews for: DS Lite (Nintendo handheld), mouse (gift for boyfriend), recycle bin (loved for kitchen).
+   - 1-star review for: gaming keyboard (wanted a different model).
+
+2. **Category/Attribute Match:**
+   - Highest match: Video Games (especially Nintendo/DS), PC, Industrial & Scientific, Waste Receptacles.
+   - Moderate match: Accessories for preferred categories.
+   - Low match: Musical Instruments (no evidence of interest).
+
+3. **Item Quality:**
+   - Consider both average rating and number of reviews.
+   - Items with high ratings and high review counts are preferred.
+
+4. **Relevance to Past Experiences:**
+   - DS/3DS/Nintendo items are highly relevant.
+   - PC games/software relevant.
+   - Industrial/Janitorial items relevant (recycle bin, reflective tape, casters, straps, bearings).
+   - Gifts for boyfriend: possible interest in items that could be gifted.
+
+5. **Location:** Not provided, so ignored.
+
+**Detailed Ranking:**
+
+**Top Tier (Direct Category/Preference Match):**
+- Nintendo DS/3DS/Video Games: B002HJUX7C (Harvest Moon DS), B076CPP94J (3DS XL Screen Protectors), B087NNZZM8 (Animal Crossing Switch), B000066RKC (The Thing PS2), B000G77X1Q (ATV Offroad Fury PSP), B06XC345WG (WRC 6 Xbox One), B07KZ6QJTL (PS4 Data Bank), B008073TJ4 (PS Vita Memory Card), B000023MD4 (PS Controller Extension).
+- PC Games: B003B2MLDI (Fritz Chess).
+- Industrial/Janitorial: B0B24GD5S5 (Reflective Tape), B097CZPM3N (Caster Wheels), B0B2CTYNP3 (Clutch Straps), B07JJ526NX (Bearings).
+
+**Second Tier (Accessory/Related):**
+- B07CV71LKX (Oculus Rift Case), B0758M1Z81 (Oculus Controller Skin).
+
+**Third Tier (Musical Instruments):**
+- B07FYVKDNQ (Guitar Strap), B08FYCS7WF (Guitar Pickguard), B07CNKF5YS (Music Stand), B073V3G571 (Ibanez Guitar Pack).
+
+**Now, order within tiers using item quality (rating, review count), and relevance to user (Nintendo/DS/PC/Industrial first):**
+
+**Final Ranking:**
+1. B002HJUX7C (Harvest Moon DS) – DS, direct match, high rating
+2. B076CPP94J (3DS XL Screen Protectors) – DS/3DS accessory, high rating
+3. B087NNZZM8 (Animal Crossing Switch) – Nintendo, high rating
+4. B003B2MLDI (Fritz Chess) – PC game, matches PC interest
+5. B097CZPM3N (Caster Wheels) – Industrial, high rating, matches janitorial/industrial
+6. B0B24GD5S5 (Reflective Tape) – Industrial, matches janitorial/industrial
+7. B07KZ6QJTL (PS4 Data Bank) – Video game accessory, high rating
+8. B07JJ526NX (Bearings) – Industrial, high rating
+9. B0B2CTYNP3 (Clutch Straps) – Industrial, high rating
+10. B000066RKC (The Thing PS2) – Video game, high rating
+11. B000G77X1Q (ATV Offroad Fury PSP) – Video game, high rating
+12. B06XC345WG (WRC 6 Xbox One) – Video game, good rating
+13. B008073TJ4 (PS Vita Memory Card) – Video game accessory, high rating
+14. B07CV71LKX (Oculus Rift Case) – PC/VR accessory, high rating
+15. B0758M1Z81 (Oculus Controller Skin) – PC/VR accessory, moderate rating
+16. B000023MD4 (PS Controller Extension) – Video game accessory, lower rating
+17. B07FYVKDNQ (Guitar Strap) – Musical instrument, high rating
+18. B08FYCS7WF (Guitar Pickguard) – Musical instrument, high rating
+19. B07CNKF5YS (Music Stand) – Musical instrument, high rating
+20. B073V3G571 (Ibanez Guitar Pack) – Musical instrument, high rating
+
+['B002HJUX7C', 'B076CPP94J', 'B087NNZZM8', 'B003B2MLDI', 'B097CZPM3N', 'B0B24GD5S5', 'B07KZ6QJTL', 'B07JJ526NX', 'B0B2CTYNP3', 'B000066RKC', 'B000G77X1Q', 'B06XC345WG', 'B008073TJ4', 'B07CV71LKX', 'B0758M1Z81', 'B000023MD4', 'B07FYVKDNQ', 'B08FYCS7WF', 'B07CNKF5YS', 'B073V3G571']
+ Parsed Top 5 Recommendations: ['B002HJUX7C', 'B076CPP94J', 'B087NNZZM8', 'B003B2MLDI', 'B097CZPM3N']
+ Full Ranking: [
+  "B002HJUX7C",
+  "B076CPP94J",
+  "B087NNZZM8",
+  "B003B2MLDI",
+  "B097CZPM3N",
+  "B0B24GD5S5",
+  "B07KZ6QJTL",
+  "B07JJ526NX",
+  "B0B2CTYNP3",
+  "B000066RKC",
+  "B000G77X1Q",
+  "B06XC345WG",
+  "B008073TJ4",
+  "B07CV71LKX",
+  "B0758M1Z81",
+  "B000023MD4",
+  "B07FYVKDNQ",
+  "B08FYCS7WF",
+  "B07CNKF5YS",
+  "B073V3G571"
+]
+
+ 2025-11-23 07:15:29.577160
+ User: AHNVN3IQVNMMIR7S4AXK7F6WQHOQ
+ Raw LLM Response: Step-by-step analysis:
+
+1. **User Profile & Preferences**:
+   - Very positive, generous rater (avg 4.8, std 0.42).
+   - Strong preference for: Industrial & Scientific, Material Handling Products, Raw Materials, B2B, Janitorial & Sanitation Supplies.
+   - Past reviews indicate practical, utility-focused purchases (e.g., hangers for dresses, workbench hardware, radon detectors).
+
+2. **Category/Attribute Match** (most important):
+   - Items in "Industrial & Scientific" and subcategories (Material Handling, Fasteners, Hydraulics, Packaging, Additive Manufacturing) are top matches.
+   - Items in unrelated categories (Musical Instruments, Video Games, etc.) are less relevant.
+
+3. **Item Quality**:
+   - High average ratings and high review counts are preferred, but only after category match.
+
+4. **Relevance to Past Experiences**:
+   - User liked hangers for long dresses (Memory 1) → hanger stacker is highly relevant.
+   - Workbench hardware (Memory 2) → fasteners, casters, edge trim, valves, seals, etc., are relevant.
+   - Radon detectors (Memory 3) → not directly relevant to any candidate.
+
+5. **Location**:
+   - No location provided, so skip.
+
+6. **Ranking Process**:
+   - First, select and order all items in preferred categories, prioritizing those most similar to past purchases and with high quality.
+   - Next, order items in less relevant categories by quality.
+
+**Detailed Ranking:**
+
+**Top Tier: Direct Category & Attribute Match**
+- B07BMPGYM9: NAHANCO Hanger Stacker. Directly matches Memory 1 (hanging dresses), Industrial & Scientific type product.
+- B075T3V1GK: Brass Flat Washers. Industrial & Scientific, Fasteners. Matches user's workbench/hardware interest.
+- B0B217KFSG: Dual Run Capacitor. Industrial & Scientific, electrical component, high rating, high reviews.
+- B08LMLXXDR: Brass Shut Off Ball Valve. Industrial & Scientific, plumbing/hardware, high rating.
+- B0B51QKPCZ: U.S. Seal PS-200. Industrial & Scientific, seals, relevant to maintenance/hardware.
+- B09GZXYJXM: TRIM-LOK Edge Trim. Industrial & Scientific, packaging/protection, high rating, high reviews.
+- B07B21CBYL: 3D Printer Heated Bed. Industrial & Scientific, additive manufacturing, relevant for B2B/technical user.
+- B0B5TN71SX: Mini Casters. Industrial & Scientific, Material Handling, matches user's preferred category, but lower rating.
+  
+**Second Tier: Still Industrial & Scientific, but less direct**
+- B07B21CBYL: 3D Printer Heated Bed. (already above)
+- B0B5TN71SX: Mini Casters. (already above)
+
+**Third Tier: Related but less direct or lower quality**
+- B00I0YOB9O: Hohner Harmonica. Not relevant category.
+- B01M69P2F6: Guitar Pickguard. Not relevant.
+- B07FB9GF8T: Violin String. Not relevant.
+- B00LZS99GW: Stage Light. Not relevant.
+- B000EEL8A8: Musical Spoons. Not relevant.
+- B00DWVB6K2: Jazz Bass. Not relevant.
+- B00HSPW57G: Digital Piano. Not relevant.
+
+**Fourth Tier: Video Games/Accessories**
+- B07PDNPRZN: HyperX Headset. Not relevant.
+- B0CD1Z1MKV: Emonoo Headphone. Not relevant.
+- B08N6M2JYR: VR Cover. Not relevant.
+- B00D781W3Q: Halo 5. Not relevant.
+- B00002ST78: Pitfall. Not relevant.
+
+**Final Ordered List:**
+1. B07BMPGYM9 (hanger stacker, matches Memory 1)
+2. B075T3V1GK (brass washers, matches hardware/workbench)
+3. B0B217KFSG (capacitor, high quality, Industrial & Scientific)
+4. B08LMLXXDR (ball valve, high quality, Industrial & Scientific)
+5. B0B51QKPCZ (seal, Industrial & Scientific)
+6. B09GZXYJXM (edge trim, high quality, Industrial & Scientific)
+7. B07B21CBYL (3D printer heated bed, Industrial & Scientific)
+8. B0B5TN71SX (mini casters, Material Handling, lower rating)
+9. B07FB9GF8T (violin string, not relevant)
+10. B01M69P2F6 (guitar pickguard, not relevant)
+11. B00LZS99GW (stage light, not relevant)
+12. B000EEL8A8 (musical spoons, not relevant)
+13. B00DWVB6K2 (jazz bass, not relevant)
+14. B00HSPW57G (digital piano, not relevant)
+15. B00I0YOB9O (harmonica, not relevant)
+16. B07PDNPRZN (HyperX headset, not relevant)
+17. B0CD1Z1MKV (Emonoo headphone, not relevant)
+18. B08N6M2JYR (VR cover, not relevant)
+19. B00D781W3Q (Halo 5, not relevant)
+20. B00002ST78 (Pitfall, not relevant)
+
+**Final Answer:**
+['B07BMPGYM9', 'B075T3V1GK', 'B0B217KFSG', 'B08LMLXXDR', 'B0B51QKPCZ', 'B09GZXYJXM', 'B07B21CBYL', 'B0B5TN71SX', 'B07FB9GF8T', 'B01M69P2F6', 'B00LZS99GW', 'B000EEL8A8', 'B00DWVB6K2', 'B00HSPW57G', 'B00I0YOB9O', 'B07PDNPRZN', 'B0CD1Z1MKV', 'B08N6M2JYR', 'B00D781W3Q', 'B00002ST78']
+ Parsed Top 5 Recommendations: ['B07BMPGYM9', 'B075T3V1GK', 'B0B217KFSG', 'B08LMLXXDR', 'B0B51QKPCZ']
+ Full Ranking: [
+  "B07BMPGYM9",
+  "B075T3V1GK",
+  "B0B217KFSG",
+  "B08LMLXXDR",
+  "B0B51QKPCZ",
+  "B09GZXYJXM",
+  "B07B21CBYL",
+  "B0B5TN71SX",
+  "B07FB9GF8T",
+  "B01M69P2F6",
+  "B00LZS99GW",
+  "B000EEL8A8",
+  "B00DWVB6K2",
+  "B00HSPW57G",
+  "B00I0YOB9O",
+  "B07PDNPRZN",
+  "B0CD1Z1MKV",
+  "B08N6M2JYR",
+  "B00D781W3Q",
+  "B00002ST78"
+]
+
+ 2025-11-23 07:15:48.645598
+ User: AHZDCKPL7MIACWVCB3IENI7L6C2Q
+ Raw LLM Response: Step-by-step analysis:
+
+1. **User Profile & Preferences**
+   - Highly positive, consistent reviewer (avg 4.9/5, std 0.35)
+   - Prefers: Video Games, Accessories, Nintendo Switch, Faceplates, Protectors & Skins, Legacy Systems
+   - Past reviews indicate a liking for quality, fit, and function in gaming accessories (cases, adapters, etc.)
+
+2. **Relevant Past Experiences**
+   - All 5-star reviews for items that are accessories or peripherals (cases, adapters, etc.), especially for gaming systems.
+   - No evidence of interest in industrial, musical, or unrelated categories.
+
+3. **Candidate Items: Category/Attribute Match**
+   - Highest match: Video Games > Accessories, Faceplates, Legacy Systems, Nintendo Switch, PlayStation, Controllers, Cables, Skins.
+   - Secondary match: Video Games > Games (especially for legacy systems).
+   - Tertiary: Musical Instruments (some overlap if user is also a musician, but no evidence in profile).
+   - Lowest: Industrial & Scientific, Material Handling, 3D Printing, Capacitors, Cleaning, etc.
+
+4. **Item Quality (Ratings & Review Count)**
+   - Prefer items with high ratings and a decent number of reviews.
+   - For niche/legacy items, lower review count is acceptable if rating is high.
+
+5. **Relevance to Past Experiences**
+   - User likes accessories (cases, adapters, faceplates) for gaming systems, especially PlayStation and Nintendo.
+   - Items matching these are prioritized.
+
+6. **Location**
+   - No location provided, so skip.
+
+7. **Ranking Process**
+   - First, select all items in Video Games > Accessories, Faceplates, Protectors & Skins, Legacy Systems.
+   - Next, Video Games > Games for legacy systems (nostalgia factor).
+   - Then, Video Games > Accessories for other systems (e.g., VR, Xbox).
+   - Then, Musical Instruments (lower match).
+   - Finally, Industrial & Scientific, Cleaning, 3D Printing, etc.
+
+**Item-by-item assessment:**
+
+- **Top Tier (Direct Match: Accessories/Faceplates/Legacy Systems)**
+  - B0BFLWV7LR: eXtremeRate Caution Yellow Soft Touch Touchpad Front Housing Shell Compatible with ps5 Controller (Faceplates, Protectors & Skins)
+  - B07378Z9L1: TENINYU Compatible with PS2/PS3/PS3 Slim HDTV-Ready TV HD Component AV Cable (Legacy Systems, Accessories, Cables)
+  - B00NIZLIF0: HORI Battle Pad for Wii U (Mario Version) (Legacy Systems, Accessories, Controllers)
+  - B08T127X2B: eXtremeRate Easter Rabbit Controller Full Set Housing Shell Case for Xbox Series X/S (Accessories, Faceplates)
+  - B01IP9W9UG: EEEKit (Legacy Systems, Accessories, Controllers, Joysticks)
+  - B09247CHZN: Silicone Touch Controller Grip Cover & Face Cover for Oculus Quest 2 (Accessories, VR)
+  
+- **Second Tier (Games for Legacy Systems)**
+  - B00002STPL: Duke Nukem: Time To Kill (Legacy Systems, PlayStation)
+  - B0007NWLYS: Rayman: Hoodlum's Revenge (Legacy Systems, Game Boy Advance)
+  - B004SQ6LPU: Letters from Nowhere (PC, Games)
+  - B000VBFWAG: Viva Piñata (PC, Games)
+
+- **Third Tier (Musical Instruments, some overlap with accessories)**
+  - B07TVWMZ14: mxuteuk Black Aluminum Alloy Potentiometer Control Knob (Electric Guitar Parts)
+  - B0BGPKPSNR: Jenniferstruggles Guitar Cable (Instrument Cables)
+  - B01MS2KGFB: NewBEP USB Microphone Cable (Instrument Cables)
+  - B00LMRNIGS: Bugera V22HD Infinium 22-watt Tube Head (Electric Guitar Amplifiers)
+  - B074P6C48P: Jackson JS32 Dinky DKA-M Electric Guitar (Electric Guitars)
+
+- **Fourth Tier (Industrial, Cleaning, 3D Printing, VR, etc.)**
+  - B0BNLYSFLM: CLR PRO Heavy Duty Cleaner and Degreaser
+  - B08BR7YCY1: JAYO 3D Printer ABS Filament
+  - B0C1YRGK3W: DAN SPEED 3/4" NPT Female 316 Stainless Steel Full Port Ball Valve
+  - B09TKN5HJ7: GBL 1" inch Small Caster Wheels
+  - B008OJUO46: GE Genteq Capacitor
+
+**Final Ranking (most to least recommended):**
+
+['B0BFLWV7LR', 'B07378Z9L1', 'B00NIZLIF0', 'B08T127X2B', 'B01IP9W9UG', 'B09247CHZN', 'B00002STPL', 'B0007NWLYS', 'B004SQ6LPU', 'B000VBFWAG', 'B07TVWMZ14', 'B0BGPKPSNR', 'B01MS2KGFB', 'B00LMRNIGS', 'B074P6C48P', 'B0BNLYSFLM', 'B08BR7YCY1', 'B0C1YRGK3W', 'B09TKN5HJ7', 'B008OJUO46']
+ Parsed Top 5 Recommendations: ['B0BFLWV7LR', 'B07378Z9L1', 'B00NIZLIF0', 'B08T127X2B', 'B01IP9W9UG']
+ Full Ranking: [
+  "B0BFLWV7LR",
+  "B07378Z9L1",
+  "B00NIZLIF0",
+  "B08T127X2B",
+  "B01IP9W9UG",
+  "B09247CHZN",
+  "B00002STPL",
+  "B0007NWLYS",
+  "B004SQ6LPU",
+  "B000VBFWAG",
+  "B07TVWMZ14",
+  "B0BGPKPSNR",
+  "B01MS2KGFB",
+  "B00LMRNIGS",
+  "B074P6C48P",
+  "B0BNLYSFLM",
+  "B08BR7YCY1",
+  "B0C1YRGK3W",
+  "B09TKN5HJ7",
+  "B008OJUO46"
+]
+
+ 2025-11-23 07:16:17.384577
+ User: AGOB6QQYQ7GSNNFM2JHZGO3JQ3SQ
+ Raw LLM Response: Step-by-step analysis:
+
+1. **User Profile & Preferences**
+   - Average rating: 2.4/5 (most common: 3.0) → User is moderate, not easily impressed, gives average ratings.
+   - Preferred Categories: Video Games, Accessories, PlayStation 4, Legacy Systems, Xbox Systems.
+   - Disliked: Low-quality controllers (left thumb stick breaks).
+   - Past reviews: Moderate ratings (3.0) for headphones (Xbox bundle), games (gets bored after a while).
+
+2. **Ranking Factor 1: Category/Attribute Match**
+   - Highest match: Items in Video Games, Accessories, PlayStation 4, Legacy Systems, Xbox Systems.
+   - Secondary: PC gaming accessories, Nintendo systems, general gaming accessories.
+   - Low match: Musical Instruments, Industrial & Scientific, Food Trays, etc.
+
+3. **Ranking Factor 2: Item Quality**
+   - Consider both average rating and number of ratings.
+   - Avoid items with very low ratings or very few reviews unless they are a perfect category match.
+
+4. **Ranking Factor 3: Relevance to Past Experiences**
+   - User is cautious about controller quality.
+   - Enjoys games but gets bored quickly; may prefer games with more depth or replayability.
+   - Accessories for Xbox/PlayStation/Nintendo are relevant.
+
+5. **Ranking Factor 4: Location**
+   - No location provided, so skip.
+
+6. **Item-by-Item Category Match & Quality Assessment**
+   - **Strongest Matches (Video Games, Accessories, Legacy/Modern Consoles):**
+     - B07CBNKDXC: ABXY Buttons Set for Xbox One S Slim Elite Controller (Accessories/Xbox One)
+     - B00004SVR4: Karate Champ (Legacy/NES)
+     - B01MYXNB7G: 8-Bit HD Entertainment System (NES clone, Legacy)
+     - B00008G7MM: RPG Maker II - PlayStation 2 (Legacy/PS2)
+     - B002SUTB28: EA Sports Active - Nintendo Wii (Legacy/Wii)
+     - B009PJH47Y: Guardians of Middle-earth (Legacy/PS3)
+     - B004AYCNS4: The Sims 3: World Adventures Expansion Pack (PC game)
+     - B072XB87XJ: Sades SA807Green Gaming Headset (Accessories/PS4/Xbox One/PC)
+   - **Moderate Matches (Accessories, PC, General Gaming):**
+     - B0015PHMFU: Mayflash Universal Arcade Fighting Stick (multi-system, including Xbox/PS2/PC)
+   - **Lower Matches (Musical Instruments, Industrial, Food, etc.):**
+     - All others.
+
+7. **Quality Filtering within Top Matches**
+   - B07CBNKDXC: 4.3/63 (good)
+   - B00004SVR4: 4.3/19 (good, but fewer reviews)
+   - B01MYXNB7G: 4.1/277 (good, many reviews)
+   - B00008G7MM: 3.8/39 (average, but strong category match)
+   - B002SUTB28: 3.8/939 (average, but high volume, fitness game)
+   - B009PJH47Y: 3.2/58 (lower rating, but category match)
+   - B004AYCNS4: 4.6/436 (very high, but PC game, not console)
+   - B072XB87XJ: 3.9/226 (average, headset for PS4/Xbox One/PC)
+   - B0015PHMFU: 4.0/796 (good, universal fighting stick)
+
+8. **Past Experience Relevance**
+   - User disliked poor-quality controllers: avoid recommending low-quality controllers.
+   - User reviewed headphones and games with 3.0 stars: accessories and games are both relevant, but user is picky.
+   - User gets bored with games quickly: games with more depth or customization (e.g., RPG Maker II, The Sims 3 expansion) may be more appealing.
+
+9. **Final Ranking Synthesis**
+   - Top: Accessories for Xbox/PlayStation, legacy system hardware, games with more depth/customization, high-quality PC games.
+   - Middle: General gaming accessories, PC headsets.
+   - Bottom: Musical instruments, industrial products, food trays, etc.
+
+**Final Ranked List:**
+
+['B07CBNKDXC', 'B01MYXNB7G', 'B00004SVR4', 'B00008G7MM', 'B004AYCNS4', 'B072XB87XJ', 'B0015PHMFU', 'B002SUTB28', 'B009PJH47Y', 'B09X2WHS7H', 'B00FNT6NB8', 'B00GC2F0UK', 'B0BFR1KZ9H', 'B00P0AHRQ0', 'B07N5L9M8R', 'B00UDUG55Q', 'B0B28P95MG', 'B08P737KDD', 'B0011FYLYY', 'B06W9HN9R8']
+ Parsed Top 5 Recommendations: ['B07CBNKDXC', 'B01MYXNB7G', 'B00004SVR4', 'B00008G7MM', 'B004AYCNS4']
+ Full Ranking: [
+  "B07CBNKDXC",
+  "B01MYXNB7G",
+  "B00004SVR4",
+  "B00008G7MM",
+  "B004AYCNS4",
+  "B072XB87XJ",
+  "B0015PHMFU",
+  "B002SUTB28",
+  "B009PJH47Y",
+  "B09X2WHS7H",
+  "B00FNT6NB8",
+  "B00GC2F0UK",
+  "B0BFR1KZ9H",
+  "B00P0AHRQ0",
+  "B07N5L9M8R",
+  "B00UDUG55Q",
+  "B0B28P95MG",
+  "B08P737KDD",
+  "B0011FYLYY",
+  "B06W9HN9R8"
+]
+
+ 2025-11-23 07:16:50.031423
+ User: AHXNH4ETPYL3SHTT5H62SLUCEWAQ
+ Raw LLM Response: Step-by-step analysis:
+
+1. **User Profile & Preferences**
+   - User is balanced/moderate, with variable ratings (avg 3.0, std 2.0, most common 1.0).
+   - Preferred categories: Industrial & Scientific, Hydraulics, Pneumatics & Plumbing, Fittings, Hose Fittings, Barbed Fittings.
+   - Likes: Quality, heavy-duty, not cheaply made, accurate sizing for fittings.
+   - Dislikes: Mismatched sizing, misleading product descriptions, poor fit for hose/fittings.
+
+2. **Relevant Past Experiences**
+   - Likes: Heavy-duty, well-made switches (5.0 stars), happy with quality.
+   - Dislikes: Incorrect sizing for hose fittings (1.0 star).
+   - No strong signals for musical instruments or video games.
+
+3. **Candidate Items: Category/Attribute Match**
+   - Strongest matches: Items in Industrial & Scientific, especially those related to fittings, lab equipment, hardware, or electrical.
+   - Moderate matches: Items in Industrial & Scientific but less directly related (e.g., 3D printing, filter paper, specimen containers).
+   - Weak matches: Musical Instruments, Video Games, unrelated categories.
+
+4. **Item Quality**
+   - Consider average rating and review count, but only after category match.
+
+5. **Ranking by Category/Attribute Match**
+   - **Top Tier (Direct Match to Preferences):**
+     - B07D9K74C7 (3D Printer Heater Block Silicone Cover) – Industrial & Scientific, Additive Manufacturing, 3D Printer Accessories.
+     - B0C4PDM7LL (PTFE Filter Disc for Mason Jar, Mushroom Cultivation) – Industrial & Scientific, Filtration.
+     - B00IMNV0L0 (Heat Shrink Tubing Kit) – Industrial & Scientific, Electrical, Wiring.
+     - B0B7YVL195 (Specimen Container) – Industrial & Scientific, Medical Supplies.
+     - B0B9C7Y827 (3D Printer Filament) – Industrial & Scientific, Additive Manufacturing.
+     - B000BOA1UY (Coat and Hat Hook, Solid Brass) – Industrial & Scientific, Hardware.
+   - **Second Tier (Industrial & Scientific, but less direct):**
+     - B0002ORP8Y (Samson C-control, Studio Equipment) – Not a direct match, but industrial hardware.
+   - **Third Tier (Musical Instruments, Studio, Accessories):**
+     - B07793SCG3 (Guitar Pedal Board)
+     - B07N72FWC7 (Hi Hat Pedal Sensor)
+     - B004J96JTO (M-Audio Venom Synthesizer)
+     - B006Z8LEQK (Akai MPC Studio)
+     - B07X3FTM3W (Viola Shoulder Rest)
+   - **Fourth Tier (Video Games):**
+     - B06XG9J26Q (PSVR Aim Controller)
+     - B0009VXBAQ (Wii)
+     - B0009H7UHU (Ty the Tasmanian Tiger 3)
+     - B004BJ2FVS (The Cursed Crusade)
+     - B0026IZU68 (Rock Band Unplugged)
+   - **Unknown/Unmatched:**
+     - B0B4NVWL27, B0002I9RP4, B07SSD7V67 (no descriptions, cannot match to preferences).
+
+6. **Refining Within Tiers by Quality & Relevance**
+   - Within each tier, sort by average rating, then review count, then relevance to past positive/negative experiences.
+   - Avoid items that could have sizing issues or are not well described.
+
+7. **Final Ranking**
+   - Top: Industrial & Scientific, especially those with high ratings and review counts.
+   - Next: Industrial hardware, then musical instruments (since user has not shown interest).
+   - Last: Video games and unknowns.
+
+Final ranked list:
+
+['B07D9K74C7', 'B0C4PDM7LL', 'B00IMNV0L0', 'B0B7YVL195', 'B0B9C7Y827', 'B000BOA1UY', 'B0002ORP8Y', 'B07793SCG3', 'B07N72FWC7', 'B004J96JTO', 'B006Z8LEQK', 'B07X3FTM3W', 'B06XG9J26Q', 'B0009VXBAQ', 'B0009H7UHU', 'B004BJ2FVS', 'B0026IZU68', 'B0B4NVWL27', 'B0002I9RP4', 'B07SSD7V67']
+ Parsed Top 5 Recommendations: ['B07D9K74C7', 'B0C4PDM7LL', 'B00IMNV0L0', 'B0B7YVL195', 'B0B9C7Y827']
+ Full Ranking: [
+  "B07D9K74C7",
+  "B0C4PDM7LL",
+  "B00IMNV0L0",
+  "B0B7YVL195",
+  "B0B9C7Y827",
+  "B000BOA1UY",
+  "B0002ORP8Y",
+  "B07793SCG3",
+  "B07N72FWC7",
+  "B004J96JTO",
+  "B006Z8LEQK",
+  "B07X3FTM3W",
+  "B06XG9J26Q",
+  "B0009VXBAQ",
+  "B0009H7UHU",
+  "B004BJ2FVS",
+  "B0026IZU68",
+  "B0B4NVWL27",
+  "B0002I9RP4",
+  "B07SSD7V67"
+]
+
+ 2025-11-23 07:17:10.732449
+ User: AEVRZNPOIU73BSTC4J4ITSE77K2A
+ Raw LLM Response: Step-by-step analysis:
+
+1. **User Profile & Preferences**:
+   - Strong, consistent 5-star reviewer.
+   - Prefers: Video Games, Accessories, PC, Gaming Keyboards, Legacy Systems.
+   - All reviews are positive, often for gaming-related or accessory products.
+   - No location provided.
+
+2. **Category/Attribute Match**:
+   - Highest priority: Video Games (especially Legacy Systems), Accessories (controllers, cases, etc.).
+   - Secondary: PC/gaming accessories.
+   - Tertiary: Other electronics, musical instruments, industrial/scientific (less relevant).
+
+3. **Item Quality**:
+   - Consider both average rating and number of ratings.
+   - Items with high ratings and many reviews are preferred.
+
+4. **Relevance to Past Experiences**:
+   - User has reviewed controllers, gaming accessories, and legacy system items.
+   - Items matching these are prioritized.
+
+5. **Ranking Process**:
+   - First, select all items in Video Games, Accessories, Legacy Systems.
+   - Within this, prioritize by item quality.
+   - Next, include related accessories (cases, chargers) for gaming systems.
+   - Then, consider musical instruments and industrial items, but rank them lower.
+
+**Item-by-item quick categorization:**
+- Video Games/Legacy Systems: B001E54GZU, B0009OO6XY, B00002SUCS, B016P4OEHY, B09NP1X23Z, B09PB6LZL8, B0812M31N1, B000WE8JCA
+- Accessories for gaming: B09NP1X23Z (Switch case), B09PB6LZL8 (Switch grip), B016P4OEHY (Wii U cradle), B000WE8JCA (PS2 controller)
+- Other: Musical instruments (B002IIY3M8, B01N7CUPMF, B079W7NWNH, B07YXLJ84G), Industrial/Scientific (rest)
+
+**Top candidates (by preference):**
+1. B0009OO6XY (Gunstar Super Heroes, GBA, Legacy System, high rating)
+2. B016P4OEHY (Wii U Gamepad Cradle, Legacy System, high rating)
+3. B00002SUCS (Goof Troop, SNES, Legacy System, good rating)
+4. B09NP1X23Z (Switch carrying case, accessory, high rating)
+5. B09PB6LZL8 (Switch grip, accessory, high rating)
+6. B0812M31N1 (A Hat in Time, Switch, game, good rating)
+7. B001E54GZU (Purr Pals, DS, Legacy System, decent rating)
+8. B000WE8JCA (PS2 Wireless Controller, Legacy System, lower rating but strong match)
+9. B07YXLJ84G (Wireless Guitar System Case, music accessory, moderate match)
+10. B079W7NWNH (Guitar Cable, music accessory, high rating)
+11. B01N7CUPMF (Clarinet Reeds, music, less relevant)
+12. B002IIY3M8 (Guitar Strings, music, less relevant)
+13. B0BNWNPPRY (Wire Connectors, industrial, high rating)
+14. B07Y6LTNDW (Super CA Glue, industrial, high rating)
+15. B08SK9M3TR (Silicone Sealant, industrial, high rating)
+16. B002YGKGSO (Stove Gasket, industrial, high rating)
+17. B0BGLSXR52 (Toilet Seat Covers, industrial, high rating)
+18. B0063K8FDK (Solvent Cement, industrial, good rating)
+19. B01HCKI7NW (3D Printer Thermistor, niche, moderate rating)
+20. B078HZ23ZY (3D Printer Filament, low rating)
+
+**Final ordered list:**
+
+['B0009OO6XY', 'B016P4OEHY', 'B00002SUCS', 'B09NP1X23Z', 'B09PB6LZL8', 'B0812M31N1', 'B001E54GZU', 'B000WE8JCA', 'B07YXLJ84G', 'B079W7NWNH', 'B01N7CUPMF', 'B002IIY3M8', 'B0BNWNPPRY', 'B07Y6LTNDW', 'B08SK9M3TR', 'B002YGKGSO', 'B0BGLSXR52', 'B0063K8FDK', 'B01HCKI7NW', 'B078HZ23ZY']
+ Parsed Top 5 Recommendations: ['B0009OO6XY', 'B016P4OEHY', 'B00002SUCS', 'B09NP1X23Z', 'B09PB6LZL8']
+ Full Ranking: [
+  "B0009OO6XY",
+  "B016P4OEHY",
+  "B00002SUCS",
+  "B09NP1X23Z",
+  "B09PB6LZL8",
+  "B0812M31N1",
+  "B001E54GZU",
+  "B000WE8JCA",
+  "B07YXLJ84G",
+  "B079W7NWNH",
+  "B01N7CUPMF",
+  "B002IIY3M8",
+  "B0BNWNPPRY",
+  "B07Y6LTNDW",
+  "B08SK9M3TR",
+  "B002YGKGSO",
+  "B0BGLSXR52",
+  "B0063K8FDK",
+  "B01HCKI7NW",
+  "B078HZ23ZY"
+]
+
+ 2025-11-23 07:17:35.888699
+ User: AFKCXZZROCFTS4KUYHF3UKXNXTOQ
+ Raw LLM Response: Step-by-step analysis:
+
+1. **User Profile & Preferences**
+   - Very positive, generous rater (avg 4.7/5, most common 5.0)
+   - Consistent ratings
+   - Preferred categories: Video Games, Accessories, Nintendo Switch, Legacy Systems, Nintendo Systems
+   - Past reviews show strong interest in Nintendo Switch/3DS accessories/cases and legacy system games.
+
+2. **Critical Ranking Factors**
+   1. **Category/Attribute Match**: Highest priority is Video Games, especially Nintendo and legacy systems, and accessories for those systems.
+   2. **Item Quality**: High ratings and review counts are important, but only after category match.
+   3. **Relevance to Past Experiences**: Accessories/cases for Nintendo systems, games for legacy systems.
+   4. **Location**: Not provided, so not considered.
+
+3. **Candidate Item Analysis**
+   - **Strongest matches**: Items in Video Games, Legacy Systems, Nintendo Systems, Accessories.
+   - **Moderate matches**: Video game accessories for other systems, PC gaming accessories.
+   - **Weak matches**: Musical instruments, industrial/scientific items, unrelated hardware.
+
+4. **Detailed Item-by-Item Assessment**
+   - **B0007KTBG2 (Spyro Shadow Legacy - Nintendo DS)**: Perfect match (Video Games, Legacy, Nintendo DS). Good rating (4.1/71). RPG elements may appeal to a Nintendo fan.
+   - **B008ZAFBA6 (Everydaysource Pink Silicone Skin Case for Nintendo 3DS XL)**: Direct accessory for Nintendo 3DS, matches user's past positive review of a 3DS accessory.
+   - **B01KZUL1CA (Turtle Beach Stealth 400 Wireless Gaming Headset - PS4/PS3)**: Video game accessory, legacy system (PS3), high review count, decent rating (4.2/1993).
+   - **B000A0XSMM (Painkiller: Hell Wars - Xbox)**: Legacy system game, but for Xbox (not Nintendo), moderate rating (3.9/25).
+   - **B00009ETKZ (Aliens Vs Predator: Extinction - PS2)**: Legacy system game, PlayStation, moderate rating (4.0/91).
+   - **B007NV6QCU (Neewer Battery for Sony PSP-1000)**: Accessory for legacy system, but for PSP, low rating (3.4/65).
+   - **B089YXPV46 (Razer Basilisk Ultimate Wireless Gaming Mouse)**: PC gaming accessory, high rating (4.5/537), not Nintendo but still gaming.
+   - **B014W1YU6M (Corsair K40 Gaming Keyboard)**: PC gaming accessory, lower rating (3.6/83).
+   - **B008JDKT8S (Freeman Framing Nails)**, **B07L9N9BNM (Grab Chain Hooks)**, **B000LNZHCM (Hydraulic Adapter)**, **B01M9GEEIB (Digital Caliper)**, **B0B9GJWZ4P (3D Scanner)**: Industrial/Scientific, not relevant.
+   - **B00R5VZXKY (Casematix Recorder Case)**, **B07TQSDF9D (SONICAKE Patch Cable)**, **B0C5LY4C64 (Vater Drumsticks)**, **B0BNXC6DWF (Ukulele)**, **B0BMTLGFW1 (Music Stand)**: Musical instruments, not relevant.
+   - **B09CB1GMMG (Shark Vertex Pro Vacuum)**: Not relevant.
+   - **B000088KH7 (MVP Baseball 2003)**: Legacy system game, PlayStation 2, but very low rating (2.8/61).
+
+5. **Fine-tuning Order Within Groups**
+   - For Nintendo-specific items, prioritize accessories (user has reviewed and liked cases/accessories for Switch/3DS).
+   - For legacy system games, Nintendo > PlayStation > Xbox, and higher ratings > lower ratings.
+   - For gaming accessories, prioritize those with higher ratings and review counts.
+   - For non-gaming items, order by rating/review count.
+
+6. **Final Ranking**
+   1. **B0007KTBG2**: Nintendo DS game, RPG elements, good rating, matches user’s Nintendo/legacy/game preference.
+   2. **B008ZAFBA6**: Nintendo 3DS XL case, matches user’s past positive review of 3DS accessory.
+   3. **B01KZUL1CA**: Gaming headset for PS3/PS4, high review count, matches legacy system accessory interest.
+   4. **B000A0XSMM**: Xbox legacy game, moderate rating, matches legacy system interest.
+   5. **B00009ETKZ**: PS2 legacy game, moderate rating, matches legacy system interest.
+   6. **B089YXPV46**: High-quality PC gaming mouse, high rating, matches gaming accessory interest.
+   7. **B014W1YU6M**: PC gaming keyboard, lower rating, but gaming accessory.
+   8. **B007NV6QCU**: PSP battery, legacy system accessory, but low rating.
+   9. **B00R5VZXKY**: Recorder case, high rating, but not gaming-related.
+   10. **B07TQSDF9D**: Patch cable for guitar pedals, high rating, not gaming-related.
+   11. **B0C5LY4C64**: Drumsticks, high rating, not gaming-related.
+   12. **B0BNXC6DWF**: Ukulele, high rating, not gaming-related.
+   13. **B0BMTLGFW1**: Music stand, moderate rating, not gaming-related.
+   14. **B09CB1GMMG**: Vacuum, high rating, not gaming-related.
+   15. **B008JDKT8S**: Framing nails, high rating, not gaming-related.
+   16. **B07L9N9BNM**: Chain hooks, high rating, not gaming-related.
+   17. **B000LNZHCM**: Hydraulic adapter, high rating, not gaming-related.
+   18. **B01M9GEEIB**: Digital caliper, moderate rating, not gaming-related.
+   19. **B0B9GJWZ4P**: 3D scanner, low rating, not gaming-related.
+   20. **B000088KH7**: PS2 game, but very low rating.
+
+Final answer:
+
+['B0007KTBG2', 'B008ZAFBA6', 'B01KZUL1CA', 'B000A0XSMM', 'B00009ETKZ', 'B089YXPV46', 'B014W1YU6M', 'B007NV6QCU', 'B00R5VZXKY', 'B07TQSDF9D', 'B0C5LY4C64', 'B0BNXC6DWF', 'B0BMTLGFW1', 'B09CB1GMMG', 'B008JDKT8S', 'B07L9N9BNM', 'B000LNZHCM', 'B01M9GEEIB', 'B0B9GJWZ4P', 'B000088KH7']
+ Parsed Top 5 Recommendations: ['B0007KTBG2', 'B008ZAFBA6', 'B01KZUL1CA', 'B000A0XSMM', 'B00009ETKZ']
+ Full Ranking: [
+  "B0007KTBG2",
+  "B008ZAFBA6",
+  "B01KZUL1CA",
+  "B000A0XSMM",
+  "B00009ETKZ",
+  "B089YXPV46",
+  "B014W1YU6M",
+  "B007NV6QCU",
+  "B00R5VZXKY",
+  "B07TQSDF9D",
+  "B0C5LY4C64",
+  "B0BNXC6DWF",
+  "B0BMTLGFW1",
+  "B09CB1GMMG",
+  "B008JDKT8S",
+  "B07L9N9BNM",
+  "B000LNZHCM",
+  "B01M9GEEIB",
+  "B0B9GJWZ4P",
+  "B000088KH7"
+]
+
+ 2025-11-23 07:18:12.378051
+ User: AFRLGLQES62HADWCUWMIXJVTKVOA
+ Raw LLM Response: Step-by-step analysis:
+
+1. **User Profile & Preferences**
+   - Average rating: 3.8 (most common 4.0) → moderate, balanced, not overly critical or lenient.
+   - Preferred categories: Video Games, PC, Accessories, Gaming Mice, Gaming Keyboards.
+   - Past reviews: Focused on gaming peripherals (mice, keyboards), budget-conscious, values functionality and quality for gaming.
+   - Likes: RGB, quality build, suitability for gaming.
+   - Dislikes: Poor key feel, not suitable for gaming.
+
+2. **Relevant Past Experiences**
+   - All past reviews are for gaming peripherals (mice, keyboards), with a focus on PC gaming.
+   - No evidence of interest in musical instruments, industrial, or home products.
+
+3. **Candidate Items: Category/Attribute Match**
+   - Highest match: Video Games (PC, Accessories), especially items related to gaming peripherals.
+   - Moderate match: Video game accessories for consoles (e.g., PS4, Xbox, Nintendo DS stylus, headsets).
+   - Low match: Musical instruments, industrial, home, cleaning, lighting, etc.
+
+4. **Item Quality**
+   - Consider average rating and number of reviews, but only after category match.
+
+5. **Ranking**
+   - **Top Tier:** PC gaming, accessories, and peripherals.
+   - **Second Tier:** Console gaming accessories (user is PC-focused but may have some interest).
+   - **Third Tier:** Other video game items (legacy systems, less relevant).
+   - **Fourth Tier:** Non-gaming items (musical instruments, industrial, home, etc.).
+
+**Item-by-item assessment:**
+
+- **B0007Z70YM (Stronghold 2 - PC):** Direct PC game, matches user’s main interest. Decent rating, relevant.
+- **B008VQ68C4 (Sennheiser U 320 Gaming Headset):** Multi-platform gaming headset, fits accessories/gaming, good brand, relevant.
+- **B01N9STJTO (Pecham DualShock 4 Charger):** Console accessory, but user likes accessories; moderate match.
+- **B000EYF88G (Xbox 360 Quick Charge Kit):** Console accessory, less relevant than PC, but still gaming.
+- **B001D72PSY (Nintendo DS Lite Stylus):** Accessory, but for handheld/legacy system, less relevant.
+- **B00002SUOW (Heavy Metal F.A.K.K.2 - PC):** PC game, but lower rating and review count; still relevant.
+- **B000035YC5 (Danger Girl: Playstation 1):** Legacy console game, less relevant.
+- **B0168LVUSK (Lixada Moving Head Light):** Not gaming, musical/stage.
+- **B01COU5MBU (Neewer Mic Mount):** Not gaming, musical.
+- **B0756XPTBH (Honbay Guitar Switch Knob):** Not gaming, musical.
+- **B07PH7D86Z (Yamaha RevStar Guitar):** Not gaming, musical.
+- **B0002FOBIA (Toca Jingle Bells):** Not gaming, musical.
+- **B09V1RV341 (Diffraction Gratings):** Not gaming, industrial/scientific.
+- **B01LW4HHRC (Brix Refractometer):** Not gaming, industrial/scientific.
+- **B01A1FAT1S (Platform Cart):** Not gaming, industrial.
+- **B018UNZLHU (Leak Stopper):** Not gaming, industrial.
+- **B00M2I9LF8 (Wool Dryer Balls):** Not gaming, home.
+- **B0014C5ROM (Heat Shrink Wrap):** Not gaming, industrial.
+- **B079SFLKMN (MegaChef Buffet Server):** Not gaming, home.
+- **B019QNK9RA (Flex Seal Liquid):** Not gaming, industrial.
+
+**Final Ranking:**
+
+['B0007Z70YM', 'B008VQ68C4', 'B01N9STJTO', 'B000EYF88G', 'B001D72PSY', 'B00002SUOW', 'B000035YC5', 'B0168LVUSK', 'B01COU5MBU', 'B0756XPTBH', 'B07PH7D86Z', 'B0002FOBIA', 'B09V1RV341', 'B01LW4HHRC', 'B01A1FAT1S', 'B018UNZLHU', 'B00M2I9LF8', 'B0014C5ROM', 'B079SFLKMN', 'B019QNK9RA']
+ Parsed Top 5 Recommendations: ['B0007Z70YM', 'B008VQ68C4', 'B01N9STJTO', 'B000EYF88G', 'B001D72PSY']
+ Full Ranking: [
+  "B0007Z70YM",
+  "B008VQ68C4",
+  "B01N9STJTO",
+  "B000EYF88G",
+  "B001D72PSY",
+  "B00002SUOW",
+  "B000035YC5",
+  "B0168LVUSK",
+  "B01COU5MBU",
+  "B0756XPTBH",
+  "B07PH7D86Z",
+  "B0002FOBIA",
+  "B09V1RV341",
+  "B01LW4HHRC",
+  "B01A1FAT1S",
+  "B018UNZLHU",
+  "B00M2I9LF8",
+  "B0014C5ROM",
+  "B079SFLKMN",
+  "B019QNK9RA"
+]
+
+ 2025-11-23 07:18:39.898427
+ User: AG7N5PYV622BGFV7AY7JVM4KTO3Q
+ Raw LLM Response: Step-by-step analysis:
+
+1. **User Profile & Preferences**
+   - Very positive, consistent 5-star reviewer.
+   - Strong preference for Video Games, Games, PlayStation 4, Accessories, Xbox One.
+   - Past reviews show high satisfaction with games and accessories, especially for PlayStation and general gaming hardware.
+
+2. **Category/Attribute Match**
+   - Highest match: Items in "Video Games", "PlayStation 4", "Accessories", "Xbox One".
+   - Medium match: "Video Games" (other systems), "PC Accessories", "Legacy Systems" (Wii, Wii U).
+   - Lower match: "Musical Instruments", "Industrial & Scientific" (unless gaming-related).
+
+3. **Item Quality**
+   - Consider average rating and number of reviews.
+   - Items with high ratings and many reviews are preferred.
+
+4. **Relevance to Past Experiences**
+   - User liked fast shipping, good condition, and "good game" (likely new releases or popular titles).
+   - Accessories (chargers, batteries) also positively reviewed.
+
+5. **Location**
+   - No location provided, so skip this factor.
+
+**Now, categorize and rank:**
+
+**A. Top Matches (Video Games, PlayStation 4, Accessories, Xbox One)**
+- B0829R3BLR: "The Legend of Heroes: Trails of Cold Steel III - PlayStation 4" (direct hit: PS4 game, high rating, many reviews)
+- B095LSFPY3: PS4 Dualshock 4 replacement batteries (accessory, high rating, many reviews)
+- B0BC19TG9S: PS5 Stand with Cooling Fan and Charging Station (accessory, high rating, new gen, but user prefers PS4, still relevant)
+- B01JU57ES6: Multi-system Bluetooth gaming receiver (covers PS3, PS4, Wii, Switch, SNES; high rating, many reviews)
+- B09N6H2B17: Cat Ear Gaming Headset (PC, but gaming accessory, high rating, many reviews)
+- B00118XOI0: Wii Power Adapter (legacy, but gaming accessory)
+  
+**B. Medium Matches (Other Gaming, PC, Legacy, General Accessories)**
+- B09BPPCDX7: Guitar Stand (not gaming, but accessory)
+- B0002I9R90: Pedalboard (music, not gaming)
+- B0002GZSQ8: Drum Clamp (music)
+- B0BR2L1375: Guitar Truss Rod Wrench (music)
+- B0002GJI3C: Microphone Bundle (music)
+- B017XN3J04: Ukulele Kit (music)
+- B0002D0EMO: Instrument Polish (music)
+
+**C. Low Matches (Industrial, 3D Printing, Electronics)**
+- B08JGFGQXL: Heat Shrink Connectors (industrial)
+- B074T9FWQ1: Hex Screws (industrial)
+- B01CXPV5B2: Crimp Terminals (industrial)
+- B071YWNBVM: Diodes (industrial)
+- B09B1NLFBR: 3D Printer (industrial)
+- B01LYIDDFF: 3D Printer Filament (industrial)
+- B00H7KTRO6: Voltage Regulator (industrial)
+
+**Now, order within each group by item quality (rating, review count), then overall relevance.**
+
+**Final Ranking:**
+1. B0829R3BLR (PS4 game, perfect match, 4.8/1221)
+2. B095LSFPY3 (PS4 controller batteries, 4.3/721)
+3. B0BC19TG9S (PS5 stand/charger, 4.5/33)
+4. B01JU57ES6 (multi-system gaming receiver, 4.7/314)
+5. B09N6H2B17 (gaming headset, 4.3/738)
+6. B00118XOI0 (Wii power adapter, 3.6/54)
+7. B09BPPCDX7 (guitar stand, 4.5/246)
+8. B0002I9R90 (pedalboard, 3.7/31)
+9. B0002GZSQ8 (drum clamp, 4.6/45)
+10. B0BR2L1375 (truss rod wrench, 4.8/818)
+11. B0002GJI3C (microphone bundle, 4.6/408)
+12. B017XN3J04 (ukulele kit, 4.5/453)
+13. B0002D0EMO (instrument polish, 4.4/197)
+14. B08JGFGQXL (heat shrink connectors, 4.8/1394)
+15. B074T9FWQ1 (hex screws, 3.5/28)
+16. B01CXPV5B2 (crimp terminals, 4.4/300)
+17. B071YWNBVM (diodes, 4.6/617)
+18. B09B1NLFBR (3D printer, 3.4/202)
+19. B01LYIDDFF (3D printer filament, 4.5/485)
+20. B00H7KTRO6 (voltage regulator, 3.9/92)
+
+**Python list (final answer):**
+['B0829R3BLR', 'B095LSFPY3', 'B0BC19TG9S', 'B01JU57ES6', 'B09N6H2B17', 'B00118XOI0', 'B09BPPCDX7', 'B0002I9R90', 'B0002GZSQ8', 'B0BR2L1375', 'B0002GJI3C', 'B017XN3J04', 'B0002D0EMO', 'B08JGFGQXL', 'B074T9FWQ1', 'B01CXPV5B2', 'B071YWNBVM', 'B09B1NLFBR', 'B01LYIDDFF', 'B00H7KTRO6']
+ Parsed Top 5 Recommendations: ['B0829R3BLR', 'B095LSFPY3', 'B0BC19TG9S', 'B01JU57ES6', 'B09N6H2B17']
+ Full Ranking: [
+  "B0829R3BLR",
+  "B095LSFPY3",
+  "B0BC19TG9S",
+  "B01JU57ES6",
+  "B09N6H2B17",
+  "B00118XOI0",
+  "B09BPPCDX7",
+  "B0002I9R90",
+  "B0002GZSQ8",
+  "B0BR2L1375",
+  "B0002GJI3C",
+  "B017XN3J04",
+  "B0002D0EMO",
+  "B08JGFGQXL",
+  "B074T9FWQ1",
+  "B01CXPV5B2",
+  "B071YWNBVM",
+  "B09B1NLFBR",
+  "B01LYIDDFF",
+  "B00H7KTRO6"
+]
