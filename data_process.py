@@ -271,8 +271,8 @@ def main():
     
     # Merge all data
     os.makedirs(args.output_dir, exist_ok=True)
-    #merge_business_data(filtered_businesses, amazon_meta, goodreads_books, os.path.join(args.output_dir, 'item.json'))
-    #merge_review_data(filtered_reviews, amazon_reviews, goodreads_reviews, os.path.join(args.output_dir, 'review.json'))
+    merge_business_data(filtered_businesses, amazon_meta, goodreads_books, os.path.join(args.output_dir, 'item.json'))
+    merge_review_data(filtered_reviews, amazon_reviews, goodreads_reviews, os.path.join(args.output_dir, 'review.json'))
     create_unified_users(filtered_users, amazon_reviews, goodreads_reviews, os.path.join(args.output_dir, 'user.json'))
 
     logging.info("Data processing completed successfully.")

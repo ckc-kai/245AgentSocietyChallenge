@@ -2,12 +2,15 @@ import json
 from websocietysimulator import Simulator
 from websocietysimulator.agent import RecommendationAgent
 import tiktoken
-from websocietysimulator.llm import LLMBase, InfinigenceLLM
+from websocietysimulator.llm import LLMBase, OpenAILLM
 from websocietysimulator.agent.modules.planning_modules import PlanningBase
 from websocietysimulator.agent.modules.reasoning_modules import ReasoningBase
 import re
 import logging
 import time
+import os
+from dotenv import load_dotenv
+load_dotenv(dotenv_path="./secrets.env")
 logging.basicConfig(level=logging.INFO)
 
 def num_tokens_from_string(string: str) -> int:
@@ -120,7 +123,7 @@ class MyRecommendationAgent(RecommendationAgent):
                     item = self.interaction_tool.get_item(item_id=self.task['candidate_list'][n_bus])
                     keys_to_extract = ['item_id', 'name','stars','review_count','attributes','title', 'average_rating', 'rating_number','description','ratings_count','title_without_series']
                     filtered_item = {key: item[key] for key in keys_to_extract if key in item}
-                item_list.append(filtered_item)
+                    item_list.append(filtered_item)
                 # print(item)
             elif 'review' in sub_task['description']:
                 history_review = str(self.interaction_tool.get_reviews(user_id=self.task['user_id']))
@@ -162,26 +165,25 @@ class MyRecommendationAgent(RecommendationAgent):
 
 
 if __name__ == "__main__":
-    task_set = "amazon" # "goodreads" or "yelp"
-    # Initialize Simulator
-    simulator = Simulator(data_dir="your data_dir", device="auto", cache=True)
+    openai_api = os.getenv("OPENAI_API_KEY")
+    if not openai_api:
+        raise ValueError("OPENAI_API_KEY not found in environment variables.")
 
-    # Load scenarios
-    simulator.set_task_and_groundtruth(task_dir=f"./track2/{task_set}/tasks", groundtruth_dir=f"./track2/{task_set}/groundtruth")
+    task_set = "amazon"  # "goodreads" or "yelp" or "amazon"
+    simulator = Simulator(data_dir="./data/processed", device="auto", cache=True)
+    simulator.set_task_and_groundtruth(
+        task_dir=f"./example/track2/{task_set}/tasks",
+        groundtruth_dir=f"./example/track2/{task_set}/groundtruth"
+    )
 
-    # Set your custom agent
+    llm = OpenAILLM(api_key=openai_api, model="gpt-3.5-turbo")
     simulator.set_agent(MyRecommendationAgent)
+    simulator.set_llm(llm)
 
-    # Set LLM client
-    simulator.set_llm(InfinigenceLLM(api_key="your api_key"))
-
-    # Run evaluation
-    # If you don't set the number of tasks, the simulator will run all tasks.
-    agent_outputs = simulator.run_simulation(number_of_tasks=None, enable_threading=True, max_workers=10)
-
-    # Evaluate the agent
+    outputs = simulator.run_simulation(number_of_tasks=10, enable_threading=False, max_workers=1)
     evaluation_results = simulator.evaluate()
-    with open(f'./evaluation_results_track2_{task_set}.json', 'w') as f:
+    
+    with open(f'./results/evaluation/evaluation_results_track2_{task_set}_baseline.json', 'w') as f:
         json.dump(evaluation_results, f, indent=4)
 
     print(f"The evaluation_results is :{evaluation_results}")

@@ -1,0 +1,728 @@
+
+ 2025-11-23 06:24:39.370686
+ User: ztgVL0NPadoUwCO9MWeUUQ
+ Parsed Top 5 Recommendations: ['OjFr_sk32NOhYSvA_Ucd5Q', 'IaelRCI4Ah5oxiHuBnFC7w', 'o2oD8bGW3oMaaTeSOqi-Kg', 'FbY5HjT_nCqfB8PiXX-fcQ', 'PdBwl7tlFhOBR3p4kMd9Hw']
+ Full Ranking: [
+  "OjFr_sk32NOhYSvA_Ucd5Q",
+  "IaelRCI4Ah5oxiHuBnFC7w",
+  "o2oD8bGW3oMaaTeSOqi-Kg",
+  "FbY5HjT_nCqfB8PiXX-fcQ",
+  "PdBwl7tlFhOBR3p4kMd9Hw",
+  "BzDbphyIfHWZUoaQQdAUYw",
+  "0d7nPS5dv42stQqdZbh08g",
+  "oFu61fiwKh6W_zgGjATfyw",
+  "BrO4rhvgGU2vXx4cvVJIpg",
+  "uFs6biPJw2FlVY3taR4QNQ",
+  "qF1NTfE0yfbTc1kb2mX1FA",
+  "WNFxt2TyMDEuNNNZ9Z9zRQ",
+  "pRYs_U3tiTisUazOzDgLaA",
+  "ClIkpkKO-Es8MHlsfDOKMQ",
+  "g-cQ3TeR7lcY_TObcDkw6w",
+  "9kfDDNapNWKF5B41X27HkA",
+  "4hmaKbOARJsP_8UfRssQJg",
+  "OQqBFuA5tcxdHog8YgMRcQ",
+  "QOUqT4PuH2Xm-ky0R87JNg",
+  "ZVrOGpZe5usRbdxxtmxHoQ"
+]
+
+ 2025-11-23 06:24:50.488459
+ User: iPtc25TDKdsQqRb6IOMtmw
+ Parsed Top 5 Recommendations: ['xKHMrTJDB5IInNjnkl3mQg', 'J5KCZj4soXXiMceLe-FJvw', '78j1ox-fsLGrnBRzn3y4_Q', 'qjivA_eSsUd73NuPY8_PRg', 'CUmXZEwtHja-3bZ7T2atEg']
+ Full Ranking: [
+  "xKHMrTJDB5IInNjnkl3mQg",
+  "J5KCZj4soXXiMceLe-FJvw",
+  "78j1ox-fsLGrnBRzn3y4_Q",
+  "qjivA_eSsUd73NuPY8_PRg",
+  "CUmXZEwtHja-3bZ7T2atEg",
+  "8P_tlWPmPHVFWXREQGienA",
+  "t7QIg4zhnzPnt5nzrXrkWA",
+  "6b8l-OvCaKx-EssvHkx7Gw",
+  "pwIgwyZEBGcJr8k__nxabw",
+  "reY1jB3RJ5FZiK1Nx6szYA",
+  "D5zG92TEkRLN_bseRIQiuA",
+  "4wnILSUsxXtvgynbkn0cxw",
+  "cNbFLxDe-wAsIboUCbtCdQ",
+  "wATz5hBUiCzJpEil-TIVdw",
+  "kvoNwEVdAzPse9ujGKeYNw",
+  "j485zQQvqv2tTIqvRTPwMg",
+  "WgmaxBbCRAlq06_bPLUcSA",
+  "ipEZD75r51w-ZAcb4YxiBg",
+  "iDBNClapO1L5ybWbbrMQTQ",
+  "sNY87E6Vj6neoMfHy_1iIA"
+]
+
+ 2025-11-23 06:24:55.218913
+ User: 0boZBe0RhNO_L8qnUo0huA
+ Parsed Top 5 Recommendations: ['ZZTJCY44LuvYqfafnUq1Nw', 'TjF6WOklsFFuqNZ5yk1Cyw', 'kfXNLyYtJF-34umaqxu7HQ', 'MRErvQSIzIGOg_28-PMNDA', 'L4TYFwhUHYoDmkUKfUUqCg']
+ Full Ranking: [
+  "ZZTJCY44LuvYqfafnUq1Nw",
+  "TjF6WOklsFFuqNZ5yk1Cyw",
+  "kfXNLyYtJF-34umaqxu7HQ",
+  "MRErvQSIzIGOg_28-PMNDA",
+  "L4TYFwhUHYoDmkUKfUUqCg",
+  "92LMum1uJoTi8l7p9rM_-w",
+  "GJmyROrNu3KrhnHNNRbVrw",
+  "N-MVwAcmsQDZCxbZjZhPDA",
+  "ZAycDVJeQ1QwGVTLROCKlA",
+  "HRwwyvm2RiMdaTWOwzhpTg",
+  "djtU6hvMyFN7emAJu9FvhQ",
+  "T2PFxmNFPoEBBr-prV9aMg",
+  "XkWLvNeJWIQqNp2oX4XzKw",
+  "6bzJ7Hc84lv5rEVEDaashQ",
+  "tND-bS0sECbWI8GVMFT_MA",
+  "9VRg8Ho9SoZWKPmjfrpVmw",
+  "AuLdRDaloS-jY5s5yGJADA",
+  "yNv_RImPRQNf9qC8thA_0Q",
+  "t-9LJ6-J1yCiSmY8OygLSA",
+  "dR54APnpymYQofIAUx7aWA"
+]
+
+ 2025-11-23 06:25:01.999510
+ User: b1xvXhvnHNUBsmyEO5lacQ
+ Parsed Top 5 Recommendations: ['pDqI2SmxP2IukZ-vhnmgtQ', 'xfmkEGiIERBaBMLhw-dTCg', 'OjFr_sk32NOhYSvA_Ucd5Q', 'NSDhtsrXY78oZ8B3MkaxnQ', 'IaelRCI4Ah5oxiHuBnFC7w']
+ Full Ranking: [
+  "pDqI2SmxP2IukZ-vhnmgtQ",
+  "xfmkEGiIERBaBMLhw-dTCg",
+  "OjFr_sk32NOhYSvA_Ucd5Q",
+  "NSDhtsrXY78oZ8B3MkaxnQ",
+  "IaelRCI4Ah5oxiHuBnFC7w",
+  "rK-F9iJA3023_puvYBzw5A",
+  "x1p-knHTbmDIuhnbkuYT5g",
+  "oFu61fiwKh6W_zgGjATfyw",
+  "BzDbphyIfHWZUoaQQdAUYw",
+  "uYIZQTeTTMERbwEW9DDZGA",
+  "MeptjglT9R6k0PyQRq5-nA",
+  "gjcAXxw5YuLo6Hs6mFwWVA",
+  "2hvDcM769GC5t6zrkn4A3w",
+  "qF1NTfE0yfbTc1kb2mX1FA",
+  "y5SdcwfKF8JgYwGFb_SfiQ",
+  "OQqBFuA5tcxdHog8YgMRcQ",
+  "K-S_YhtoGffXF9f3azGY2A",
+  "pRYs_U3tiTisUazOzDgLaA",
+  "QcxuKH9V6iacdi_nfRCE6w",
+  "r4D7_LX3JowSbx4QUpoaNg"
+]
+
+ 2025-11-23 06:25:06.721973
+ User: 9gf5tl6p-wJ1qXicRavk8w
+ Parsed Top 5 Recommendations: ['T72tpiOTqLPOwuXTgDWxnQ', 'bACIZGdHRFfNtrufH0wMbQ', '_i8q9EXNcIMyxXynHDs1rQ', 'DLasGNHo7wicO4XlEy5QyA', 'Bmh7d4yVxpgLPQ8KLcy_4Q']
+ Full Ranking: [
+  "T72tpiOTqLPOwuXTgDWxnQ",
+  "bACIZGdHRFfNtrufH0wMbQ",
+  "_i8q9EXNcIMyxXynHDs1rQ",
+  "DLasGNHo7wicO4XlEy5QyA",
+  "Bmh7d4yVxpgLPQ8KLcy_4Q",
+  "iTvq1gPf62A-z1Axu8elvw",
+  "y9XVl5058TPjHcO6O2HBaA",
+  "GAhzoZq315gjxCUeVNQTGA",
+  "rh3c8tgPyPXD4vj7nC0TuQ",
+  "DSG_T9HfKqdWxzwMf3DS0A",
+  "q3NsTN4umVlCpOmYpIKkyA",
+  "9TRGordD4MbOR2mglgcvpA",
+  "04o5yH6y_49RkLuEaiW5mg",
+  "nFKATkd_j1iwFK9r6s0duQ",
+  "YQ-BmAQ57pg4U3zTO9v8jw",
+  "xg2BYY0tswiEDz2HvTRq2w",
+  "5BCGpD7VzyhqyMH6TND3sw",
+  "XXWxdyq2QfKF4wpdDZUcxA"
+]
+
+ 2025-11-23 06:25:13.086968
+ User: oHvON83dyMDSCy-pNfUvrQ
+ Parsed Top 5 Recommendations: ['rhpvLGLQ0QEnyhvXkYSEOw', 'KJe08nAYey85uYQrOW3TiQ', 'Fv6EIYsJaUCqyvvAr6kLew', '67QoVuGSTw5vQP9xs93LuQ', 'IEcLzwD9o5hj3N5aKzD-ZQ']
+ Full Ranking: [
+  "rhpvLGLQ0QEnyhvXkYSEOw",
+  "KJe08nAYey85uYQrOW3TiQ",
+  "Fv6EIYsJaUCqyvvAr6kLew",
+  "67QoVuGSTw5vQP9xs93LuQ",
+  "IEcLzwD9o5hj3N5aKzD-ZQ",
+  "ntjq50D4FoVLjIm9fqT4Vw",
+  "zDAPljNKUka4vGyKFR-KkQ",
+  "wZbk5vEGyxtGxLUJ09j-8g",
+  "SfrCpke2fi6nynKPms2jZA",
+  "bHzjGwIksxxVhV1y2v5f7A",
+  "XhoODVSS1ri5Mr6yUB7hWw",
+  "p-XV3iBrPTeYsTkYOuJILA",
+  "kkSYxSQD3xKKKSafETpMRw",
+  "w9yjK_llCIvSPkEsx9qJrA",
+  "jZS1SgxHnw9NxRNVRNgqwg",
+  "Im4IDA9RXycirW_EZqAj5Q",
+  "9S8rfgVp6vA2pUZZUvoBoA",
+  "Bhz9yYEpREoiBH8qrPfC4Q",
+  "aCfGcj4H7rrRhBvRzNmdow",
+  "Dke3pFr3lAyj-K4rzdxjLQ"
+]
+
+ 2025-11-23 06:25:19.205930
+ User: JwHS6O7zX52jvSmGTPaPZg
+ Parsed Top 5 Recommendations: ['Rzx2E5XgTeGU7FEbUZ-bGg', 'o2oD8bGW3oMaaTeSOqi-Kg', 'IaelRCI4Ah5oxiHuBnFC7w', 'xfmkEGiIERBaBMLhw-dTCg', 'E4PV_GU0Rdn0Jx7s6aICug']
+ Full Ranking: [
+  "Rzx2E5XgTeGU7FEbUZ-bGg",
+  "o2oD8bGW3oMaaTeSOqi-Kg",
+  "IaelRCI4Ah5oxiHuBnFC7w",
+  "xfmkEGiIERBaBMLhw-dTCg",
+  "E4PV_GU0Rdn0Jx7s6aICug",
+  "NSDhtsrXY78oZ8B3MkaxnQ",
+  "uYIZQTeTTMERbwEW9DDZGA",
+  "x1p-knHTbmDIuhnbkuYT5g",
+  "Ouz6NevgUHn-rGXbcw7DOQ",
+  "BzDbphyIfHWZUoaQQdAUYw",
+  "oFu61fiwKh6W_zgGjATfyw",
+  "2hvDcM769GC5t6zrkn4A3w",
+  "WNFxt2TyMDEuNNNZ9Z9zRQ",
+  "Rzx2E5XgTeGU7FEbUZ-bGg",
+  "OjFr_sk32NOhYSvA_Ucd5Q",
+  "OBHh5Nm8lw52psIAXGOGYg",
+  "OQqBFuA5tcxdHog8YgMRcQ",
+  "K-S_YhtoGffXF9f3azGY2A",
+  "r4D7_LX3JowSbx4QUpoaNg",
+  "RvOJFT-Kk2ynqa0-yY51hA",
+  "Cp5vp6LVGudRE6WXwVwEaA"
+]
+
+ 2025-11-23 06:25:23.640275
+ User: psQMmdULPmUIfoPQ1_zxUQ
+ Parsed Top 5 Recommendations: ['Am5wWa0v13NZRsJ-g9f9cQ', 'BtxUZn4d7yxsHwdlRq1dkw', 'QQGyPctWtd9WOZnMKUChUQ', 'Mfyqn9bYNL7jVsXjXH_ymg', 'OFzOce5dfz1BgayT33KtjA']
+ Full Ranking: [
+  "Am5wWa0v13NZRsJ-g9f9cQ",
+  "BtxUZn4d7yxsHwdlRq1dkw",
+  "QQGyPctWtd9WOZnMKUChUQ",
+  "Mfyqn9bYNL7jVsXjXH_ymg",
+  "OFzOce5dfz1BgayT33KtjA",
+  "PxEiXqMAzzvp8GFlb5EoLg",
+  "5UN1B7XqZohGuULLNlWL1A",
+  "jM-oH5U5zcnfpmcbsgMVHQ",
+  "AVCsL26Asb5vsPnACWvkqg",
+  "7HcaaocVkMj3g7OiIVWy6g",
+  "799eRxVni0-aZ_W628moDQ",
+  "5qVt5XufPXTztxneUzUriw",
+  "gIdsoqeal31OEuBXhAaPPw",
+  "3dtxHKM3RbVyjzTfbcGq2A",
+  "uGBDL0PeAmUjxjZRtR_hUA",
+  "Qq4bJfagVGJ3Z7BDbkiXuA",
+  "NKYguP2dJdd6ng5UxxLVHg",
+  "V32bG99x8JRbwfBiqRDD4Q",
+  "Y0Z13K5KquO0OT3TEuLmVQ",
+  "ltaDKBb6_PMAOAXthRFKLA"
+]
+
+ 2025-11-23 06:25:30.091689
+ User: M5AVDAM7SzW6II6iDp4LEg
+ Parsed Top 5 Recommendations: ['I9CwI9oIr0L67KLS8UC0UA', 'LB19zg7guFOqO1KatskCUg', '94s_AwUQmy41Dp3fslgdjA', '1lUfhypIZhfP8UmZBh6bxg', 'I5ueHDysyhKzHkE5Nw4Rew']
+ Full Ranking: [
+  "I9CwI9oIr0L67KLS8UC0UA",
+  "LB19zg7guFOqO1KatskCUg",
+  "94s_AwUQmy41Dp3fslgdjA",
+  "1lUfhypIZhfP8UmZBh6bxg",
+  "I5ueHDysyhKzHkE5Nw4Rew",
+  "JXHEyz6h5xl5Xd2ZpmXceQ",
+  "GX0REnnZMhsxlu3gSb-mAw",
+  "-K80PQ45I5AeYWSCcEcy6g",
+  "ViO6ziYwKwdVTNrFZz0gDQ",
+  "DFZnh7ApQMk0nYvwTlRUxw",
+  "XQ4Cfzi1TXqoJ6RSkpr-Ow",
+  "zbu2BgZJMCScHtyFnyy6YQ",
+  "SSBsKbKd0VAIupsjDGmmRQ",
+  "YWfOxkw6ZqMOsVm3hsv2ig",
+  "vWERGBrcoWgRBzWdd_yWWQ",
+  "RY0ojWzOlDOjEjiAOsSMVQ",
+  "5Cj7hVtnGhaEIKYKQpQ_4w",
+  "_F0tnw3UMFPmSYJHhGaGRw",
+  "zBfhupE2j25W26pnmWgMmQ",
+  "ufNUHAZSC1Nq85H92vHfNA"
+]
+
+ 2025-11-23 06:25:41.019400
+ User: bLUq5Yt9ILWHtNY6o2O8jA
+ Parsed Top 5 Recommendations: ['yP1IBeS0hPYqSTB5bzxxZA', 'Axb4x-c2nooyq5Rm4VUP7w', 'NcN7HHJONu9xoWfgGPqITA', '0Dw9eqJsbfuVKsgAoc9NZg', 'TeiGh076CLVLrB-9tQguNQ']
+ Full Ranking: [
+  "yP1IBeS0hPYqSTB5bzxxZA",
+  "Axb4x-c2nooyq5Rm4VUP7w",
+  "NcN7HHJONu9xoWfgGPqITA",
+  "0Dw9eqJsbfuVKsgAoc9NZg",
+  "TeiGh076CLVLrB-9tQguNQ",
+  "rOZbHxErnT_BRanPVYWJ_Q",
+  "ZCfhzELrF9yahqQIJH3DSw",
+  "iOBs_J9oVIwVKsmfBHBs6w",
+  "wOp0SwGeUFP3MTKXDwSmjQ",
+  "gjALduh0HJg-xMHMm0Uz0Q",
+  "wAIZDurYmEeSR9vQxge89w",
+  "DgDd0A3nI-mMi35jZIlyxg",
+  "1ynfWYtAWbbMJs3NnRNXtQ",
+  "shuAjSIsKG6Zg8blW2fmPw",
+  "JUVtr9lqM1dCaiLPFPCeBw",
+  "n4alafw1npRmVXzfBLUGPQ",
+  "7J81xJFlMM244_f05k2egw",
+  "e7PUSXlcOfel8c7sPIA28w",
+  "TVoTCkZukwXQx8n8kARIMA"
+]
+
+ 2025-11-23 06:26:32.548141
+ User: e5349f9232db517fdfb473641811ac06
+ Parsed Top 5 Recommendations: ['17999159', '741429', '646040', '5945516', '63477']
+ Full Ranking: [
+  "17999159",
+  "741429",
+  "646040",
+  "5945516",
+  "63477",
+  "2880751",
+  "275624",
+  "13517756",
+  "12140102",
+  "9951085",
+  "29741418",
+  "1292972",
+  "534180",
+  "27398274",
+  "827260",
+  "33359704",
+  "26226676",
+  "26226676",
+  "7987574",
+  "6203342",
+  "1998313"
+]
+
+ 2025-11-23 06:26:36.221049
+ User: 7a71c9350d45bca0d9f0a5dbc38ae991
+ Parsed Top 5 Recommendations: ['19167482', '23399671', '30052657', '18701585', '15763752']
+ Full Ranking: [
+  "19167482",
+  "23399671",
+  "30052657",
+  "18701585",
+  "15763752",
+  "764304",
+  "96428",
+  "30688636",
+  "1052310",
+  "707902",
+  "15325294",
+  "806923",
+  "13591674",
+  "7502273",
+  "17472553",
+  "35705399",
+  "25707426",
+  "11968098",
+  "9537683",
+  "18070090"
+]
+
+ 2025-11-23 06:26:40.815063
+ User: 567e537193d7f9c39e5ad620ac66e1cf
+ Parsed Top 5 Recommendations: ['53495', '8137055', '17457677', '7846463', '13538765']
+ Full Ranking: [
+  "53495",
+  "8137055",
+  "17457677",
+  "7846463",
+  "13538765",
+  "25850885",
+  "32618420",
+  "3349739",
+  "847164",
+  "6314690",
+  "2083707",
+  "29104125",
+  "7157840",
+  "1705675",
+  "478615",
+  "33138586",
+  "7843232",
+  "10884487",
+  "22246553",
+  "4554771"
+]
+
+ 2025-11-23 06:26:45.461138
+ User: aa6f6595eeef112d7ac0ad6fb91585dc
+ Parsed Top 5 Recommendations: ['232111', '573690', '12859159', '560626', '2663511']
+ Full Ranking: [
+  "232111",
+  "573690",
+  "12859159",
+  "560626",
+  "2663511",
+  "20566972",
+  "18721078",
+  "19411251",
+  "20687290",
+  "10987994",
+  "36340884",
+  "21911244",
+  "11527081",
+  "7016263",
+  "6164174",
+  "20610059",
+  "29481444",
+  "4051786",
+  "706129",
+  "15794740"
+]
+
+ 2025-11-23 06:26:52.847745
+ User: eb0da1acbc42ecffa50413f8b1f92b51
+ Parsed Top 5 Recommendations: ['820861', '394667', '18527502', '13185136', '4000471']
+ Full Ranking: [
+  "820861",
+  "394667",
+  "18527502",
+  "13185136",
+  "4000471",
+  "17903267",
+  "18525840",
+  "18525840",
+  "25117724",
+  "25849499",
+  "29404379",
+  "23276311",
+  "20028855",
+  "729297",
+  "191216",
+  "10793276",
+  "9557199",
+  "22047138",
+  "7847664",
+  "997949"
+]
+
+ 2025-11-23 06:26:55.880838
+ User: 32f024dfdf0799c4e930acae8e73d7ce
+ Parsed Top 5 Recommendations: ['28165652', '13414820', '18594446', '1198370', '2327439']
+ Full Ranking: [
+  "28165652",
+  "13414820",
+  "18594446",
+  "1198370",
+  "2327439",
+  "27415708",
+  "1971579",
+  "1071343",
+  "1346193",
+  "30226303",
+  "890871",
+  "5457224",
+  "34825305",
+  "2340137",
+  "1964117",
+  "449594",
+  "1952290",
+  "646908",
+  "4493938",
+  "32580520"
+]
+
+ 2025-11-23 06:26:58.759719
+ User: e69de0319b6e6f0549e154471139660d
+ Parsed Top 5 Recommendations: ['746694', '18893880', '25810019', '25817276', '8116311']
+ Full Ranking: [
+  "746694",
+  "18893880",
+  "25810019",
+  "25817276",
+  "8116311",
+  "1385735",
+  "1616005",
+  "12865293",
+  "31339423",
+  "3262254",
+  "1107062",
+  "2314379",
+  "23389503",
+  "17899561",
+  "25066798",
+  "7352122",
+  "8666601",
+  "11885797",
+  "2570137",
+  "977829"
+]
+
+ 2025-11-23 06:27:03.052794
+ User: aef5b6544380d0bab53c68f77ff93a32
+ Parsed Top 5 Recommendations: ['3011964', '1350249', '3057435', '1412852', '6309687']
+ Full Ranking: [
+  "3011964",
+  "1350249",
+  "3057435",
+  "1412852",
+  "6309687",
+  "25909164",
+  "3333906",
+  "13588155",
+  "27239329",
+  "19546565",
+  "16255267",
+  "13518935",
+  "850308",
+  "24796243",
+  "9012216",
+  "10895528",
+  "18597796",
+  "7005663",
+  "26852752",
+  "2534399"
+]
+
+ 2025-11-23 06:27:07.023758
+ User: 0748fbef70fb1a44115371d9fc6291cb
+ Parsed Top 5 Recommendations: ['22291247', '24762203', '9394583', '7199829', '6387644']
+ Full Ranking: [
+  "22291247",
+  "24762203",
+  "9394583",
+  "7199829",
+  "6387644",
+  "17118668",
+  "14361585",
+  "5761453",
+  "6020093",
+  "13260137",
+  "28237667",
+  "13604635",
+  "22309724",
+  "3779446",
+  "1707992",
+  "296661",
+  "1886940",
+  "8303292",
+  "27209111",
+  "17118668"
+]
+
+ 2025-11-23 06:27:11.017646
+ User: 8d898944314e2ea4ac0e797afa701a0f
+ Parsed Top 5 Recommendations: ['26883576', '20759403', '885539', '1561214', '2166998']
+ Full Ranking: [
+  "26883576",
+  "20759403",
+  "885539",
+  "1561214",
+  "2166998",
+  "17163108",
+  "3334398",
+  "6494334",
+  "18917463",
+  "2998756",
+  "8166046",
+  "9733970",
+  "6086314",
+  "6074805",
+  "3708239",
+  "217356",
+  "10638326",
+  "2064778",
+  "422960",
+  "20447684"
+]
+
+ 2025-11-23 06:28:34.984007
+ User: AFM4E4IMV26YLY5ZOFXQAJ3XW7DA
+ Parsed Top 5 Recommendations: ['B09CPM2NJJ', 'B09G64PCZ8', 'B0BT86Y919', 'B00CFNS3V8', 'B074FY82LW']
+ Full Ranking: [
+  "B09CPM2NJJ",
+  "B09G64PCZ8",
+  "B0BT86Y919",
+  "B00CFNS3V8",
+  "B074FY82LW",
+  "B0BS95YW4V",
+  "B0722W1718",
+  "B07TBRFQWQ",
+  "B082DCXP96",
+  "B07ZK4KTNX",
+  "B07G9WK8GS",
+  "B07NLJ1BJL",
+  "B017W1780O",
+  "B00009VE6D",
+  "B002KQJNO6",
+  "B076K27L1P",
+  "B005SGBIC0",
+  "B07XLVGRMY",
+  "B002MROR7G",
+  "B00006F7S8"
+]
+
+ 2025-11-23 06:28:39.993965
+ User: AFYH37SYS2HKXCIB5CQKZIFAZPRA
+ Parsed Top 5 Recommendations: ['B073V3G571', 'B08FYCS7WF', 'B07FYVKDNQ', 'B07CNKF5YS', 'B087NNZZM8']
+ Full Ranking: [
+  "B073V3G571",
+  "B08FYCS7WF",
+  "B07FYVKDNQ",
+  "B07CNKF5YS",
+  "B087NNZZM8",
+  "B002HJUX7C",
+  "B07KZ6QJTL",
+  "B076CPP94J",
+  "B000066RKC",
+  "B06XC345WG",
+  "B000G77X1Q",
+  "B008073TJ4",
+  "B003B2MLDI",
+  "B07CV71LKX",
+  "B0758M1Z81",
+  "B0B24GD5S5",
+  "B0B2CTYNP3",
+  "B097CZPM3N",
+  "B07JJ526NX",
+  "B000023MD4"
+]
+
+ 2025-11-23 06:28:46.524942
+ User: AHNVN3IQVNMMIR7S4AXK7F6WQHOQ
+ Parsed Top 5 Recommendations: ['B07BMPGYM9', 'B0B5TN71SX', 'B075T3V1GK', 'B08LMLXXDR', 'B0B51QKPCZ']
+ Full Ranking: [
+  "B07BMPGYM9",
+  "B0B5TN71SX",
+  "B075T3V1GK",
+  "B08LMLXXDR",
+  "B0B51QKPCZ",
+  "B07B21CBYL",
+  "B09GZXYJXM",
+  "B0B217KFSG",
+  "B08N6M2JYR",
+  "B0CD1Z1MKV",
+  "B07PDNPRZN",
+  "B00D781W3Q",
+  "B00LZS99GW",
+  "B01M69P2F6",
+  "B07FB9GF8T",
+  "B00I0YOB9O",
+  "B00HSPW57G",
+  "B000EEL8A8",
+  "B00DWVB6K2",
+  "B00002ST78"
+]
+
+ 2025-11-23 06:28:51.560382
+ User: AHZDCKPL7MIACWVCB3IENI7L6C2Q
+ Parsed Top 5 Recommendations: ['B074P6C48P', 'B07TVWMZ14', 'B00LMRNIGS', 'B0BGPKPSNR', 'B01MS2KGFB']
+ Full Ranking: [
+  "B074P6C48P",
+  "B07TVWMZ14",
+  "B00LMRNIGS",
+  "B0BGPKPSNR",
+  "B01MS2KGFB",
+  "B07378Z9L1",
+  "B08T127X2B",
+  "B01IP9W9UG",
+  "B00NIZLIF0",
+  "B09247CHZN",
+  "B0007NWLYS",
+  "B004SQ6LPU",
+  "B000VBFWAG",
+  "B0BFLWV7LR",
+  "B08BR7YCY1",
+  "B0C1YRGK3W",
+  "B0BNLYSFLM",
+  "B09TKN5HJ7",
+  "B008OJUO46",
+  "B00002STPL"
+]
+
+ 2025-11-23 06:28:57.601809
+ User: AGOB6QQYQ7GSNNFM2JHZGO3JQ3SQ
+ Parsed Top 5 Recommendations: ['B07CBNKDXC', 'B072XB87XJ', 'B004AYCNS4', 'B00008G7MM', 'B01MYXNB7G']
+ Full Ranking: [
+  "B07CBNKDXC",
+  "B072XB87XJ",
+  "B004AYCNS4",
+  "B00008G7MM",
+  "B01MYXNB7G",
+  "B00004SVR4",
+  "B002SUTB28",
+  "B009PJH47Y",
+  "B00008G7MM",
+  "B09X2WHS7H",
+  "B00FNT6NB8",
+  "B00GC2F0UK",
+  "B0BFR1KZ9H",
+  "B00P0AHRQ0",
+  "B00UDUG55Q",
+  "B0015PHMFU",
+  "B08P737KDD",
+  "B0B28P95MG",
+  "B07N5L9M8R",
+  "B06W9HN9R8",
+  "B0011FYLYY"
+]
+
+ 2025-11-23 06:29:03.001577
+ User: AHXNH4ETPYL3SHTT5H62SLUCEWAQ
+ Parsed Top 5 Recommendations: ['B07793SCG3', 'B07N72FWC7', 'B004J96JTO', 'B07D9K74C7', 'B0B9C7Y827']
+ Full Ranking: [
+  "B07793SCG3",
+  "B07N72FWC7",
+  "B004J96JTO",
+  "B07D9K74C7",
+  "B0B9C7Y827",
+  "B0C4PDM7LL",
+  "B00IMNV0L0",
+  "B000BOA1UY",
+  "B0002ORP8Y",
+  "B07X3FTM3W",
+  "B004BJ2FVS",
+  "B0026IZU68",
+  "B06XG9J26Q",
+  "B006Z8LEQK",
+  "B0009VXBAQ",
+  "B0B7YVL195",
+  "B0009H7UHU",
+  "B0B4NVWL27",
+  "B0002I9RP4",
+  "B07SSD7V67"
+]
+
+ 2025-11-23 06:29:17.005992
+ User: AFKCXZZROCFTS4KUYHF3UKXNXTOQ
+ Parsed Top 5 Recommendations: ['B00R5VZXKY', 'B008ZAFBA6', 'B01KZUL1CA', 'B0007KTBG2', 'B000A0XSMM']
+ Full Ranking: [
+  "B00R5VZXKY",
+  "B008ZAFBA6",
+  "B01KZUL1CA",
+  "B0007KTBG2",
+  "B000A0XSMM",
+  "B089YXPV46",
+  "B014W1YU6M",
+  "B07TQSDF9D",
+  "B0C5LY4C64",
+  "B0BMTLGFW1",
+  "B0BNXC6DWF",
+  "B0BNXC6DWF",
+  "B007NV6QCU",
+  "B00009ETKZ",
+  "B0BNXC6DWF",
+  "B0B9GJWZ4P",
+  "B01M9GEEIB",
+  "B000088KH7",
+  "B000LNZHCM",
+  "B09CB1GMMG"
+]
+
+ 2025-11-23 06:29:36.893726
+ User: AG7N5PYV622BGFV7AY7JVM4KTO3Q
+ Parsed Top 5 Recommendations: ['B0829R3BLR', 'B095LSFPY3', 'B09N6H2B17', 'B0BC19TG9S', 'B01JU57ES6']
+ Full Ranking: [
+  "B0829R3BLR",
+  "B095LSFPY3",
+  "B09N6H2B17",
+  "B0BC19TG9S",
+  "B01JU57ES6",
+  "B00118XOI0",
+  "B0002I9R90",
+  "B09BPPCDX7",
+  "B017XN3J04",
+  "B0BR2L1375",
+  "B0002GJI3C",
+  "B09B1NLFBR",
+  "B01LYIDDFF",
+  "B0002GZSQ8",
+  "B0002D0EMO",
+  "B08JGFGQXL",
+  "B01CXPV5B2",
+  "B074T9FWQ1",
+  "B071YWNBVM",
+  "B00H7KTRO6"
+]
