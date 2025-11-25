@@ -1,17 +1,16 @@
-[{
-    "time": "2025-10-31T11:19:34.650078"
-},
 {
-    "type": "simulation",
-    "metrics": {
-        "preference_estimation": 0.8200000000000001,
-        "review_generation": 0.864774691165503,
-        "overall_quality": 0.8423873455827515
-    },
-    "data_info": {
-        "evaluated_count": 10,
-        "original_simulation_count": 10,
-        "original_ground_truth_count": 400
+    "time": "2025-11-25T08:18:38.524364",
+    "results": {
+        "type": "simulation",
+        "metrics": {
+            "preference_estimation": 0.8654999999999997,
+            "review_generation": 0.847754350496789,
+            "overall_quality": 0.8566271752483944
+        },
+        "data_info": {
+            "evaluated_count": 400,
+            "original_simulation_count": 400,
+            "original_ground_truth_count": 400
+        }
     }
 }
-]

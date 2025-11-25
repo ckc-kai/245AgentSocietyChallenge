@@ -1,11 +1,11 @@
 {
-    "time": "2025-11-24T06:45:07.438034",
+    "time": "2025-11-24T07:40:49.930246",
     "results": {
         "type": "simulation",
         "metrics": {
-            "preference_estimation": 0.8514999999999995,
-            "review_generation": 0.8058259413252729,
-            "overall_quality": 0.8286629706626362
+            "preference_estimation": 0.8587499999999997,
+            "review_generation": 0.8365981042793835,
+            "overall_quality": 0.8476740521396916
         },
         "data_info": {
             "evaluated_count": 400,
