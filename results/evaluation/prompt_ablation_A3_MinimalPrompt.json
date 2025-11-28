@@ -1,0 +1,17 @@
+{
+    "ablation": "A3_MinimalPrompt",
+    "time": "2025-11-26T03:10:23.068330",
+    "results": {
+        "type": "simulation",
+        "metrics": {
+            "preference_estimation": 0.822,
+            "review_generation": 0.8647115491725298,
+            "overall_quality": 0.8433557745862649
+        },
+        "data_info": {
+            "evaluated_count": 50,
+            "original_simulation_count": 50,
+            "original_ground_truth_count": 400
+        }
+    }
+}

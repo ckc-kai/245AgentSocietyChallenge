@@ -1,0 +1,68 @@
+{
+    "ablation": "M2_efficient",
+    "time": "2025-11-26T00:26:11.975937",
+    "results": {
+        "type": "simulation",
+        "metrics": {
+            "preference_estimation": 0.41999999999999993,
+            "review_generation": 0.6023684792373132,
+            "overall_quality": 0.5111842396186566
+        },
+        "data_info": {
+            "evaluated_count": 40,
+            "original_simulation_count": 40,
+            "original_ground_truth_count": 400
+        }
+    }
+}
+{
+    "ablation": "M2_efficient",
+    "time": "2025-11-26T01:12:04.628757",
+    "results": {
+        "type": "simulation",
+        "metrics": {
+            "preference_estimation": 0.41999999999999993,
+            "review_generation": 0.5112258166672015,
+            "overall_quality": 0.4656129083336007
+        },
+        "data_info": {
+            "evaluated_count": 40,
+            "original_simulation_count": 40,
+            "original_ground_truth_count": 400
+        }
+    }
+}
+{
+    "ablation": "M2_efficient",
+    "time": "2025-11-26T01:36:14.980213",
+    "results": {
+        "type": "simulation",
+        "metrics": {
+            "preference_estimation": 0.41999999999999993,
+            "review_generation": 0.5112258166672015,
+            "overall_quality": 0.4656129083336007
+        },
+        "data_info": {
+            "evaluated_count": 40,
+            "original_simulation_count": 40,
+            "original_ground_truth_count": 400
+        }
+    }
+}
+{
+    "ablation": "M2_efficient",
+    "time": "2025-11-26T01:47:04.373441",
+    "results": {
+        "type": "simulation",
+        "metrics": {
+            "preference_estimation": 0.8324999999999999,
+            "review_generation": 0.8463372651091068,
+            "overall_quality": 0.8394186325545534
+        },
+        "data_info": {
+            "evaluated_count": 40,
+            "original_simulation_count": 40,
+            "original_ground_truth_count": 400
+        }
+    }
+}

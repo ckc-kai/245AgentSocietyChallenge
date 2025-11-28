@@ -5,6 +5,10 @@ from .infinigence_embeddings import InfinigenceEmbeddings
 from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_exception_type
 import logging
 from anthropic import Anthropic
+import google.generativeai as genai
+from websocietysimulator.llm.local_embedding import LocalEmbedding
+from typing import List, Dict, Optional, Union
+
 logger = logging.getLogger("websocietysimulator")
 
 class LLMBase:
@@ -231,3 +235,66 @@ class ClaudeLLM(LLMBase):
         if self.embedding_model is None:
             logger.warning("Claude doesn't provide embedding models. Consider using OpenAI or another embedding service.")
         return self.embedding_model    
+
+
+class GeminiLLM(LLMBase):
+    """
+    Gemini API wrapper fully compatible with WebSocietySimulator interface.
+    """
+
+    def __init__(self, api_key: str, model: str = "gemini-2.0-flash", embedding_model: str = "models/text-embedding-004"):
+        super().__init__(model)
+        self.api_key = api_key
+
+        genai.configure(api_key=api_key)
+
+        self.model_name = model
+        self.embedding_model = embedding_model
+
+        # Gemini model
+        self.client = genai.GenerativeModel(model)
+
+    def __call__(
+        self,
+        messages: List[Dict[str, str]],
+        model: Optional[str] = None,
+        temperature: float = 0.0,
+        max_tokens: int = 300,
+        stop_strs: Optional[List[str]] = None,
+        n: int = 1
+    ) -> Union[str, List[str]]:
+        
+        prompt = "\n".join([m["content"] for m in messages])
+
+        # Multiple samples for voting (if n > 1)
+        outputs = []
+        for _ in range(n):
+            response = self.client.generate_content(
+                prompt,
+                generation_config={
+                    "temperature": temperature,
+                    "max_output_tokens": max_tokens
+                }
+            )
+            outputs.append(response.text)
+
+        return outputs[0] if n == 1 else outputs
+
+    def embed(self, text: str):
+        """Gemini embedding model"""
+        result = genai.embed_content(
+            model=self.embedding_model,
+            content=text
+        )
+        return result["embedding"]
+    def get_embedding_model(self):
+        class _EmbedWrapper:
+            def __init__(self, f):
+                self.f = f
+            def embed_documents(self, docs):
+                return [self.f(d) for d in docs]
+            def embed_query(self, text):
+                return self.f(text)
+
+        return _EmbedWrapper(self.embed)
+

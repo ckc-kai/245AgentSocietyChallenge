@@ -1,0 +1,23 @@
+{
+    "time": "2025-11-25T01:39:07.523834",
+    "task_set": "yelp",
+    "ablation": {
+        "use_memory": true,
+        "use_profile": true,
+        "use_consistency": false,
+        "prompt_version": 1
+    },
+    "results": {
+        "type": "simulation",
+        "metrics": {
+            "preference_estimation": 0.84,
+            "review_generation": 0.7893884957281195,
+            "overall_quality": 0.8146942478640598
+        },
+        "data_info": {
+            "evaluated_count": 50,
+            "original_simulation_count": 50,
+            "original_ground_truth_count": 400
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "time": "2025-11-24T05:24:22.771531",
+    "results": {
+        "type": "simulation",
+        "metrics": {
+            "preference_estimation": 0.8400000000000001,
+            "review_generation": 0.8929446121523738,
+            "overall_quality": 0.866472306076187
+        },
+        "data_info": {
+            "evaluated_count": 5,
+            "original_simulation_count": 5,
+            "original_ground_truth_count": 400
+        }
+    }
+}
+{
+    "time": "2025-11-24T05:59:26.401198",
+    "results": {
+        "type": "simulation",
+        "metrics": {
+            "preference_estimation": 0.8437499999999998,
+            "review_generation": 0.8772965918073357,
+            "overall_quality": 0.8605232959036677
+        },
+        "data_info": {
+            "evaluated_count": 400,
+            "original_simulation_count": 400,
+            "original_ground_truth_count": 400
+        }
+    }
+}

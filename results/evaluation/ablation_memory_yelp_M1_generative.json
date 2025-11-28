@@ -1,0 +1,85 @@
+{
+    "ablation": "M1_generative",
+    "time": "2025-11-26T00:16:02.620237",
+    "results": {
+        "type": "simulation",
+        "metrics": {
+            "preference_estimation": 0.42999999999999994,
+            "review_generation": 0.6058236043153411,
+            "overall_quality": 0.5179118021576705
+        },
+        "data_info": {
+            "evaluated_count": 40,
+            "original_simulation_count": 40,
+            "original_ground_truth_count": 400
+        }
+    }
+}
+{
+    "ablation": "M1_generative",
+    "time": "2025-11-26T01:11:57.051960",
+    "results": {
+        "type": "simulation",
+        "metrics": {
+            "preference_estimation": 0.41999999999999993,
+            "review_generation": 0.5112258166672015,
+            "overall_quality": 0.4656129083336007
+        },
+        "data_info": {
+            "evaluated_count": 40,
+            "original_simulation_count": 40,
+            "original_ground_truth_count": 400
+        }
+    }
+}
+{
+    "ablation": "M1_generative",
+    "time": "2025-11-26T01:15:44.255495",
+    "results": {
+        "type": "simulation",
+        "metrics": {
+            "preference_estimation": 0.41999999999999993,
+            "review_generation": 0.5112258166672015,
+            "overall_quality": 0.4656129083336007
+        },
+        "data_info": {
+            "evaluated_count": 40,
+            "original_simulation_count": 40,
+            "original_ground_truth_count": 400
+        }
+    }
+}
+{
+    "ablation": "M1_generative",
+    "time": "2025-11-26T01:36:07.295073",
+    "results": {
+        "type": "simulation",
+        "metrics": {
+            "preference_estimation": 0.41999999999999993,
+            "review_generation": 0.5112258166672015,
+            "overall_quality": 0.4656129083336007
+        },
+        "data_info": {
+            "evaluated_count": 40,
+            "original_simulation_count": 40,
+            "original_ground_truth_count": 400
+        }
+    }
+}
+{
+    "ablation": "M1_generative",
+    "time": "2025-11-26T01:46:51.282382",
+    "results": {
+        "type": "simulation",
+        "metrics": {
+            "preference_estimation": 0.845,
+            "review_generation": 0.8310117792846536,
+            "overall_quality": 0.8380058896423268
+        },
+        "data_info": {
+            "evaluated_count": 40,
+            "original_simulation_count": 40,
+            "original_ground_truth_count": 400
+        }
+    }
+}

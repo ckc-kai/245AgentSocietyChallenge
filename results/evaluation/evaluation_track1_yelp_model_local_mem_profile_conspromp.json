@@ -1,0 +1,46 @@
+{
+    "time": "2025-11-24T09:33:21.951602",
+    "task_set": "yelp",
+    "ablation": {
+        "use_memory": true,
+        "use_profile": true,
+        "use_consistency": true,
+        "prompt_version": 1
+    },
+    "results": {
+        "type": "simulation",
+        "metrics": {
+            "preference_estimation": 0.8452,
+            "review_generation": 0.7417676426465214,
+            "overall_quality": 0.7934838213232607
+        },
+        "data_info": {
+            "evaluated_count": 50,
+            "original_simulation_count": 50,
+            "original_ground_truth_count": 400
+        }
+    }
+}
+{
+    "time": "2025-11-25T07:43:42.913852",
+    "task_set": "yelp",
+    "ablation": {
+        "use_memory": true,
+        "use_profile": true,
+        "use_consistency": true,
+        "prompt_version": 2
+    },
+    "results": {
+        "type": "simulation",
+        "metrics": {
+            "preference_estimation": 0.8404,
+            "review_generation": 0.758666990798871,
+            "overall_quality": 0.7995334953994355
+        },
+        "data_info": {
+            "evaluated_count": 50,
+            "original_simulation_count": 50,
+            "original_ground_truth_count": 400
+        }
+    }
+}
