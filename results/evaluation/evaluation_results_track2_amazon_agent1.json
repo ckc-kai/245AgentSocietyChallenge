@@ -1,21 +1,21 @@
 {
-    "time": "2025-11-23T06:29:36.894726"
+    "time": "2025-12-04T21:15:11.172609"
 }
 {
     "type": "recommendation",
     "metrics": {
-        "top_1_hit_rate": 0.3,
-        "top_3_hit_rate": 0.4,
-        "top_5_hit_rate": 0.6,
-        "average_hit_rate": 0.4333333333333333,
-        "total_scenarios": 10,
-        "top_1_hits": 3,
-        "top_3_hits": 4,
-        "top_5_hits": 6
+        "top_1_hit_rate": 0.23711340206185566,
+        "top_3_hit_rate": 0.41494845360824745,
+        "top_5_hit_rate": 0.5051546391752577,
+        "average_hit_rate": 0.38573883161512024,
+        "total_scenarios": 388,
+        "top_1_hits": 92,
+        "top_3_hits": 161,
+        "top_5_hits": 196
     },
     "data_info": {
-        "evaluated_count": 10,
-        "original_simulation_count": 10,
+        "evaluated_count": 388,
+        "original_simulation_count": 388,
         "original_ground_truth_count": 388
     }
 }

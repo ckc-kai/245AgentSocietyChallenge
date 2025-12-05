@@ -23,22 +23,12 @@ def num_tokens_from_string(string: str) -> int:
         return 0
 
 class MyRecommendationAgent(RecommendationAgent):
-    """
-    A custom recommendation agent for the Web Society Simulator.
-    This agent uses a generative memory module and a chain-of-thought reasoning module.
-    Generative memory allows the top 3 most relevant memories to be retrieved for reasoning.
-    Chain-of-thought reasoning enables step-by-step problem solving for ranking items.
-    """
     def __init__(self, llm: LLMBase):
         super().__init__(llm=llm)
         self.memory = MemoryGenerative(llm=self.llm)
         self.reasoning = ReasoningCOT(profile_type_prompt='', memory=None, llm=self.llm)
 
     def _parse_out(self, llm_response: str) -> list:
-        """
-        A helper function to safely parse the LLM's response.
-        There will be thoughts first then a ranked list at the end.
-        """
         try:
             # Find the last occurrence of a list pattern
             match = re.search(r"\[.*\]", llm_response, re.DOTALL)
@@ -55,11 +45,6 @@ class MyRecommendationAgent(RecommendationAgent):
             return []
 
     def workflow(self):
-        """
-        Generate recommendations by ranking candidate items
-        Returns:
-            list: Sorted list of item IDs (most recommended first)
-        """
         try:
             # Fetch user and task data
             user_id = self.task['user_id']
@@ -158,34 +143,17 @@ class MyRecommendationAgent(RecommendationAgent):
 
             result = self._parse_out(llm_response)
             
-            # Filter out invalid items (not in candidate list) - cleanup
             candidate_set = set(candidate_list)
             filtered_result = []
             for item in result:
                 if item in candidate_set:
                     filtered_result.append(item)
-                else:
-                    logger.warning(f"Filtered out invalid item: {item} (not in candidate list)")
             
             result = filtered_result
             
-            # Log if result is incomplete
-            if len(result) != len(candidate_list):
-                missing_count = len(candidate_set - set(result))
-                logger.warning(f"LLM output incomplete: Expected {len(candidate_list)} items, got {len(result)}. Missing {missing_count} items.")
-                logger.debug(f"LLM response (first 1000 chars): {llm_response[:1000]}")
-            
-            # If parsing completely failed, return empty list
             if not result:
-                logger.error("Failed to parse any valid items from LLM response. Returning empty list.")
-                logger.error(f"LLM response (first 1000 chars): {llm_response[:1000]}")
+                logger.error("Failed to parse any valid items from LLM response.")
                 return []
-            
-            with open(f'./results/generation_detail/rec_agent1.txt', 'a', encoding='utf-8') as f:
-                f.write(f'\n {datetime.now()}')
-                f.write(f'\n User: {user_id}')
-                f.write(f'\n Parsed Top 5 Recommendations: {result[:5]}')
-                f.write(f'\n Full Ranking: {json.dumps(result, indent=2)}\n')
             
             return result
         except Exception as e:
@@ -202,25 +170,18 @@ if __name__ == "__main__":
     else:
         logger.info("API key successfully loaded from environment variables.")
 
-    print("Starting simulation with MyRecommendationAgent and OpenAILLM...")
-    # Set the data
-    task_set = "amazon"  # "goodreads" or "yelp" or "amazon"
+    task_set = "amazon"
     simulator = Simulator(data_dir="./data/processed", device="auto", cache=True)
     simulator.set_task_and_groundtruth(
         task_dir=f"./example/track2/{task_set}/tasks", 
         groundtruth_dir=f"./example/track2/{task_set}/groundtruth"
     )
 
-    # Set the agent and LLM
     llm = OpenAILLM(api_key=openai_api, model="gpt-4.1")
     simulator.set_agent(MyRecommendationAgent)
     simulator.set_llm(llm)
 
-    # Run the simulation
-    # If you don't set the number of tasks, the simulator will run all tasks.
-    outputs = simulator.run_simulation(number_of_tasks=10, enable_threading=False, max_workers=1)
-    
-    # Evaluate the agent
+    outputs = simulator.run_simulation(number_of_tasks=400, enable_threading=False, max_workers=1)
     evaluation_results = simulator.evaluate()       
     with open(f'./results/evaluation/evaluation_results_track2_{task_set}_agent1.json', 'w') as f:
         time_info = {"time": datetime.now().isoformat()}
@@ -229,7 +190,5 @@ if __name__ == "__main__":
         json.dump(evaluation_results, f, indent=4)
         f.write('\n')
 
-    # Get evaluation history
-    evaluation_history = simulator.get_evaluation_history()
     print(f"Evaluation results: {evaluation_results}")
 

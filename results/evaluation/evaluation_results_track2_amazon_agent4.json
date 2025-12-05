@@ -1,0 +1,21 @@
+{
+    "time": "2025-12-03T22:39:29.749786"
+}
+{
+    "type": "recommendation",
+    "metrics": {
+        "top_1_hit_rate": 0.15721649484536082,
+        "top_3_hit_rate": 0.3582474226804124,
+        "top_5_hit_rate": 0.5309278350515464,
+        "average_hit_rate": 0.34879725085910646,
+        "total_scenarios": 388,
+        "top_1_hits": 61,
+        "top_3_hits": 139,
+        "top_5_hits": 206
+    },
+    "data_info": {
+        "evaluated_count": 388,
+        "original_simulation_count": 388,
+        "original_ground_truth_count": 388
+    }
+}
