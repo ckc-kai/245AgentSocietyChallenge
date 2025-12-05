@@ -41,6 +41,7 @@ pip install -e .
 Key dependencies include:
 - `openai` - OpenAI API client
 - `anthropic` - Claude API client
+- `google.generativeai`- Gemini API CLient
 - `langchain` - Memory and retrieval modules
 - `sentence-transformers` - Embedding models
 - `torch` - PyTorch for model operations
@@ -58,6 +59,7 @@ Create a `secrets.env` file in the project root with your API keys:
 ```env
 OPENAI_API_KEY=your_openai_api_key_here
 ANTHROPIC_API_KEY=your_anthropic_api_key_here
+GEMINI_API_KEY=your_gemini_api_key_here
 ```
 
 The agents will automatically load these keys when running.
@@ -114,6 +116,10 @@ python example/RecAgent4.py
 ```
 
 ### Running Ablation Studies
+For user simulation Agent3 ablation studies:
+```bash
+python ablationf.py
+```
 
 For recommendation Agent 2 ablation studies:
 ```bash
@@ -215,18 +221,18 @@ In each agent file, you can modify:
 
 Evaluation results are saved in `./results/evaluation/` with the following naming convention:
 - User Simulation: `evaluation_results_track1_{dataset}_{agent_name}.json`
+- Ablation Studies for User Simulation: `result_{variant}.json`
 - Recommendation: `evaluation_results_track2_{dataset}_{agent_name}.json`
-- Ablation Studies: `evaluation_results_track2_{dataset}_agent2_{variant}.json`
+- Ablation Studies for Recommendation: `evaluation_results_track2_{dataset}_agent2_{variant}.json`
 
 Each result file contains:
-- `type`: Task type ("simulation" or "recommendation")
 - `metrics`: Performance metrics (hit rates, preference estimation, review generation quality, etc.)
 - `data_info`: Information about evaluated tasks
 
 ### Generation Details
 
 If enabled, detailed LLM outputs are saved in `./results/generation_detail/`:
-- User Simulation: `sim_agent{1,2,3}.txt`
+- User Simulation: `reason_v1.txt`,`analyzer.txt`,`super_strong_analyzer_v1.0.txt`
 - Recommendation: `rec_agent{1,2,3,4}.txt`
 
 ## Evaluation Metrics
