@@ -41,7 +41,7 @@ pip install -e .
 Key dependencies include:
 - `openai` - OpenAI API client
 - `anthropic` - Claude API client
-- `google.generativeai`- Gemini API CLient
+- `google.generativeai` - Gemini API client
 - `langchain` - Memory and retrieval modules
 - `sentence-transformers` - Embedding models
 - `torch` - PyTorch for model operations
@@ -118,12 +118,12 @@ python example/RecAgent4.py
 ### Running Ablation Studies
 For user simulation Agent3 ablation studies:
 ```bash
-python ablationf.py
+python example/ablationf.py
 ```
 
 For recommendation Agent 2 ablation studies:
 ```bash
-python run_ablation_study.py
+python example/run_ablation_study.py
 ```
 
 Or run individual variants by modifying `ABLATION_VARIANT` in `example/RecAgent2_ablation.py`:
@@ -156,6 +156,8 @@ In each agent file, you can modify:
 │   ├── RecAgent3.py               # Recommendation Agent 3
 │   ├── RecAgent4.py               # Recommendation Agent 4
 │   ├── RecAgent_baseline.py       # Baseline recommendation agent
+│   ├── ablationf.py               # Ablation study for Agent 2
+│   ├── run_ablation_study.py      # Ablation study orchestrator for Agent 2
 │   ├── track1/                     # User simulation tasks and ground truth
 │   └── track2/                     # Recommendation tasks and ground truth
 ├── results/
