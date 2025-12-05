@@ -1,0 +1,964 @@
+
+============================================================
+User: AF6HG5ZKZR4N2BTWJ7FGMXZO3JEQ | Item: B09LLZN3V3
+Persona: {
+  "rating_stats": {
+    "avg": 3.5,
+    "std": 1.0,
+    "distribution": {},
+    "philosophy": "Unknown"
+  },
+  "writing_style": {
+    "avg_length": 50,
+    "verbosity": "moderate",
+    "emotion_level": "moderate",
+    "traits": [],
+    "common_words": []
+  },
+  "value_orientation": "Balanced",
+  "uses_comparisons": false,
+  "review_count": 0
+}
+Reasoning: {
+  "match_analysis": "The user has no prior reviews, so there's no direct comparison. The item has a good average rating (4.2) and a large number of ratings (443), suggesting it's generally well-received. The user's rating tendency is unknown, so we'll assume they are an average rater (around 3.5) with moderate standards.",
+  "aspect_predictions": {
+    "quality": {
+      "sentiment": "positive",
+      "note": "The features highlight 6-axis gyro and dual motors, suggesting good build and responsiveness. The replaceable joystick caps also indicate attention to detail."
+    },
+    "value": {
+      "sentiment": "neutral",
+      "note": "The price of $39.85 is moderate for a Switch controller. Without knowing the user's price sensitivity, it's hard to say if they'd consider it a great deal, but it's not excessively expensive."
+    },
+    "functionality": {
+      "sentiment": "positive",
+      "note": "Features like mappable back buttons and plug-and-play functionality are likely to be appreciated. The compatibility with both Switch and Switch OLED is a plus."
+    }
+  },
+  "predicted_rating": 4.0,
+  "rating_confidence": "medium",
+  "key_praise_points": [
+    "Mappable back buttons for customized control",
+    "Plug-and-play functionality for easy setup",
+    "Ergonomic design for comfortable handheld play"
+  ],
+  "key_criticism_points": [
+    "May not be as versatile as a full-sized Pro controller"
+  ]
+}
+Result: {
+  "stars": 4.0,
+  "review": "Error in generation"
+}
+
+============================================================
+User: AHJLIZ2I33CYSBMESAQRJ6QOIKKQ | Item: B0BFKDTY8M
+Persona: {
+  "rating_stats": {
+    "avg": 3.5,
+    "std": 1.0,
+    "distribution": {},
+    "philosophy": "Unknown"
+  },
+  "writing_style": {
+    "avg_length": 50,
+    "verbosity": "moderate",
+    "emotion_level": "moderate",
+    "traits": [],
+    "common_words": []
+  },
+  "value_orientation": "Balanced",
+  "uses_comparisons": false,
+  "review_count": 0
+}
+Reasoning: {
+  "match_analysis": "Using statistical prediction",
+  "aspect_predictions": {
+    "quality": {
+      "sentiment": "neutral",
+      "note": "Average expectation"
+    },
+    "value": {
+      "sentiment": "neutral",
+      "note": "Standard pricing"
+    },
+    "functionality": {
+      "sentiment": "neutral",
+      "note": "Basic functionality"
+    }
+  },
+  "predicted_rating": 3.5,
+  "rating_confidence": "low",
+  "key_praise_points": [
+    "Works as expected"
+  ],
+  "key_criticism_points": []
+}
+Result: {
+  "stars": 3.5,
+  "review": "Error in generation"
+}
+
+============================================================
+User: AE2KUXMITKIOF4TR5BPK3KLCQCGQ | Item: B004SPJP5O
+Persona: {
+  "rating_stats": {
+    "avg": 3.5,
+    "std": 1.0,
+    "distribution": {},
+    "philosophy": "Unknown"
+  },
+  "writing_style": {
+    "avg_length": 50,
+    "verbosity": "moderate",
+    "emotion_level": "moderate",
+    "traits": [],
+    "common_words": []
+  },
+  "value_orientation": "Balanced",
+  "uses_comparisons": false,
+  "review_count": 0
+}
+Reasoning: {
+  "match_analysis": "Using statistical prediction",
+  "aspect_predictions": {
+    "quality": {
+      "sentiment": "neutral",
+      "note": "Average expectation"
+    },
+    "value": {
+      "sentiment": "neutral",
+      "note": "Standard pricing"
+    },
+    "functionality": {
+      "sentiment": "neutral",
+      "note": "Basic functionality"
+    }
+  },
+  "predicted_rating": 3.5,
+  "rating_confidence": "low",
+  "key_praise_points": [
+    "Works as expected"
+  ],
+  "key_criticism_points": []
+}
+Result: {
+  "stars": 3.5,
+  "review": "Error in generation"
+}
+
+============================================================
+User: AHIJ2WZWTPK5EPJQQ7GLVKG5YDTA | Item: B06WWMGNV6
+Persona: {
+  "rating_stats": {
+    "avg": 3.5,
+    "std": 1.0,
+    "distribution": {},
+    "philosophy": "Unknown"
+  },
+  "writing_style": {
+    "avg_length": 50,
+    "verbosity": "moderate",
+    "emotion_level": "moderate",
+    "traits": [],
+    "common_words": []
+  },
+  "value_orientation": "Balanced",
+  "uses_comparisons": false,
+  "review_count": 0
+}
+Reasoning: {
+  "match_analysis": "Using statistical prediction",
+  "aspect_predictions": {
+    "quality": {
+      "sentiment": "neutral",
+      "note": "Average expectation"
+    },
+    "value": {
+      "sentiment": "neutral",
+      "note": "Standard pricing"
+    },
+    "functionality": {
+      "sentiment": "neutral",
+      "note": "Basic functionality"
+    }
+  },
+  "predicted_rating": 3.5,
+  "rating_confidence": "low",
+  "key_praise_points": [
+    "Works as expected"
+  ],
+  "key_criticism_points": []
+}
+Result: {
+  "stars": 3.5,
+  "review": "Error in generation"
+}
+
+============================================================
+User: AGWPXY5IPDBG6AB5UPBA46QTVP6Q | Item: B004Q7PTYU
+Persona: {
+  "rating_stats": {
+    "avg": 3.5,
+    "std": 1.0,
+    "distribution": {},
+    "philosophy": "Unknown"
+  },
+  "writing_style": {
+    "avg_length": 50,
+    "verbosity": "moderate",
+    "emotion_level": "moderate",
+    "traits": [],
+    "common_words": []
+  },
+  "value_orientation": "Balanced",
+  "uses_comparisons": false,
+  "review_count": 0
+}
+Reasoning: {
+  "match_analysis": "Using statistical prediction",
+  "aspect_predictions": {
+    "quality": {
+      "sentiment": "neutral",
+      "note": "Average expectation"
+    },
+    "value": {
+      "sentiment": "neutral",
+      "note": "Standard pricing"
+    },
+    "functionality": {
+      "sentiment": "neutral",
+      "note": "Basic functionality"
+    }
+  },
+  "predicted_rating": 3.5,
+  "rating_confidence": "low",
+  "key_praise_points": [
+    "Works as expected"
+  ],
+  "key_criticism_points": []
+}
+Result: {
+  "stars": 3.5,
+  "review": "Error in generation"
+}
+
+============================================================
+User: AG4KCSQL7DLCX6CT34GRSXWDGCDA | Item: B06VX78R9Z
+Persona: {
+  "rating_stats": {
+    "avg": 3.5,
+    "std": 1.0,
+    "distribution": {},
+    "philosophy": "Unknown"
+  },
+  "writing_style": {
+    "avg_length": 50,
+    "verbosity": "moderate",
+    "emotion_level": "moderate",
+    "traits": [],
+    "common_words": []
+  },
+  "value_orientation": "Balanced",
+  "uses_comparisons": false,
+  "review_count": 0
+}
+Reasoning: {
+  "match_analysis": "Using statistical prediction",
+  "aspect_predictions": {
+    "quality": {
+      "sentiment": "neutral",
+      "note": "Average expectation"
+    },
+    "value": {
+      "sentiment": "neutral",
+      "note": "Standard pricing"
+    },
+    "functionality": {
+      "sentiment": "neutral",
+      "note": "Basic functionality"
+    }
+  },
+  "predicted_rating": 3.5,
+  "rating_confidence": "low",
+  "key_praise_points": [
+    "Works as expected"
+  ],
+  "key_criticism_points": []
+}
+Result: {
+  "stars": 3.5,
+  "review": "Error in generation"
+}
+
+============================================================
+User: AH2O75JQRCGV733EIQTDGEEA2S6Q | Item: B07HYY6HNW
+Persona: {
+  "rating_stats": {
+    "avg": 3.5,
+    "std": 1.0,
+    "distribution": {},
+    "philosophy": "Unknown"
+  },
+  "writing_style": {
+    "avg_length": 50,
+    "verbosity": "moderate",
+    "emotion_level": "moderate",
+    "traits": [],
+    "common_words": []
+  },
+  "value_orientation": "Balanced",
+  "uses_comparisons": false,
+  "review_count": 0
+}
+Reasoning: {
+  "match_analysis": "Using statistical prediction",
+  "aspect_predictions": {
+    "quality": {
+      "sentiment": "neutral",
+      "note": "Average expectation"
+    },
+    "value": {
+      "sentiment": "neutral",
+      "note": "Standard pricing"
+    },
+    "functionality": {
+      "sentiment": "neutral",
+      "note": "Basic functionality"
+    }
+  },
+  "predicted_rating": 3.5,
+  "rating_confidence": "low",
+  "key_praise_points": [
+    "Works as expected"
+  ],
+  "key_criticism_points": []
+}
+Result: {
+  "stars": 3.5,
+  "review": "Error in generation"
+}
+
+============================================================
+User: AHQ4YE3S6CBP4NNP2KR5JGTVSS7Q | Item: B01DTJKPW6
+Persona: {
+  "rating_stats": {
+    "avg": 3.5,
+    "std": 1.0,
+    "distribution": {},
+    "philosophy": "Unknown"
+  },
+  "writing_style": {
+    "avg_length": 50,
+    "verbosity": "moderate",
+    "emotion_level": "moderate",
+    "traits": [],
+    "common_words": []
+  },
+  "value_orientation": "Balanced",
+  "uses_comparisons": false,
+  "review_count": 0
+}
+Reasoning: {
+  "match_analysis": "Using statistical prediction",
+  "aspect_predictions": {
+    "quality": {
+      "sentiment": "neutral",
+      "note": "Average expectation"
+    },
+    "value": {
+      "sentiment": "neutral",
+      "note": "Standard pricing"
+    },
+    "functionality": {
+      "sentiment": "neutral",
+      "note": "Basic functionality"
+    }
+  },
+  "predicted_rating": 3.5,
+  "rating_confidence": "low",
+  "key_praise_points": [
+    "Works as expected"
+  ],
+  "key_criticism_points": []
+}
+Result: {
+  "stars": 3.5,
+  "review": "Error in generation"
+}
+
+============================================================
+User: AFGTXM5Q437HAVYSIJO6NB2KN2TQ | Item: B0BRCNRQH9
+Persona: {
+  "rating_stats": {
+    "avg": 3.5,
+    "std": 1.0,
+    "distribution": {},
+    "philosophy": "Unknown"
+  },
+  "writing_style": {
+    "avg_length": 50,
+    "verbosity": "moderate",
+    "emotion_level": "moderate",
+    "traits": [],
+    "common_words": []
+  },
+  "value_orientation": "Balanced",
+  "uses_comparisons": false,
+  "review_count": 0
+}
+Reasoning: {
+  "match_analysis": "Using statistical prediction",
+  "aspect_predictions": {
+    "quality": {
+      "sentiment": "neutral",
+      "note": "Average expectation"
+    },
+    "value": {
+      "sentiment": "neutral",
+      "note": "Standard pricing"
+    },
+    "functionality": {
+      "sentiment": "neutral",
+      "note": "Basic functionality"
+    }
+  },
+  "predicted_rating": 3.5,
+  "rating_confidence": "low",
+  "key_praise_points": [
+    "Works as expected"
+  ],
+  "key_criticism_points": []
+}
+Result: {
+  "stars": 3.5,
+  "review": "Error in generation"
+}
+
+============================================================
+User: AHVFL44H3GI2ZC73FILMYGYTMLUA | Item: B085Q3LRFG
+Persona: {
+  "rating_stats": {
+    "avg": 3.5,
+    "std": 1.0,
+    "distribution": {},
+    "philosophy": "Unknown"
+  },
+  "writing_style": {
+    "avg_length": 50,
+    "verbosity": "moderate",
+    "emotion_level": "moderate",
+    "traits": [],
+    "common_words": []
+  },
+  "value_orientation": "Balanced",
+  "uses_comparisons": false,
+  "review_count": 0
+}
+Reasoning: {
+  "match_analysis": "Using statistical prediction",
+  "aspect_predictions": {
+    "quality": {
+      "sentiment": "neutral",
+      "note": "Average expectation"
+    },
+    "value": {
+      "sentiment": "neutral",
+      "note": "Standard pricing"
+    },
+    "functionality": {
+      "sentiment": "neutral",
+      "note": "Basic functionality"
+    }
+  },
+  "predicted_rating": 3.5,
+  "rating_confidence": "low",
+  "key_praise_points": [
+    "Works as expected"
+  ],
+  "key_criticism_points": []
+}
+Result: {
+  "stars": 3.5,
+  "review": "Error in generation"
+}
+
+============================================================
+User: AEYS47FHO3YVV3JTRURW26IJDJEQ | Item: B07D3GR1MK
+Persona: {
+  "rating_stats": {
+    "avg": 3.5,
+    "std": 1.0,
+    "distribution": {},
+    "philosophy": "Unknown"
+  },
+  "writing_style": {
+    "avg_length": 50,
+    "verbosity": "moderate",
+    "emotion_level": "moderate",
+    "traits": [],
+    "common_words": []
+  },
+  "value_orientation": "Balanced",
+  "uses_comparisons": false,
+  "review_count": 0
+}
+Reasoning: {
+  "match_analysis": "Using statistical prediction",
+  "aspect_predictions": {
+    "quality": {
+      "sentiment": "neutral",
+      "note": "Average expectation"
+    },
+    "value": {
+      "sentiment": "neutral",
+      "note": "Standard pricing"
+    },
+    "functionality": {
+      "sentiment": "neutral",
+      "note": "Basic functionality"
+    }
+  },
+  "predicted_rating": 3.5,
+  "rating_confidence": "low",
+  "key_praise_points": [
+    "Works as expected"
+  ],
+  "key_criticism_points": []
+}
+Result: {
+  "stars": 3.5,
+  "review": "Error in generation"
+}
+
+============================================================
+User: AE3Z4ZV2QZYZUDS6XQHLH52JYJRQ | Item: B0952SQ255
+Persona: {
+  "rating_stats": {
+    "avg": 3.5,
+    "std": 1.0,
+    "distribution": {},
+    "philosophy": "Unknown"
+  },
+  "writing_style": {
+    "avg_length": 50,
+    "verbosity": "moderate",
+    "emotion_level": "moderate",
+    "traits": [],
+    "common_words": []
+  },
+  "value_orientation": "Balanced",
+  "uses_comparisons": false,
+  "review_count": 0
+}
+Reasoning: {
+  "match_analysis": "Using statistical prediction",
+  "aspect_predictions": {
+    "quality": {
+      "sentiment": "neutral",
+      "note": "Average expectation"
+    },
+    "value": {
+      "sentiment": "neutral",
+      "note": "Standard pricing"
+    },
+    "functionality": {
+      "sentiment": "neutral",
+      "note": "Basic functionality"
+    }
+  },
+  "predicted_rating": 3.5,
+  "rating_confidence": "low",
+  "key_praise_points": [
+    "Works as expected"
+  ],
+  "key_criticism_points": []
+}
+Result: {
+  "stars": 3.5,
+  "review": "Error in generation"
+}
+
+============================================================
+User: AGCKAIIXXEJLBFUVPALAOVTZ7WLA | Item: B00237VXHM
+Persona: {
+  "rating_stats": {
+    "avg": 3.5,
+    "std": 1.0,
+    "distribution": {},
+    "philosophy": "Unknown"
+  },
+  "writing_style": {
+    "avg_length": 50,
+    "verbosity": "moderate",
+    "emotion_level": "moderate",
+    "traits": [],
+    "common_words": []
+  },
+  "value_orientation": "Balanced",
+  "uses_comparisons": false,
+  "review_count": 0
+}
+Reasoning: {
+  "match_analysis": "Using statistical prediction",
+  "aspect_predictions": {
+    "quality": {
+      "sentiment": "neutral",
+      "note": "Average expectation"
+    },
+    "value": {
+      "sentiment": "neutral",
+      "note": "Standard pricing"
+    },
+    "functionality": {
+      "sentiment": "neutral",
+      "note": "Basic functionality"
+    }
+  },
+  "predicted_rating": 3.5,
+  "rating_confidence": "low",
+  "key_praise_points": [
+    "Works as expected"
+  ],
+  "key_criticism_points": []
+}
+Result: {
+  "stars": 3.5,
+  "review": "Error in generation"
+}
+
+============================================================
+User: AHQMVG647DKQ4IVJXYN6RQX5GEQA | Item: B005DMC4K4
+Persona: {
+  "rating_stats": {
+    "avg": 3.5,
+    "std": 1.0,
+    "distribution": {},
+    "philosophy": "Unknown"
+  },
+  "writing_style": {
+    "avg_length": 50,
+    "verbosity": "moderate",
+    "emotion_level": "moderate",
+    "traits": [],
+    "common_words": []
+  },
+  "value_orientation": "Balanced",
+  "uses_comparisons": false,
+  "review_count": 0
+}
+Reasoning: {
+  "match_analysis": "Using statistical prediction",
+  "aspect_predictions": {
+    "quality": {
+      "sentiment": "neutral",
+      "note": "Average expectation"
+    },
+    "value": {
+      "sentiment": "neutral",
+      "note": "Standard pricing"
+    },
+    "functionality": {
+      "sentiment": "neutral",
+      "note": "Basic functionality"
+    }
+  },
+  "predicted_rating": 3.5,
+  "rating_confidence": "low",
+  "key_praise_points": [
+    "Works as expected"
+  ],
+  "key_criticism_points": []
+}
+Result: {
+  "stars": 3.5,
+  "review": "Error in generation"
+}
+
+============================================================
+User: AFQHO5GPRKEMK7AQSZXQNZHHH5BA | Item: B0BSB847BR
+Persona: {
+  "rating_stats": {
+    "avg": 3.5,
+    "std": 1.0,
+    "distribution": {},
+    "philosophy": "Unknown"
+  },
+  "writing_style": {
+    "avg_length": 50,
+    "verbosity": "moderate",
+    "emotion_level": "moderate",
+    "traits": [],
+    "common_words": []
+  },
+  "value_orientation": "Balanced",
+  "uses_comparisons": false,
+  "review_count": 0
+}
+Reasoning: {
+  "match_analysis": "Using statistical prediction",
+  "aspect_predictions": {
+    "quality": {
+      "sentiment": "neutral",
+      "note": "Average expectation"
+    },
+    "value": {
+      "sentiment": "neutral",
+      "note": "Standard pricing"
+    },
+    "functionality": {
+      "sentiment": "neutral",
+      "note": "Basic functionality"
+    }
+  },
+  "predicted_rating": 3.5,
+  "rating_confidence": "low",
+  "key_praise_points": [
+    "Works as expected"
+  ],
+  "key_criticism_points": []
+}
+Result: {
+  "stars": 3.5,
+  "review": "Error in generation"
+}
+
+============================================================
+User: AGPFAUS6AZPNXFZHJGJGBPLPLFJQ | Item: B0BW8SZFT4
+Persona: {
+  "rating_stats": {
+    "avg": 3.5,
+    "std": 1.0,
+    "distribution": {},
+    "philosophy": "Unknown"
+  },
+  "writing_style": {
+    "avg_length": 50,
+    "verbosity": "moderate",
+    "emotion_level": "moderate",
+    "traits": [],
+    "common_words": []
+  },
+  "value_orientation": "Balanced",
+  "uses_comparisons": false,
+  "review_count": 0
+}
+Reasoning: {
+  "match_analysis": "Using statistical prediction",
+  "aspect_predictions": {
+    "quality": {
+      "sentiment": "neutral",
+      "note": "Average expectation"
+    },
+    "value": {
+      "sentiment": "neutral",
+      "note": "Standard pricing"
+    },
+    "functionality": {
+      "sentiment": "neutral",
+      "note": "Basic functionality"
+    }
+  },
+  "predicted_rating": 3.5,
+  "rating_confidence": "low",
+  "key_praise_points": [
+    "Works as expected"
+  ],
+  "key_criticism_points": []
+}
+Result: {
+  "stars": 3.5,
+  "review": "Error in generation"
+}
+
+============================================================
+User: AGDYCOFCQL62MHNKR3JV75BDN5JA | Item: B0BRTQ2F58
+Persona: {
+  "rating_stats": {
+    "avg": 3.5,
+    "std": 1.0,
+    "distribution": {},
+    "philosophy": "Unknown"
+  },
+  "writing_style": {
+    "avg_length": 50,
+    "verbosity": "moderate",
+    "emotion_level": "moderate",
+    "traits": [],
+    "common_words": []
+  },
+  "value_orientation": "Balanced",
+  "uses_comparisons": false,
+  "review_count": 0
+}
+Reasoning: {
+  "match_analysis": "Using statistical prediction",
+  "aspect_predictions": {
+    "quality": {
+      "sentiment": "neutral",
+      "note": "Average expectation"
+    },
+    "value": {
+      "sentiment": "neutral",
+      "note": "Standard pricing"
+    },
+    "functionality": {
+      "sentiment": "neutral",
+      "note": "Basic functionality"
+    }
+  },
+  "predicted_rating": 3.5,
+  "rating_confidence": "low",
+  "key_praise_points": [
+    "Works as expected"
+  ],
+  "key_criticism_points": []
+}
+Result: {
+  "stars": 3.5,
+  "review": "Error in generation"
+}
+
+============================================================
+User: AGQHJMQQV2NGGNJEAAZSA7XG2QVA | Item: B07K58JH9J
+Persona: {
+  "rating_stats": {
+    "avg": 3.5,
+    "std": 1.0,
+    "distribution": {},
+    "philosophy": "Unknown"
+  },
+  "writing_style": {
+    "avg_length": 50,
+    "verbosity": "moderate",
+    "emotion_level": "moderate",
+    "traits": [],
+    "common_words": []
+  },
+  "value_orientation": "Balanced",
+  "uses_comparisons": false,
+  "review_count": 0
+}
+Reasoning: {
+  "match_analysis": "Using statistical prediction",
+  "aspect_predictions": {
+    "quality": {
+      "sentiment": "neutral",
+      "note": "Average expectation"
+    },
+    "value": {
+      "sentiment": "neutral",
+      "note": "Standard pricing"
+    },
+    "functionality": {
+      "sentiment": "neutral",
+      "note": "Basic functionality"
+    }
+  },
+  "predicted_rating": 3.5,
+  "rating_confidence": "low",
+  "key_praise_points": [
+    "Works as expected"
+  ],
+  "key_criticism_points": []
+}
+Result: {
+  "stars": 3.5,
+  "review": "Error in generation"
+}
+
+============================================================
+User: AFPCTW2KY4XII4YMKS7DNUWJGEJQ | Item: B09CM362L9
+Persona: {
+  "rating_stats": {
+    "avg": 3.5,
+    "std": 1.0,
+    "distribution": {},
+    "philosophy": "Unknown"
+  },
+  "writing_style": {
+    "avg_length": 50,
+    "verbosity": "moderate",
+    "emotion_level": "moderate",
+    "traits": [],
+    "common_words": []
+  },
+  "value_orientation": "Balanced",
+  "uses_comparisons": false,
+  "review_count": 0
+}
+Reasoning: {
+  "match_analysis": "Using statistical prediction",
+  "aspect_predictions": {
+    "quality": {
+      "sentiment": "neutral",
+      "note": "Average expectation"
+    },
+    "value": {
+      "sentiment": "neutral",
+      "note": "Standard pricing"
+    },
+    "functionality": {
+      "sentiment": "neutral",
+      "note": "Basic functionality"
+    }
+  },
+  "predicted_rating": 3.5,
+  "rating_confidence": "low",
+  "key_praise_points": [
+    "Works as expected"
+  ],
+  "key_criticism_points": []
+}
+Result: {
+  "stars": 3.5,
+  "review": "Error in generation"
+}
+
+============================================================
+User: AHQHEXP6QTHOPKQ5POLQDIFAUYFQ | Item: B0BMDP18VQ
+Persona: {
+  "rating_stats": {
+    "avg": 3.5,
+    "std": 1.0,
+    "distribution": {},
+    "philosophy": "Unknown"
+  },
+  "writing_style": {
+    "avg_length": 50,
+    "verbosity": "moderate",
+    "emotion_level": "moderate",
+    "traits": [],
+    "common_words": []
+  },
+  "value_orientation": "Balanced",
+  "uses_comparisons": false,
+  "review_count": 0
+}
+Reasoning: {
+  "match_analysis": "Using statistical prediction",
+  "aspect_predictions": {
+    "quality": {
+      "sentiment": "neutral",
+      "note": "Average expectation"
+    },
+    "value": {
+      "sentiment": "neutral",
+      "note": "Standard pricing"
+    },
+    "functionality": {
+      "sentiment": "neutral",
+      "note": "Basic functionality"
+    }
+  },
+  "predicted_rating": 3.5,
+  "rating_confidence": "low",
+  "key_praise_points": [
+    "Works as expected"
+  ],
+  "key_criticism_points": []
+}
+Result: {
+  "stars": 3.5,
+  "review": "Error in generation"
+}

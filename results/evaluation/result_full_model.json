@@ -1,12 +1,12 @@
 {
-    "ablation": "A3_MinimalPrompt",
-    "time": "2025-11-26T03:10:23.068330",
+    "time": "2025-12-05T06:50:09.200724",
+    "config": {},
     "results": {
         "type": "simulation",
         "metrics": {
-            "preference_estimation": 0.822,
-            "review_generation": 0.8647115491725298,
-            "overall_quality": 0.8433557745862649
+            "preference_estimation": 0.8519999999999999,
+            "review_generation": 0.8503217351150887,
+            "overall_quality": 0.8511608675575443
         },
         "data_info": {
             "evaluated_count": 50,

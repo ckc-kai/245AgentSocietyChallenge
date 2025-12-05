@@ -1,0 +1,19 @@
+{
+    "time": "2025-12-05T07:17:54.917901",
+    "config": {
+        "reduced_prompt": true
+    },
+    "results": {
+        "type": "simulation",
+        "metrics": {
+            "preference_estimation": 0.8599999999999999,
+            "review_generation": 0.8498543354669246,
+            "overall_quality": 0.8549271677334622
+        },
+        "data_info": {
+            "evaluated_count": 50,
+            "original_simulation_count": 50,
+            "original_ground_truth_count": 400
+        }
+    }
+}
