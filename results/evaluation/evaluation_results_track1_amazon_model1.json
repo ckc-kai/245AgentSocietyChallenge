@@ -1,0 +1,48 @@
+{
+    "time": "2025-11-26T05:47:51.864187",
+    "results": {
+        "type": "simulation",
+        "metrics": {
+            "preference_estimation": 0.5697500000000011,
+            "review_generation": 0.6683142462945066,
+            "overall_quality": 0.6190321231472539
+        },
+        "data_info": {
+            "evaluated_count": 400,
+            "original_simulation_count": 400,
+            "original_ground_truth_count": 400
+        }
+    }
+}
+{
+    "time": "2025-12-02T04:33:48.090164",
+    "results": {
+        "type": "simulation",
+        "metrics": {
+            "preference_estimation": 0.855,
+            "review_generation": 0.8786916294104591,
+            "overall_quality": 0.8668458147052296
+        },
+        "data_info": {
+            "evaluated_count": 20,
+            "original_simulation_count": 20,
+            "original_ground_truth_count": 400
+        }
+    }
+}
+{
+    "time": "2025-12-02T05:19:51.341389",
+    "results": {
+        "type": "simulation",
+        "metrics": {
+            "preference_estimation": 0.8654999999999996,
+            "review_generation": 0.8787884999208133,
+            "overall_quality": 0.8721442499604064
+        },
+        "data_info": {
+            "evaluated_count": 400,
+            "original_simulation_count": 400,
+            "original_ground_truth_count": 400
+        }
+    }
+}

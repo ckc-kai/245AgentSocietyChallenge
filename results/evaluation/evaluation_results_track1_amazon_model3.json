@@ -1,0 +1,64 @@
+{
+    "time": "2025-12-02T06:18:58.900735",
+    "results": {
+        "type": "simulation",
+        "metrics": {
+            "preference_estimation": 0.8400000000000001,
+            "review_generation": 0.650228662368664,
+            "overall_quality": 0.745114331184332
+        },
+        "data_info": {
+            "evaluated_count": 10,
+            "original_simulation_count": 10,
+            "original_ground_truth_count": 400
+        }
+    }
+}
+{
+    "time": "2025-12-02T06:40:31.136973",
+    "results": {
+        "type": "simulation",
+        "metrics": {
+            "preference_estimation": 0.86,
+            "review_generation": 0.6672467363341703,
+            "overall_quality": 0.7636233681670852
+        },
+        "data_info": {
+            "evaluated_count": 10,
+            "original_simulation_count": 10,
+            "original_ground_truth_count": 400
+        }
+    }
+}
+{
+    "time": "2025-12-02T07:39:33.194829",
+    "results": {
+        "type": "simulation",
+        "metrics": {
+            "preference_estimation": 0.84,
+            "review_generation": 0.85611354839736,
+            "overall_quality": 0.84805677419868
+        },
+        "data_info": {
+            "evaluated_count": 10,
+            "original_simulation_count": 10,
+            "original_ground_truth_count": 400
+        }
+    }
+}
+{
+    "time": "2025-12-05T06:27:18.079959",
+    "results": {
+        "type": "simulation",
+        "metrics": {
+            "preference_estimation": 0.8432499999999996,
+            "review_generation": 0.8298768415994294,
+            "overall_quality": 0.8365634207997146
+        },
+        "data_info": {
+            "evaluated_count": 400,
+            "original_simulation_count": 400,
+            "original_ground_truth_count": 400
+        }
+    }
+}
