@@ -176,11 +176,11 @@ if __name__ == "__main__":
         groundtruth_dir=f"./example/track2/{task_set}/groundtruth"
     )
 
-    llm = OpenAILLM(api_key=openai_api, model="gpt-3.5-turbo")
+    llm = OpenAILLM(api_key=openai_api, model="gpt-4o-mini")  # 128k context window
     simulator.set_agent(MyRecommendationAgent)
     simulator.set_llm(llm)
 
-    outputs = simulator.run_simulation(number_of_tasks=10, enable_threading=False, max_workers=1)
+    outputs = simulator.run_simulation(number_of_tasks=400, enable_threading=False, max_workers=1)
     evaluation_results = simulator.evaluate()
     
     with open(f'./results/evaluation/evaluation_results_track2_{task_set}_baseline.json', 'w') as f:
